@@ -1,0 +1,36 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<div class="rr">
+    <h1>Your Personalized Recommendations</h1> 
+    <p>Total Calories: <strong>{{ bmr }}</strong> <strong>{{ category }}</strong></p>
+
+    {% if message %}
+        <p style="color: red; font-size: 18px; text-align: center;">{{ message }}</p>
+    {% else %}
+        <div class="recommendations-container">
+            <h3 style="text-align: center; color: #333;">Recommended Foods:</h3>
+            <div class="recommendation-list">
+                {% for food in recommendations %}
+                <div class="food-item">
+                    <div class="food-details">
+                        <h4 style="color: cadetblue;">{{ food.Name }}</h4>
+                        <p><strong>Type:</strong> {{ food.Type }}</p>
+                        <p><strong>Calories:</strong> {{ food.Calories }} kcal</p>
+                        <p><strong>Proteins:</strong> {{ food.Proteins }} g</p>
+                        <p><strong>Fats:</strong> {{ food.Fats }} g</p>
+                        <p><strong>Carbohydrates:</strong> {{ food.Carbohydrates }} g</p>
+                    </div>
+                    <div class="nutritional-graph-container">
+                        <h4 style="color: cadetblue;">Nutritional Breakdown</h4>
+                        <div class="nutritional-graph">
+                            <img src="{{ food.GraphURL }}" alt="Nutritional Graph for {{ food.Name }}" style="max-width: 100%; height: auto; border-radius: 8px;">
+                        </div>
+                    </div>
+                </div>
+                {% endfor %}
+            </div>
+        </div>
+    {% endif %}
+</div>
+{% endblock %}

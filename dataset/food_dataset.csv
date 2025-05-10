@@ -1,0 +1,5001 @@
+Name,Type,Calories,Proteins,Fats,Carbohydrates
+Apple,Fruit,52,0.3,0.2,14
+Apple,Fruit,52,0.3,0.2,14
+Apple,Fruit,52,0.3,0.2,14
+Almonds,Nuts,575,21.0,49.0,22
+Chicken Breast,Meat,165,31.0,3.6,0
+Almonds,Nuts,575,21.0,49.0,22
+Almonds,Nuts,575,21.0,49.0,22
+Broccoli,Vegetable,55,3.7,0.6,11
+Brown Rice,Grain,123,2.7,1.0,25
+Brown Rice,Grain,123,2.7,1.0,25
+Brown Rice,Grain,123,2.7,1.0,25
+Brown Rice,Grain,123,2.7,1.0,25
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Apple,Fruit,52,0.3,0.2,14
+Chicken Breast,Meat,165,31.0,3.6,0
+Chicken Breast,Meat,165,31.0,3.6,0
+Chicken Breast,Meat,165,31.0,3.6,0
+Banana,Fruit,89,1.1,0.3,23
+Brown Rice,Grain,123,2.7,1.0,25
+Chicken Breast,Meat,165,31.0,3.6,0
+Apple,Fruit,52,0.3,0.2,14
+Brown Rice,Grain,123,2.7,1.0,25
+Apple,Fruit,52,0.3,0.2,14
+Brown Rice,Grain,123,2.7,1.0,25
+Brown Rice,Grain,123,2.7,1.0,25
+Apple,Fruit,52,0.3,0.2,14
+Apple,Fruit,52,0.3,0.2,14
+Banana,Fruit,89,1.1,0.3,23
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Chicken Breast,Meat,165,31.0,3.6,0
+Broccoli,Vegetable,55,3.7,0.6,11
+Broccoli,Vegetable,55,3.7,0.6,11
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Chicken Breast,Meat,165,31.0,3.6,0
+Banana,Fruit,89,1.1,0.3,23
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Chicken Breast,Meat,165,31.0,3.6,0
+Apple,Fruit,52,0.3,0.2,14
+Chicken Breast,Meat,165,31.0,3.6,0
+Banana,Fruit,89,1.1,0.3,23
+Almonds,Nuts,575,21.0,49.0,22
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Broccoli,Vegetable,55,3.7,0.6,11
+Brown Rice,Grain,123,2.7,1.0,25
+Chicken Breast,Meat,165,31.0,3.6,0
+Apple,Fruit,52,0.3,0.2,14
+Chicken Breast,Meat,165,31.0,3.6,0
+Apple,Fruit,52,0.3,0.2,14
+Brown Rice,Grain,123,2.7,1.0,25
+Almonds,Nuts,575,21.0,49.0,22
+Chicken Breast,Meat,165,31.0,3.6,0
+Brown Rice,Grain,123,2.7,1.0,25
+Almonds,Nuts,575,21.0,49.0,22
+Chicken Breast,Meat,165,31.0,3.6,0
+Chicken Breast,Meat,165,31.0,3.6,0
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Almonds,Nuts,575,21.0,49.0,22
+Banana,Fruit,89,1.1,0.3,23
+Apple,Fruit,52,0.3,0.2,14
+Apple,Fruit,52,0.3,0.2,14
+Apple,Fruit,52,0.3,0.2,14
+Chicken Breast,Meat,165,31.0,3.6,0
+Chicken Breast,Meat,165,31.0,3.6,0
+Almonds,Nuts,575,21.0,49.0,22
+Almonds,Nuts,575,21.0,49.0,22
+Almonds,Nuts,575,21.0,49.0,22
+Brown Rice,Grain,123,2.7,1.0,25
+Almonds,Nuts,575,21.0,49.0,22
+Chicken Breast,Meat,165,31.0,3.6,0
+Apple,Fruit,52,0.3,0.2,14
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Chicken Breast,Meat,165,31.0,3.6,0
+Apple,Fruit,52,0.3,0.2,14
+Apple,Fruit,52,0.3,0.2,14
+Banana,Fruit,89,1.1,0.3,23
+Apple,Fruit,52,0.3,0.2,14
+Chicken Breast,Meat,165,31.0,3.6,0
+Brown Rice,Grain,123,2.7,1.0,25
+Almonds,Nuts,575,21.0,49.0,22
+Broccoli,Vegetable,55,3.7,0.6,11
+Banana,Fruit,89,1.1,0.3,23
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Brown Rice,Grain,123,2.7,1.0,25
+Brown Rice,Grain,123,2.7,1.0,25
+Chicken Breast,Meat,165,31.0,3.6,0
+Apple,Fruit,52,0.3,0.2,14
+Brown Rice,Grain,123,2.7,1.0,25
+Almonds,Nuts,575,21.0,49.0,22
+Chicken Breast,Meat,165,31.0,3.6,0
+Apple,Fruit,52,0.3,0.2,14
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Brown Rice,Grain,123,2.7,1.0,25
+Brown Rice,Grain,123,2.7,1.0,25
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Almonds,Nuts,575,21.0,49.0,22
+Apple,Fruit,52,0.3,0.2,14
+Broccoli,Vegetable,55,3.7,0.6,11
+Chicken Breast,Meat,165,31.0,3.6,0
+Almonds,Nuts,575,21.0,49.0,22
+Almonds,Nuts,575,21.0,49.0,22
+Apple,Fruit,52,0.3,0.2,14
+Chicken Breast,Meat,165,31.0,3.6,0
+Apple,Fruit,52,0.3,0.2,14
+Apple,Fruit,52,0.3,0.2,14
+Chicken Breast,Meat,165,31.0,3.6,0
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Almonds,Nuts,575,21.0,49.0,22
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Apple,Fruit,52,0.3,0.2,14
+Chicken Breast,Meat,165,31.0,3.6,0
+Brown Rice,Grain,123,2.7,1.0,25
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Broccoli,Vegetable,55,3.7,0.6,11
+Brown Rice,Grain,123,2.7,1.0,25
+Almonds,Nuts,575,21.0,49.0,22
+Chicken Breast,Meat,165,31.0,3.6,0
+Almonds,Nuts,575,21.0,49.0,22
+Apple,Fruit,52,0.3,0.2,14
+Chicken Breast,Meat,165,31.0,3.6,0
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Apple,Fruit,52,0.3,0.2,14
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Apple,Fruit,52,0.3,0.2,14
+Almonds,Nuts,575,21.0,49.0,22
+Banana,Fruit,89,1.1,0.3,23
+Almonds,Nuts,575,21.0,49.0,22
+Apple,Fruit,52,0.3,0.2,14
+Banana,Fruit,89,1.1,0.3,23
+Chicken Breast,Meat,165,31.0,3.6,0
+Chicken Breast,Meat,165,31.0,3.6,0
+Apple,Fruit,52,0.3,0.2,14
+Banana,Fruit,89,1.1,0.3,23
+Almonds,Nuts,575,21.0,49.0,22
+Apple,Fruit,52,0.3,0.2,14
+Almonds,Nuts,575,21.0,49.0,22
+Broccoli,Vegetable,55,3.7,0.6,11
+Chicken Breast,Meat,165,31.0,3.6,0
+Chicken Breast,Meat,165,31.0,3.6,0
+Apple,Fruit,52,0.3,0.2,14
+Banana,Fruit,89,1.1,0.3,23
+Banana,Fruit,89,1.1,0.3,23
+Brown Rice,Grain,123,2.7,1.0,25
+Brown Rice,Grain,123,2.7,1.0,25
+Apple,Fruit,52,0.3,0.2,14
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Apple,Fruit,52,0.3,0.2,14
+Chicken Breast,Meat,165,31.0,3.6,0
+Almonds,Nuts,575,21.0,49.0,22
+Apple,Fruit,52,0.3,0.2,14
+Apple,Fruit,52,0.3,0.2,14
+Chicken Breast,Meat,165,31.0,3.6,0
+Brown Rice,Grain,123,2.7,1.0,25
+Almonds,Nuts,575,21.0,49.0,22
+Brown Rice,Grain,123,2.7,1.0,25
+Apple,Fruit,52,0.3,0.2,14
+Chicken Breast,Meat,165,31.0,3.6,0
+Chicken Breast,Meat,165,31.0,3.6,0
+Banana,Fruit,89,1.1,0.3,23
+Brown Rice,Grain,123,2.7,1.0,25
+Brown Rice,Grain,123,2.7,1.0,25
+Apple,Fruit,52,0.3,0.2,14
+Apple,Fruit,52,0.3,0.2,14
+Banana,Fruit,89,1.1,0.3,23
+Almonds,Nuts,575,21.0,49.0,22
+Brown Rice,Grain,123,2.7,1.0,25
+Chicken Breast,Meat,165,31.0,3.6,0
+Almonds,Nuts,575,21.0,49.0,22
+Almonds,Nuts,575,21.0,49.0,22
+Brown Rice,Grain,123,2.7,1.0,25
+Brown Rice,Grain,123,2.7,1.0,25
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Chicken Breast,Meat,165,31.0,3.6,0
+Apple,Fruit,52,0.3,0.2,14
+Broccoli,Vegetable,55,3.7,0.6,11
+Chicken Breast,Meat,165,31.0,3.6,0
+Chicken Breast,Meat,165,31.0,3.6,0
+Chicken Breast,Meat,165,31.0,3.6,0
+Chicken Breast,Meat,165,31.0,3.6,0
+Broccoli,Vegetable,55,3.7,0.6,11
+Brown Rice,Grain,123,2.7,1.0,25
+Chicken Breast,Meat,165,31.0,3.6,0
+Brown Rice,Grain,123,2.7,1.0,25
+Chicken Breast,Meat,165,31.0,3.6,0
+Almonds,Nuts,575,21.0,49.0,22
+Apple,Fruit,52,0.3,0.2,14
+Brown Rice,Grain,123,2.7,1.0,25
+Chicken Breast,Meat,165,31.0,3.6,0
+Broccoli,Vegetable,55,3.7,0.6,11
+Chicken Breast,Meat,165,31.0,3.6,0
+Chicken Breast,Meat,165,31.0,3.6,0
+Almonds,Nuts,575,21.0,49.0,22
+Chicken Breast,Meat,165,31.0,3.6,0
+Brown Rice,Grain,123,2.7,1.0,25
+Almonds,Nuts,575,21.0,49.0,22
+Brown Rice,Grain,123,2.7,1.0,25
+Apple,Fruit,52,0.3,0.2,14
+Chicken Breast,Meat,165,31.0,3.6,0
+Apple,Fruit,52,0.3,0.2,14
+Apple,Fruit,52,0.3,0.2,14
+Almonds,Nuts,575,21.0,49.0,22
+Chicken Breast,Meat,165,31.0,3.6,0
+Broccoli,Vegetable,55,3.7,0.6,11
+Banana,Fruit,89,1.1,0.3,23
+Apple,Fruit,52,0.3,0.2,14
+Chicken Breast,Meat,165,31.0,3.6,0
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Banana,Fruit,89,1.1,0.3,23
+Chicken Breast,Meat,165,31.0,3.6,0
+Apple,Fruit,52,0.3,0.2,14
+Almonds,Nuts,575,21.0,49.0,22
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Almonds,Nuts,575,21.0,49.0,22
+Almonds,Nuts,575,21.0,49.0,22
+Broccoli,Vegetable,55,3.7,0.6,11
+Broccoli,Vegetable,55,3.7,0.6,11
+Brown Rice,Grain,123,2.7,1.0,25
+Almonds,Nuts,575,21.0,49.0,22
+Apple,Fruit,52,0.3,0.2,14
+Apple,Fruit,52,0.3,0.2,14
+Brown Rice,Grain,123,2.7,1.0,25
+Apple,Fruit,52,0.3,0.2,14
+Chicken Breast,Meat,165,31.0,3.6,0
+Chicken Breast,Meat,165,31.0,3.6,0
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Brown Rice,Grain,123,2.7,1.0,25
+Brown Rice,Grain,123,2.7,1.0,25
+Almonds,Nuts,575,21.0,49.0,22
+Almonds,Nuts,575,21.0,49.0,22
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Chicken Breast,Meat,165,31.0,3.6,0
+Banana,Fruit,89,1.1,0.3,23
+Apple,Fruit,52,0.3,0.2,14
+Broccoli,Vegetable,55,3.7,0.6,11
+Chicken Breast,Meat,165,31.0,3.6,0
+Almonds,Nuts,575,21.0,49.0,22
+Brown Rice,Grain,123,2.7,1.0,25
+Apple,Fruit,52,0.3,0.2,14
+Broccoli,Vegetable,55,3.7,0.6,11
+Broccoli,Vegetable,55,3.7,0.6,11
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Apple,Fruit,52,0.3,0.2,14
+Brown Rice,Grain,123,2.7,1.0,25
+Almonds,Nuts,575,21.0,49.0,22
+Apple,Fruit,52,0.3,0.2,14
+Broccoli,Vegetable,55,3.7,0.6,11
+Apple,Fruit,52,0.3,0.2,14
+Broccoli,Vegetable,55,3.7,0.6,11
+Chicken Breast,Meat,165,31.0,3.6,0
+Broccoli,Vegetable,55,3.7,0.6,11
+Apple,Fruit,52,0.3,0.2,14
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Almonds,Nuts,575,21.0,49.0,22
+Almonds,Nuts,575,21.0,49.0,22
+Almonds,Nuts,575,21.0,49.0,22
+Brown Rice,Grain,123,2.7,1.0,25
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Brown Rice,Grain,123,2.7,1.0,25
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Almonds,Nuts,575,21.0,49.0,22
+Almonds,Nuts,575,21.0,49.0,22
+Almonds,Nuts,575,21.0,49.0,22
+Almonds,Nuts,575,21.0,49.0,22
+Apple,Fruit,52,0.3,0.2,14
+Chicken Breast,Meat,165,31.0,3.6,0
+Chicken Breast,Meat,165,31.0,3.6,0
+Banana,Fruit,89,1.1,0.3,23
+Chicken Breast,Meat,165,31.0,3.6,0
+Banana,Fruit,89,1.1,0.3,23
+Banana,Fruit,89,1.1,0.3,23
+Brown Rice,Grain,123,2.7,1.0,25
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Almonds,Nuts,575,21.0,49.0,22
+Apple,Fruit,52,0.3,0.2,14
+Chicken Breast,Meat,165,31.0,3.6,0
+Broccoli,Vegetable,55,3.7,0.6,11
+Chicken Breast,Meat,165,31.0,3.6,0
+Chicken Breast,Meat,165,31.0,3.6,0
+Broccoli,Vegetable,55,3.7,0.6,11
+Apple,Fruit,52,0.3,0.2,14
+Banana,Fruit,89,1.1,0.3,23
+Almonds,Nuts,575,21.0,49.0,22
+Banana,Fruit,89,1.1,0.3,23
+Brown Rice,Grain,123,2.7,1.0,25
+Apple,Fruit,52,0.3,0.2,14
+Chicken Breast,Meat,165,31.0,3.6,0
+Chicken Breast,Meat,165,31.0,3.6,0
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Chicken Breast,Meat,165,31.0,3.6,0
+Almonds,Nuts,575,21.0,49.0,22
+Brown Rice,Grain,123,2.7,1.0,25
+Brown Rice,Grain,123,2.7,1.0,25
+Almonds,Nuts,575,21.0,49.0,22
+Apple,Fruit,52,0.3,0.2,14
+Almonds,Nuts,575,21.0,49.0,22
+Almonds,Nuts,575,21.0,49.0,22
+Brown Rice,Grain,123,2.7,1.0,25
+Apple,Fruit,52,0.3,0.2,14
+Broccoli,Vegetable,55,3.7,0.6,11
+Broccoli,Vegetable,55,3.7,0.6,11
+Apple,Fruit,52,0.3,0.2,14
+Broccoli,Vegetable,55,3.7,0.6,11
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Almonds,Nuts,575,21.0,49.0,22
+Brown Rice,Grain,123,2.7,1.0,25
+Brown Rice,Grain,123,2.7,1.0,25
+Brown Rice,Grain,123,2.7,1.0,25
+Almonds,Nuts,575,21.0,49.0,22
+Apple,Fruit,52,0.3,0.2,14
+Banana,Fruit,89,1.1,0.3,23
+Almonds,Nuts,575,21.0,49.0,22
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Banana,Fruit,89,1.1,0.3,23
+Brown Rice,Grain,123,2.7,1.0,25
+Almonds,Nuts,575,21.0,49.0,22
+Apple,Fruit,52,0.3,0.2,14
+Banana,Fruit,89,1.1,0.3,23
+Brown Rice,Grain,123,2.7,1.0,25
+Apple,Fruit,52,0.3,0.2,14
+Apple,Fruit,52,0.3,0.2,14
+Banana,Fruit,89,1.1,0.3,23
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Brown Rice,Grain,123,2.7,1.0,25
+Chicken Breast,Meat,165,31.0,3.6,0
+Chicken Breast,Meat,165,31.0,3.6,0
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Almonds,Nuts,575,21.0,49.0,22
+Chicken Breast,Meat,165,31.0,3.6,0
+Chicken Breast,Meat,165,31.0,3.6,0
+Chicken Breast,Meat,165,31.0,3.6,0
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Banana,Fruit,89,1.1,0.3,23
+Apple,Fruit,52,0.3,0.2,14
+Almonds,Nuts,575,21.0,49.0,22
+Almonds,Nuts,575,21.0,49.0,22
+Chicken Breast,Meat,165,31.0,3.6,0
+Apple,Fruit,52,0.3,0.2,14
+Brown Rice,Grain,123,2.7,1.0,25
+Apple,Fruit,52,0.3,0.2,14
+Brown Rice,Grain,123,2.7,1.0,25
+Chicken Breast,Meat,165,31.0,3.6,0
+Brown Rice,Grain,123,2.7,1.0,25
+Almonds,Nuts,575,21.0,49.0,22
+Almonds,Nuts,575,21.0,49.0,22
+Chicken Breast,Meat,165,31.0,3.6,0
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Banana,Fruit,89,1.1,0.3,23
+Chicken Breast,Meat,165,31.0,3.6,0
+Chicken Breast,Meat,165,31.0,3.6,0
+Banana,Fruit,89,1.1,0.3,23
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Apple,Fruit,52,0.3,0.2,14
+Broccoli,Vegetable,55,3.7,0.6,11
+Broccoli,Vegetable,55,3.7,0.6,11
+Banana,Fruit,89,1.1,0.3,23
+Brown Rice,Grain,123,2.7,1.0,25
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Chicken Breast,Meat,165,31.0,3.6,0
+Banana,Fruit,89,1.1,0.3,23
+Apple,Fruit,52,0.3,0.2,14
+Broccoli,Vegetable,55,3.7,0.6,11
+Apple,Fruit,52,0.3,0.2,14
+Banana,Fruit,89,1.1,0.3,23
+Brown Rice,Grain,123,2.7,1.0,25
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Brown Rice,Grain,123,2.7,1.0,25
+Chicken Breast,Meat,165,31.0,3.6,0
+Almonds,Nuts,575,21.0,49.0,22
+Almonds,Nuts,575,21.0,49.0,22
+Chicken Breast,Meat,165,31.0,3.6,0
+Banana,Fruit,89,1.1,0.3,23
+Almonds,Nuts,575,21.0,49.0,22
+Almonds,Nuts,575,21.0,49.0,22
+Broccoli,Vegetable,55,3.7,0.6,11
+Brown Rice,Grain,123,2.7,1.0,25
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Broccoli,Vegetable,55,3.7,0.6,11
+Broccoli,Vegetable,55,3.7,0.6,11
+Banana,Fruit,89,1.1,0.3,23
+Chicken Breast,Meat,165,31.0,3.6,0
+Almonds,Nuts,575,21.0,49.0,22
+Chicken Breast,Meat,165,31.0,3.6,0
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Broccoli,Vegetable,55,3.7,0.6,11
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Chicken Breast,Meat,165,31.0,3.6,0
+Broccoli,Vegetable,55,3.7,0.6,11
+Brown Rice,Grain,123,2.7,1.0,25
+Apple,Fruit,52,0.3,0.2,14
+Banana,Fruit,89,1.1,0.3,23
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Broccoli,Vegetable,55,3.7,0.6,11
+Banana,Fruit,89,1.1,0.3,23
+Chicken Breast,Meat,165,31.0,3.6,0
+Brown Rice,Grain,123,2.7,1.0,25
+Apple,Fruit,52,0.3,0.2,14
+Broccoli,Vegetable,55,3.7,0.6,11
+Apple,Fruit,52,0.3,0.2,14
+Almonds,Nuts,575,21.0,49.0,22
+Almonds,Nuts,575,21.0,49.0,22
+Almonds,Nuts,575,21.0,49.0,22
+Apple,Fruit,52,0.3,0.2,14
+Chicken Breast,Meat,165,31.0,3.6,0
+Banana,Fruit,89,1.1,0.3,23
+Apple,Fruit,52,0.3,0.2,14
+Broccoli,Vegetable,55,3.7,0.6,11
+Chicken Breast,Meat,165,31.0,3.6,0
+Brown Rice,Grain,123,2.7,1.0,25
+Almonds,Nuts,575,21.0,49.0,22
+Apple,Fruit,52,0.3,0.2,14
+Brown Rice,Grain,123,2.7,1.0,25
+Apple,Fruit,52,0.3,0.2,14
+Apple,Fruit,52,0.3,0.2,14
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Almonds,Nuts,575,21.0,49.0,22
+Brown Rice,Grain,123,2.7,1.0,25
+Apple,Fruit,52,0.3,0.2,14
+Banana,Fruit,89,1.1,0.3,23
+Brown Rice,Grain,123,2.7,1.0,25
+Apple,Fruit,52,0.3,0.2,14
+Brown Rice,Grain,123,2.7,1.0,25
+Apple,Fruit,52,0.3,0.2,14
+Broccoli,Vegetable,55,3.7,0.6,11
+Banana,Fruit,89,1.1,0.3,23
+Brown Rice,Grain,123,2.7,1.0,25
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Brown Rice,Grain,123,2.7,1.0,25
+Chicken Breast,Meat,165,31.0,3.6,0
+Chicken Breast,Meat,165,31.0,3.6,0
+Broccoli,Vegetable,55,3.7,0.6,11
+Banana,Fruit,89,1.1,0.3,23
+Chicken Breast,Meat,165,31.0,3.6,0
+Apple,Fruit,52,0.3,0.2,14
+Broccoli,Vegetable,55,3.7,0.6,11
+Apple,Fruit,52,0.3,0.2,14
+Brown Rice,Grain,123,2.7,1.0,25
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Broccoli,Vegetable,55,3.7,0.6,11
+Apple,Fruit,52,0.3,0.2,14
+Banana,Fruit,89,1.1,0.3,23
+Chicken Breast,Meat,165,31.0,3.6,0
+Banana,Fruit,89,1.1,0.3,23
+Chicken Breast,Meat,165,31.0,3.6,0
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Chicken Breast,Meat,165,31.0,3.6,0
+Broccoli,Vegetable,55,3.7,0.6,11
+Broccoli,Vegetable,55,3.7,0.6,11
+Chicken Breast,Meat,165,31.0,3.6,0
+Apple,Fruit,52,0.3,0.2,14
+Banana,Fruit,89,1.1,0.3,23
+Brown Rice,Grain,123,2.7,1.0,25
+Chicken Breast,Meat,165,31.0,3.6,0
+Apple,Fruit,52,0.3,0.2,14
+Chicken Breast,Meat,165,31.0,3.6,0
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Brown Rice,Grain,123,2.7,1.0,25
+Apple,Fruit,52,0.3,0.2,14
+Brown Rice,Grain,123,2.7,1.0,25
+Chicken Breast,Meat,165,31.0,3.6,0
+Broccoli,Vegetable,55,3.7,0.6,11
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Chicken Breast,Meat,165,31.0,3.6,0
+Broccoli,Vegetable,55,3.7,0.6,11
+Apple,Fruit,52,0.3,0.2,14
+Almonds,Nuts,575,21.0,49.0,22
+Banana,Fruit,89,1.1,0.3,23
+Almonds,Nuts,575,21.0,49.0,22
+Almonds,Nuts,575,21.0,49.0,22
+Brown Rice,Grain,123,2.7,1.0,25
+Apple,Fruit,52,0.3,0.2,14
+Banana,Fruit,89,1.1,0.3,23
+Banana,Fruit,89,1.1,0.3,23
+Brown Rice,Grain,123,2.7,1.0,25
+Apple,Fruit,52,0.3,0.2,14
+Apple,Fruit,52,0.3,0.2,14
+Apple,Fruit,52,0.3,0.2,14
+Almonds,Nuts,575,21.0,49.0,22
+Broccoli,Vegetable,55,3.7,0.6,11
+Apple,Fruit,52,0.3,0.2,14
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Chicken Breast,Meat,165,31.0,3.6,0
+Chicken Breast,Meat,165,31.0,3.6,0
+Banana,Fruit,89,1.1,0.3,23
+Banana,Fruit,89,1.1,0.3,23
+Chicken Breast,Meat,165,31.0,3.6,0
+Chicken Breast,Meat,165,31.0,3.6,0
+Apple,Fruit,52,0.3,0.2,14
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Chicken Breast,Meat,165,31.0,3.6,0
+Broccoli,Vegetable,55,3.7,0.6,11
+Apple,Fruit,52,0.3,0.2,14
+Brown Rice,Grain,123,2.7,1.0,25
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Chicken Breast,Meat,165,31.0,3.6,0
+Chicken Breast,Meat,165,31.0,3.6,0
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Apple,Fruit,52,0.3,0.2,14
+Chicken Breast,Meat,165,31.0,3.6,0
+Broccoli,Vegetable,55,3.7,0.6,11
+Apple,Fruit,52,0.3,0.2,14
+Almonds,Nuts,575,21.0,49.0,22
+Chicken Breast,Meat,165,31.0,3.6,0
+Broccoli,Vegetable,55,3.7,0.6,11
+Chicken Breast,Meat,165,31.0,3.6,0
+Banana,Fruit,89,1.1,0.3,23
+Chicken Breast,Meat,165,31.0,3.6,0
+Banana,Fruit,89,1.1,0.3,23
+Almonds,Nuts,575,21.0,49.0,22
+Apple,Fruit,52,0.3,0.2,14
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Brown Rice,Grain,123,2.7,1.0,25
+Almonds,Nuts,575,21.0,49.0,22
+Apple,Fruit,52,0.3,0.2,14
+Chicken Breast,Meat,165,31.0,3.6,0
+Banana,Fruit,89,1.1,0.3,23
+Banana,Fruit,89,1.1,0.3,23
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Banana,Fruit,89,1.1,0.3,23
+Apple,Fruit,52,0.3,0.2,14
+Apple,Fruit,52,0.3,0.2,14
+Chicken Breast,Meat,165,31.0,3.6,0
+Almonds,Nuts,575,21.0,49.0,22
+Broccoli,Vegetable,55,3.7,0.6,11
+Apple,Fruit,52,0.3,0.2,14
+Broccoli,Vegetable,55,3.7,0.6,11
+Chicken Breast,Meat,165,31.0,3.6,0
+Apple,Fruit,52,0.3,0.2,14
+Almonds,Nuts,575,21.0,49.0,22
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Apple,Fruit,52,0.3,0.2,14
+Apple,Fruit,52,0.3,0.2,14
+Broccoli,Vegetable,55,3.7,0.6,11
+Apple,Fruit,52,0.3,0.2,14
+Banana,Fruit,89,1.1,0.3,23
+Almonds,Nuts,575,21.0,49.0,22
+Brown Rice,Grain,123,2.7,1.0,25
+Chicken Breast,Meat,165,31.0,3.6,0
+Banana,Fruit,89,1.1,0.3,23
+Apple,Fruit,52,0.3,0.2,14
+Apple,Fruit,52,0.3,0.2,14
+Brown Rice,Grain,123,2.7,1.0,25
+Apple,Fruit,52,0.3,0.2,14
+Broccoli,Vegetable,55,3.7,0.6,11
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Brown Rice,Grain,123,2.7,1.0,25
+Chicken Breast,Meat,165,31.0,3.6,0
+Almonds,Nuts,575,21.0,49.0,22
+Almonds,Nuts,575,21.0,49.0,22
+Chicken Breast,Meat,165,31.0,3.6,0
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Chicken Breast,Meat,165,31.0,3.6,0
+Almonds,Nuts,575,21.0,49.0,22
+Apple,Fruit,52,0.3,0.2,14
+Broccoli,Vegetable,55,3.7,0.6,11
+Brown Rice,Grain,123,2.7,1.0,25
+Apple,Fruit,52,0.3,0.2,14
+Apple,Fruit,52,0.3,0.2,14
+Chicken Breast,Meat,165,31.0,3.6,0
+Chicken Breast,Meat,165,31.0,3.6,0
+Broccoli,Vegetable,55,3.7,0.6,11
+Chicken Breast,Meat,165,31.0,3.6,0
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Apple,Fruit,52,0.3,0.2,14
+Broccoli,Vegetable,55,3.7,0.6,11
+Chicken Breast,Meat,165,31.0,3.6,0
+Almonds,Nuts,575,21.0,49.0,22
+Banana,Fruit,89,1.1,0.3,23
+Almonds,Nuts,575,21.0,49.0,22
+Broccoli,Vegetable,55,3.7,0.6,11
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Chicken Breast,Meat,165,31.0,3.6,0
+Apple,Fruit,52,0.3,0.2,14
+Brown Rice,Grain,123,2.7,1.0,25
+Almonds,Nuts,575,21.0,49.0,22
+Banana,Fruit,89,1.1,0.3,23
+Banana,Fruit,89,1.1,0.3,23
+Apple,Fruit,52,0.3,0.2,14
+Chicken Breast,Meat,165,31.0,3.6,0
+Chicken Breast,Meat,165,31.0,3.6,0
+Brown Rice,Grain,123,2.7,1.0,25
+Almonds,Nuts,575,21.0,49.0,22
+Broccoli,Vegetable,55,3.7,0.6,11
+Chicken Breast,Meat,165,31.0,3.6,0
+Broccoli,Vegetable,55,3.7,0.6,11
+Broccoli,Vegetable,55,3.7,0.6,11
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Chicken Breast,Meat,165,31.0,3.6,0
+Apple,Fruit,52,0.3,0.2,14
+Broccoli,Vegetable,55,3.7,0.6,11
+Banana,Fruit,89,1.1,0.3,23
+Almonds,Nuts,575,21.0,49.0,22
+Banana,Fruit,89,1.1,0.3,23
+Banana,Fruit,89,1.1,0.3,23
+Chicken Breast,Meat,165,31.0,3.6,0
+Broccoli,Vegetable,55,3.7,0.6,11
+Chicken Breast,Meat,165,31.0,3.6,0
+Broccoli,Vegetable,55,3.7,0.6,11
+Banana,Fruit,89,1.1,0.3,23
+Banana,Fruit,89,1.1,0.3,23
+Banana,Fruit,89,1.1,0.3,23
+Chicken Breast,Meat,165,31.0,3.6,0
+Chicken Breast,Meat,165,31.0,3.6,0
+Banana,Fruit,89,1.1,0.3,23
+Banana,Fruit,89,1.1,0.3,23
+Apple,Fruit,52,0.3,0.2,14
+Almonds,Nuts,575,21.0,49.0,22
+Almonds,Nuts,575,21.0,49.0,22
+Chicken Breast,Meat,165,31.0,3.6,0
+Almonds,Nuts,575,21.0,49.0,22
+Apple,Fruit,52,0.3,0.2,14
+Broccoli,Vegetable,55,3.7,0.6,11
+Broccoli,Vegetable,55,3.7,0.6,11
+Banana,Fruit,89,1.1,0.3,23
+Apple,Fruit,52,0.3,0.2,14
+Almonds,Nuts,575,21.0,49.0,22
+Banana,Fruit,89,1.1,0.3,23
+Apple,Fruit,52,0.3,0.2,14
+Brown Rice,Grain,123,2.7,1.0,25
+Brown Rice,Grain,123,2.7,1.0,25
+Apple,Fruit,52,0.3,0.2,14
+Almonds,Nuts,575,21.0,49.0,22
+Almonds,Nuts,575,21.0,49.0,22
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Brown Rice,Grain,123,2.7,1.0,25
+Brown Rice,Grain,123,2.7,1.0,25
+Almonds,Nuts,575,21.0,49.0,22
+Chicken Breast,Meat,165,31.0,3.6,0
+Chicken Breast,Meat,165,31.0,3.6,0
+Broccoli,Vegetable,55,3.7,0.6,11
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Almonds,Nuts,575,21.0,49.0,22
+Chicken Breast,Meat,165,31.0,3.6,0
+Broccoli,Vegetable,55,3.7,0.6,11
+Brown Rice,Grain,123,2.7,1.0,25
+Apple,Fruit,52,0.3,0.2,14
+Almonds,Nuts,575,21.0,49.0,22
+Apple,Fruit,52,0.3,0.2,14
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Brown Rice,Grain,123,2.7,1.0,25
+Apple,Fruit,52,0.3,0.2,14
+Banana,Fruit,89,1.1,0.3,23
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Chicken Breast,Meat,165,31.0,3.6,0
+Banana,Fruit,89,1.1,0.3,23
+Almonds,Nuts,575,21.0,49.0,22
+Almonds,Nuts,575,21.0,49.0,22
+Banana,Fruit,89,1.1,0.3,23
+Apple,Fruit,52,0.3,0.2,14
+Banana,Fruit,89,1.1,0.3,23
+Apple,Fruit,52,0.3,0.2,14
+Broccoli,Vegetable,55,3.7,0.6,11
+Broccoli,Vegetable,55,3.7,0.6,11
+Banana,Fruit,89,1.1,0.3,23
+Chicken Breast,Meat,165,31.0,3.6,0
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Apple,Fruit,52,0.3,0.2,14
+Brown Rice,Grain,123,2.7,1.0,25
+Apple,Fruit,52,0.3,0.2,14
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Broccoli,Vegetable,55,3.7,0.6,11
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Chicken Breast,Meat,165,31.0,3.6,0
+Almonds,Nuts,575,21.0,49.0,22
+Almonds,Nuts,575,21.0,49.0,22
+Brown Rice,Grain,123,2.7,1.0,25
+Chicken Breast,Meat,165,31.0,3.6,0
+Almonds,Nuts,575,21.0,49.0,22
+Almonds,Nuts,575,21.0,49.0,22
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Almonds,Nuts,575,21.0,49.0,22
+Broccoli,Vegetable,55,3.7,0.6,11
+Broccoli,Vegetable,55,3.7,0.6,11
+Chicken Breast,Meat,165,31.0,3.6,0
+Banana,Fruit,89,1.1,0.3,23
+Banana,Fruit,89,1.1,0.3,23
+Almonds,Nuts,575,21.0,49.0,22
+Broccoli,Vegetable,55,3.7,0.6,11
+Chicken Breast,Meat,165,31.0,3.6,0
+Chicken Breast,Meat,165,31.0,3.6,0
+Banana,Fruit,89,1.1,0.3,23
+Banana,Fruit,89,1.1,0.3,23
+Banana,Fruit,89,1.1,0.3,23
+Banana,Fruit,89,1.1,0.3,23
+Almonds,Nuts,575,21.0,49.0,22
+Banana,Fruit,89,1.1,0.3,23
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Banana,Fruit,89,1.1,0.3,23
+Apple,Fruit,52,0.3,0.2,14
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Chicken Breast,Meat,165,31.0,3.6,0
+Almonds,Nuts,575,21.0,49.0,22
+Brown Rice,Grain,123,2.7,1.0,25
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Almonds,Nuts,575,21.0,49.0,22
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Banana,Fruit,89,1.1,0.3,23
+Banana,Fruit,89,1.1,0.3,23
+Chicken Breast,Meat,165,31.0,3.6,0
+Broccoli,Vegetable,55,3.7,0.6,11
+Brown Rice,Grain,123,2.7,1.0,25
+Apple,Fruit,52,0.3,0.2,14
+Chicken Breast,Meat,165,31.0,3.6,0
+Banana,Fruit,89,1.1,0.3,23
+Banana,Fruit,89,1.1,0.3,23
+Brown Rice,Grain,123,2.7,1.0,25
+Chicken Breast,Meat,165,31.0,3.6,0
+Apple,Fruit,52,0.3,0.2,14
+Broccoli,Vegetable,55,3.7,0.6,11
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Broccoli,Vegetable,55,3.7,0.6,11
+Broccoli,Vegetable,55,3.7,0.6,11
+Apple,Fruit,52,0.3,0.2,14
+Broccoli,Vegetable,55,3.7,0.6,11
+Apple,Fruit,52,0.3,0.2,14
+Chicken Breast,Meat,165,31.0,3.6,0
+Almonds,Nuts,575,21.0,49.0,22
+Apple,Fruit,52,0.3,0.2,14
+Broccoli,Vegetable,55,3.7,0.6,11
+Brown Rice,Grain,123,2.7,1.0,25
+Almonds,Nuts,575,21.0,49.0,22
+Banana,Fruit,89,1.1,0.3,23
+Apple,Fruit,52,0.3,0.2,14
+Banana,Fruit,89,1.1,0.3,23
+Apple,Fruit,52,0.3,0.2,14
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Almonds,Nuts,575,21.0,49.0,22
+Brown Rice,Grain,123,2.7,1.0,25
+Chicken Breast,Meat,165,31.0,3.6,0
+Broccoli,Vegetable,55,3.7,0.6,11
+Chicken Breast,Meat,165,31.0,3.6,0
+Chicken Breast,Meat,165,31.0,3.6,0
+Brown Rice,Grain,123,2.7,1.0,25
+Chicken Breast,Meat,165,31.0,3.6,0
+Almonds,Nuts,575,21.0,49.0,22
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Broccoli,Vegetable,55,3.7,0.6,11
+Banana,Fruit,89,1.1,0.3,23
+Brown Rice,Grain,123,2.7,1.0,25
+Almonds,Nuts,575,21.0,49.0,22
+Almonds,Nuts,575,21.0,49.0,22
+Almonds,Nuts,575,21.0,49.0,22
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Broccoli,Vegetable,55,3.7,0.6,11
+Apple,Fruit,52,0.3,0.2,14
+Banana,Fruit,89,1.1,0.3,23
+Banana,Fruit,89,1.1,0.3,23
+Almonds,Nuts,575,21.0,49.0,22
+Apple,Fruit,52,0.3,0.2,14
+Almonds,Nuts,575,21.0,49.0,22
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Chicken Breast,Meat,165,31.0,3.6,0
+Banana,Fruit,89,1.1,0.3,23
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Brown Rice,Grain,123,2.7,1.0,25
+Almonds,Nuts,575,21.0,49.0,22
+Broccoli,Vegetable,55,3.7,0.6,11
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Brown Rice,Grain,123,2.7,1.0,25
+Chicken Breast,Meat,165,31.0,3.6,0
+Apple,Fruit,52,0.3,0.2,14
+Broccoli,Vegetable,55,3.7,0.6,11
+Apple,Fruit,52,0.3,0.2,14
+Chicken Breast,Meat,165,31.0,3.6,0
+Apple,Fruit,52,0.3,0.2,14
+Apple,Fruit,52,0.3,0.2,14
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Broccoli,Vegetable,55,3.7,0.6,11
+Banana,Fruit,89,1.1,0.3,23
+Banana,Fruit,89,1.1,0.3,23
+Banana,Fruit,89,1.1,0.3,23
+Almonds,Nuts,575,21.0,49.0,22
+Chicken Breast,Meat,165,31.0,3.6,0
+Broccoli,Vegetable,55,3.7,0.6,11
+Banana,Fruit,89,1.1,0.3,23
+Apple,Fruit,52,0.3,0.2,14
+Banana,Fruit,89,1.1,0.3,23
+Chicken Breast,Meat,165,31.0,3.6,0
+Almonds,Nuts,575,21.0,49.0,22
+Apple,Fruit,52,0.3,0.2,14
+Banana,Fruit,89,1.1,0.3,23
+Almonds,Nuts,575,21.0,49.0,22
+Brown Rice,Grain,123,2.7,1.0,25
+Chicken Breast,Meat,165,31.0,3.6,0
+Apple,Fruit,52,0.3,0.2,14
+Apple,Fruit,52,0.3,0.2,14
+Almonds,Nuts,575,21.0,49.0,22
+Chicken Breast,Meat,165,31.0,3.6,0
+Chicken Breast,Meat,165,31.0,3.6,0
+Banana,Fruit,89,1.1,0.3,23
+Banana,Fruit,89,1.1,0.3,23
+Chicken Breast,Meat,165,31.0,3.6,0
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Chicken Breast,Meat,165,31.0,3.6,0
+Broccoli,Vegetable,55,3.7,0.6,11
+Brown Rice,Grain,123,2.7,1.0,25
+Chicken Breast,Meat,165,31.0,3.6,0
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Brown Rice,Grain,123,2.7,1.0,25
+Chicken Breast,Meat,165,31.0,3.6,0
+Broccoli,Vegetable,55,3.7,0.6,11
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Brown Rice,Grain,123,2.7,1.0,25
+Chicken Breast,Meat,165,31.0,3.6,0
+Broccoli,Vegetable,55,3.7,0.6,11
+Broccoli,Vegetable,55,3.7,0.6,11
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Broccoli,Vegetable,55,3.7,0.6,11
+Banana,Fruit,89,1.1,0.3,23
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Apple,Fruit,52,0.3,0.2,14
+Almonds,Nuts,575,21.0,49.0,22
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Brown Rice,Grain,123,2.7,1.0,25
+Chicken Breast,Meat,165,31.0,3.6,0
+Banana,Fruit,89,1.1,0.3,23
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Brown Rice,Grain,123,2.7,1.0,25
+Apple,Fruit,52,0.3,0.2,14
+Broccoli,Vegetable,55,3.7,0.6,11
+Brown Rice,Grain,123,2.7,1.0,25
+Almonds,Nuts,575,21.0,49.0,22
+Apple,Fruit,52,0.3,0.2,14
+Chicken Breast,Meat,165,31.0,3.6,0
+Chicken Breast,Meat,165,31.0,3.6,0
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Brown Rice,Grain,123,2.7,1.0,25
+Almonds,Nuts,575,21.0,49.0,22
+Banana,Fruit,89,1.1,0.3,23
+Apple,Fruit,52,0.3,0.2,14
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Broccoli,Vegetable,55,3.7,0.6,11
+Banana,Fruit,89,1.1,0.3,23
+Apple,Fruit,52,0.3,0.2,14
+Almonds,Nuts,575,21.0,49.0,22
+Brown Rice,Grain,123,2.7,1.0,25
+Almonds,Nuts,575,21.0,49.0,22
+Broccoli,Vegetable,55,3.7,0.6,11
+Brown Rice,Grain,123,2.7,1.0,25
+Almonds,Nuts,575,21.0,49.0,22
+Almonds,Nuts,575,21.0,49.0,22
+Chicken Breast,Meat,165,31.0,3.6,0
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Broccoli,Vegetable,55,3.7,0.6,11
+Chicken Breast,Meat,165,31.0,3.6,0
+Apple,Fruit,52,0.3,0.2,14
+Brown Rice,Grain,123,2.7,1.0,25
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Broccoli,Vegetable,55,3.7,0.6,11
+Brown Rice,Grain,123,2.7,1.0,25
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Broccoli,Vegetable,55,3.7,0.6,11
+Banana,Fruit,89,1.1,0.3,23
+Almonds,Nuts,575,21.0,49.0,22
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Apple,Fruit,52,0.3,0.2,14
+Almonds,Nuts,575,21.0,49.0,22
+Chicken Breast,Meat,165,31.0,3.6,0
+Broccoli,Vegetable,55,3.7,0.6,11
+Chicken Breast,Meat,165,31.0,3.6,0
+Apple,Fruit,52,0.3,0.2,14
+Broccoli,Vegetable,55,3.7,0.6,11
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Apple,Fruit,52,0.3,0.2,14
+Almonds,Nuts,575,21.0,49.0,22
+Chicken Breast,Meat,165,31.0,3.6,0
+Broccoli,Vegetable,55,3.7,0.6,11
+Broccoli,Vegetable,55,3.7,0.6,11
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Almonds,Nuts,575,21.0,49.0,22
+Broccoli,Vegetable,55,3.7,0.6,11
+Apple,Fruit,52,0.3,0.2,14
+Broccoli,Vegetable,55,3.7,0.6,11
+Banana,Fruit,89,1.1,0.3,23
+Banana,Fruit,89,1.1,0.3,23
+Apple,Fruit,52,0.3,0.2,14
+Broccoli,Vegetable,55,3.7,0.6,11
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Apple,Fruit,52,0.3,0.2,14
+Brown Rice,Grain,123,2.7,1.0,25
+Brown Rice,Grain,123,2.7,1.0,25
+Almonds,Nuts,575,21.0,49.0,22
+Chicken Breast,Meat,165,31.0,3.6,0
+Broccoli,Vegetable,55,3.7,0.6,11
+Chicken Breast,Meat,165,31.0,3.6,0
+Broccoli,Vegetable,55,3.7,0.6,11
+Broccoli,Vegetable,55,3.7,0.6,11
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Chicken Breast,Meat,165,31.0,3.6,0
+Brown Rice,Grain,123,2.7,1.0,25
+Chicken Breast,Meat,165,31.0,3.6,0
+Brown Rice,Grain,123,2.7,1.0,25
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Banana,Fruit,89,1.1,0.3,23
+Chicken Breast,Meat,165,31.0,3.6,0
+Broccoli,Vegetable,55,3.7,0.6,11
+Banana,Fruit,89,1.1,0.3,23
+Apple,Fruit,52,0.3,0.2,14
+Almonds,Nuts,575,21.0,49.0,22
+Apple,Fruit,52,0.3,0.2,14
+Broccoli,Vegetable,55,3.7,0.6,11
+Broccoli,Vegetable,55,3.7,0.6,11
+Banana,Fruit,89,1.1,0.3,23
+Chicken Breast,Meat,165,31.0,3.6,0
+Apple,Fruit,52,0.3,0.2,14
+Almonds,Nuts,575,21.0,49.0,22
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Chicken Breast,Meat,165,31.0,3.6,0
+Broccoli,Vegetable,55,3.7,0.6,11
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Broccoli,Vegetable,55,3.7,0.6,11
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Almonds,Nuts,575,21.0,49.0,22
+Apple,Fruit,52,0.3,0.2,14
+Brown Rice,Grain,123,2.7,1.0,25
+Chicken Breast,Meat,165,31.0,3.6,0
+Banana,Fruit,89,1.1,0.3,23
+Chicken Breast,Meat,165,31.0,3.6,0
+Apple,Fruit,52,0.3,0.2,14
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Banana,Fruit,89,1.1,0.3,23
+Almonds,Nuts,575,21.0,49.0,22
+Almonds,Nuts,575,21.0,49.0,22
+Apple,Fruit,52,0.3,0.2,14
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Banana,Fruit,89,1.1,0.3,23
+Banana,Fruit,89,1.1,0.3,23
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Banana,Fruit,89,1.1,0.3,23
+Banana,Fruit,89,1.1,0.3,23
+Almonds,Nuts,575,21.0,49.0,22
+Apple,Fruit,52,0.3,0.2,14
+Banana,Fruit,89,1.1,0.3,23
+Almonds,Nuts,575,21.0,49.0,22
+Chicken Breast,Meat,165,31.0,3.6,0
+Broccoli,Vegetable,55,3.7,0.6,11
+Apple,Fruit,52,0.3,0.2,14
+Apple,Fruit,52,0.3,0.2,14
+Brown Rice,Grain,123,2.7,1.0,25
+Chicken Breast,Meat,165,31.0,3.6,0
+Broccoli,Vegetable,55,3.7,0.6,11
+Banana,Fruit,89,1.1,0.3,23
+Almonds,Nuts,575,21.0,49.0,22
+Brown Rice,Grain,123,2.7,1.0,25
+Apple,Fruit,52,0.3,0.2,14
+Brown Rice,Grain,123,2.7,1.0,25
+Almonds,Nuts,575,21.0,49.0,22
+Banana,Fruit,89,1.1,0.3,23
+Chicken Breast,Meat,165,31.0,3.6,0
+Chicken Breast,Meat,165,31.0,3.6,0
+Chicken Breast,Meat,165,31.0,3.6,0
+Banana,Fruit,89,1.1,0.3,23
+Almonds,Nuts,575,21.0,49.0,22
+Chicken Breast,Meat,165,31.0,3.6,0
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Broccoli,Vegetable,55,3.7,0.6,11
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Apple,Fruit,52,0.3,0.2,14
+Apple,Fruit,52,0.3,0.2,14
+Almonds,Nuts,575,21.0,49.0,22
+Apple,Fruit,52,0.3,0.2,14
+Banana,Fruit,89,1.1,0.3,23
+Chicken Breast,Meat,165,31.0,3.6,0
+Apple,Fruit,52,0.3,0.2,14
+Brown Rice,Grain,123,2.7,1.0,25
+Apple,Fruit,52,0.3,0.2,14
+Chicken Breast,Meat,165,31.0,3.6,0
+Apple,Fruit,52,0.3,0.2,14
+Chicken Breast,Meat,165,31.0,3.6,0
+Apple,Fruit,52,0.3,0.2,14
+Broccoli,Vegetable,55,3.7,0.6,11
+Banana,Fruit,89,1.1,0.3,23
+Almonds,Nuts,575,21.0,49.0,22
+Almonds,Nuts,575,21.0,49.0,22
+Broccoli,Vegetable,55,3.7,0.6,11
+Apple,Fruit,52,0.3,0.2,14
+Almonds,Nuts,575,21.0,49.0,22
+Banana,Fruit,89,1.1,0.3,23
+Almonds,Nuts,575,21.0,49.0,22
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Chicken Breast,Meat,165,31.0,3.6,0
+Broccoli,Vegetable,55,3.7,0.6,11
+Broccoli,Vegetable,55,3.7,0.6,11
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Chicken Breast,Meat,165,31.0,3.6,0
+Banana,Fruit,89,1.1,0.3,23
+Almonds,Nuts,575,21.0,49.0,22
+Brown Rice,Grain,123,2.7,1.0,25
+Chicken Breast,Meat,165,31.0,3.6,0
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Chicken Breast,Meat,165,31.0,3.6,0
+Apple,Fruit,52,0.3,0.2,14
+Apple,Fruit,52,0.3,0.2,14
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Broccoli,Vegetable,55,3.7,0.6,11
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Broccoli,Vegetable,55,3.7,0.6,11
+Chicken Breast,Meat,165,31.0,3.6,0
+Almonds,Nuts,575,21.0,49.0,22
+Chicken Breast,Meat,165,31.0,3.6,0
+Brown Rice,Grain,123,2.7,1.0,25
+Apple,Fruit,52,0.3,0.2,14
+Broccoli,Vegetable,55,3.7,0.6,11
+Broccoli,Vegetable,55,3.7,0.6,11
+Brown Rice,Grain,123,2.7,1.0,25
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Broccoli,Vegetable,55,3.7,0.6,11
+Broccoli,Vegetable,55,3.7,0.6,11
+Banana,Fruit,89,1.1,0.3,23
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Banana,Fruit,89,1.1,0.3,23
+Chicken Breast,Meat,165,31.0,3.6,0
+Almonds,Nuts,575,21.0,49.0,22
+Brown Rice,Grain,123,2.7,1.0,25
+Brown Rice,Grain,123,2.7,1.0,25
+Almonds,Nuts,575,21.0,49.0,22
+Apple,Fruit,52,0.3,0.2,14
+Banana,Fruit,89,1.1,0.3,23
+Apple,Fruit,52,0.3,0.2,14
+Brown Rice,Grain,123,2.7,1.0,25
+Brown Rice,Grain,123,2.7,1.0,25
+Almonds,Nuts,575,21.0,49.0,22
+Almonds,Nuts,575,21.0,49.0,22
+Banana,Fruit,89,1.1,0.3,23
+Brown Rice,Grain,123,2.7,1.0,25
+Chicken Breast,Meat,165,31.0,3.6,0
+Almonds,Nuts,575,21.0,49.0,22
+Chicken Breast,Meat,165,31.0,3.6,0
+Chicken Breast,Meat,165,31.0,3.6,0
+Banana,Fruit,89,1.1,0.3,23
+Chicken Breast,Meat,165,31.0,3.6,0
+Chicken Breast,Meat,165,31.0,3.6,0
+Banana,Fruit,89,1.1,0.3,23
+Chicken Breast,Meat,165,31.0,3.6,0
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Chicken Breast,Meat,165,31.0,3.6,0
+Apple,Fruit,52,0.3,0.2,14
+Banana,Fruit,89,1.1,0.3,23
+Chicken Breast,Meat,165,31.0,3.6,0
+Banana,Fruit,89,1.1,0.3,23
+Banana,Fruit,89,1.1,0.3,23
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Banana,Fruit,89,1.1,0.3,23
+Brown Rice,Grain,123,2.7,1.0,25
+Almonds,Nuts,575,21.0,49.0,22
+Apple,Fruit,52,0.3,0.2,14
+Banana,Fruit,89,1.1,0.3,23
+Chicken Breast,Meat,165,31.0,3.6,0
+Banana,Fruit,89,1.1,0.3,23
+Almonds,Nuts,575,21.0,49.0,22
+Apple,Fruit,52,0.3,0.2,14
+Banana,Fruit,89,1.1,0.3,23
+Brown Rice,Grain,123,2.7,1.0,25
+Chicken Breast,Meat,165,31.0,3.6,0
+Brown Rice,Grain,123,2.7,1.0,25
+Almonds,Nuts,575,21.0,49.0,22
+Brown Rice,Grain,123,2.7,1.0,25
+Apple,Fruit,52,0.3,0.2,14
+Almonds,Nuts,575,21.0,49.0,22
+Chicken Breast,Meat,165,31.0,3.6,0
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Apple,Fruit,52,0.3,0.2,14
+Apple,Fruit,52,0.3,0.2,14
+Brown Rice,Grain,123,2.7,1.0,25
+Almonds,Nuts,575,21.0,49.0,22
+Apple,Fruit,52,0.3,0.2,14
+Broccoli,Vegetable,55,3.7,0.6,11
+Apple,Fruit,52,0.3,0.2,14
+Apple,Fruit,52,0.3,0.2,14
+Almonds,Nuts,575,21.0,49.0,22
+Chicken Breast,Meat,165,31.0,3.6,0
+Apple,Fruit,52,0.3,0.2,14
+Almonds,Nuts,575,21.0,49.0,22
+Apple,Fruit,52,0.3,0.2,14
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Banana,Fruit,89,1.1,0.3,23
+Banana,Fruit,89,1.1,0.3,23
+Apple,Fruit,52,0.3,0.2,14
+Brown Rice,Grain,123,2.7,1.0,25
+Chicken Breast,Meat,165,31.0,3.6,0
+Banana,Fruit,89,1.1,0.3,23
+Chicken Breast,Meat,165,31.0,3.6,0
+Chicken Breast,Meat,165,31.0,3.6,0
+Apple,Fruit,52,0.3,0.2,14
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Chicken Breast,Meat,165,31.0,3.6,0
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Apple,Fruit,52,0.3,0.2,14
+Banana,Fruit,89,1.1,0.3,23
+Banana,Fruit,89,1.1,0.3,23
+Almonds,Nuts,575,21.0,49.0,22
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Banana,Fruit,89,1.1,0.3,23
+Banana,Fruit,89,1.1,0.3,23
+Banana,Fruit,89,1.1,0.3,23
+Chicken Breast,Meat,165,31.0,3.6,0
+Apple,Fruit,52,0.3,0.2,14
+Chicken Breast,Meat,165,31.0,3.6,0
+Banana,Fruit,89,1.1,0.3,23
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Broccoli,Vegetable,55,3.7,0.6,11
+Chicken Breast,Meat,165,31.0,3.6,0
+Chicken Breast,Meat,165,31.0,3.6,0
+Broccoli,Vegetable,55,3.7,0.6,11
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Banana,Fruit,89,1.1,0.3,23
+Brown Rice,Grain,123,2.7,1.0,25
+Apple,Fruit,52,0.3,0.2,14
+Chicken Breast,Meat,165,31.0,3.6,0
+Banana,Fruit,89,1.1,0.3,23
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Chicken Breast,Meat,165,31.0,3.6,0
+Brown Rice,Grain,123,2.7,1.0,25
+Chicken Breast,Meat,165,31.0,3.6,0
+Chicken Breast,Meat,165,31.0,3.6,0
+Banana,Fruit,89,1.1,0.3,23
+Apple,Fruit,52,0.3,0.2,14
+Almonds,Nuts,575,21.0,49.0,22
+Broccoli,Vegetable,55,3.7,0.6,11
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Broccoli,Vegetable,55,3.7,0.6,11
+Banana,Fruit,89,1.1,0.3,23
+Apple,Fruit,52,0.3,0.2,14
+Apple,Fruit,52,0.3,0.2,14
+Apple,Fruit,52,0.3,0.2,14
+Banana,Fruit,89,1.1,0.3,23
+Banana,Fruit,89,1.1,0.3,23
+Almonds,Nuts,575,21.0,49.0,22
+Chicken Breast,Meat,165,31.0,3.6,0
+Chicken Breast,Meat,165,31.0,3.6,0
+Apple,Fruit,52,0.3,0.2,14
+Broccoli,Vegetable,55,3.7,0.6,11
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Apple,Fruit,52,0.3,0.2,14
+Banana,Fruit,89,1.1,0.3,23
+Almonds,Nuts,575,21.0,49.0,22
+Chicken Breast,Meat,165,31.0,3.6,0
+Banana,Fruit,89,1.1,0.3,23
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Apple,Fruit,52,0.3,0.2,14
+Chicken Breast,Meat,165,31.0,3.6,0
+Broccoli,Vegetable,55,3.7,0.6,11
+Banana,Fruit,89,1.1,0.3,23
+Brown Rice,Grain,123,2.7,1.0,25
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Chicken Breast,Meat,165,31.0,3.6,0
+Apple,Fruit,52,0.3,0.2,14
+Apple,Fruit,52,0.3,0.2,14
+Almonds,Nuts,575,21.0,49.0,22
+Broccoli,Vegetable,55,3.7,0.6,11
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Chicken Breast,Meat,165,31.0,3.6,0
+Almonds,Nuts,575,21.0,49.0,22
+Almonds,Nuts,575,21.0,49.0,22
+Broccoli,Vegetable,55,3.7,0.6,11
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Broccoli,Vegetable,55,3.7,0.6,11
+Brown Rice,Grain,123,2.7,1.0,25
+Apple,Fruit,52,0.3,0.2,14
+Banana,Fruit,89,1.1,0.3,23
+Almonds,Nuts,575,21.0,49.0,22
+Almonds,Nuts,575,21.0,49.0,22
+Apple,Fruit,52,0.3,0.2,14
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Chicken Breast,Meat,165,31.0,3.6,0
+Banana,Fruit,89,1.1,0.3,23
+Apple,Fruit,52,0.3,0.2,14
+Broccoli,Vegetable,55,3.7,0.6,11
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Banana,Fruit,89,1.1,0.3,23
+Chicken Breast,Meat,165,31.0,3.6,0
+Chicken Breast,Meat,165,31.0,3.6,0
+Chicken Breast,Meat,165,31.0,3.6,0
+Brown Rice,Grain,123,2.7,1.0,25
+Chicken Breast,Meat,165,31.0,3.6,0
+Broccoli,Vegetable,55,3.7,0.6,11
+Broccoli,Vegetable,55,3.7,0.6,11
+Apple,Fruit,52,0.3,0.2,14
+Banana,Fruit,89,1.1,0.3,23
+Chicken Breast,Meat,165,31.0,3.6,0
+Almonds,Nuts,575,21.0,49.0,22
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Apple,Fruit,52,0.3,0.2,14
+Chicken Breast,Meat,165,31.0,3.6,0
+Apple,Fruit,52,0.3,0.2,14
+Chicken Breast,Meat,165,31.0,3.6,0
+Chicken Breast,Meat,165,31.0,3.6,0
+Apple,Fruit,52,0.3,0.2,14
+Almonds,Nuts,575,21.0,49.0,22
+Banana,Fruit,89,1.1,0.3,23
+Apple,Fruit,52,0.3,0.2,14
+Chicken Breast,Meat,165,31.0,3.6,0
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Banana,Fruit,89,1.1,0.3,23
+Banana,Fruit,89,1.1,0.3,23
+Almonds,Nuts,575,21.0,49.0,22
+Chicken Breast,Meat,165,31.0,3.6,0
+Broccoli,Vegetable,55,3.7,0.6,11
+Broccoli,Vegetable,55,3.7,0.6,11
+Broccoli,Vegetable,55,3.7,0.6,11
+Apple,Fruit,52,0.3,0.2,14
+Almonds,Nuts,575,21.0,49.0,22
+Banana,Fruit,89,1.1,0.3,23
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Apple,Fruit,52,0.3,0.2,14
+Brown Rice,Grain,123,2.7,1.0,25
+Chicken Breast,Meat,165,31.0,3.6,0
+Broccoli,Vegetable,55,3.7,0.6,11
+Apple,Fruit,52,0.3,0.2,14
+Broccoli,Vegetable,55,3.7,0.6,11
+Apple,Fruit,52,0.3,0.2,14
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Brown Rice,Grain,123,2.7,1.0,25
+Almonds,Nuts,575,21.0,49.0,22
+Chicken Breast,Meat,165,31.0,3.6,0
+Almonds,Nuts,575,21.0,49.0,22
+Banana,Fruit,89,1.1,0.3,23
+Chicken Breast,Meat,165,31.0,3.6,0
+Apple,Fruit,52,0.3,0.2,14
+Broccoli,Vegetable,55,3.7,0.6,11
+Apple,Fruit,52,0.3,0.2,14
+Apple,Fruit,52,0.3,0.2,14
+Chicken Breast,Meat,165,31.0,3.6,0
+Banana,Fruit,89,1.1,0.3,23
+Chicken Breast,Meat,165,31.0,3.6,0
+Brown Rice,Grain,123,2.7,1.0,25
+Apple,Fruit,52,0.3,0.2,14
+Banana,Fruit,89,1.1,0.3,23
+Apple,Fruit,52,0.3,0.2,14
+Brown Rice,Grain,123,2.7,1.0,25
+Almonds,Nuts,575,21.0,49.0,22
+Banana,Fruit,89,1.1,0.3,23
+Chicken Breast,Meat,165,31.0,3.6,0
+Apple,Fruit,52,0.3,0.2,14
+Almonds,Nuts,575,21.0,49.0,22
+Apple,Fruit,52,0.3,0.2,14
+Chicken Breast,Meat,165,31.0,3.6,0
+Brown Rice,Grain,123,2.7,1.0,25
+Chicken Breast,Meat,165,31.0,3.6,0
+Broccoli,Vegetable,55,3.7,0.6,11
+Broccoli,Vegetable,55,3.7,0.6,11
+Chicken Breast,Meat,165,31.0,3.6,0
+Broccoli,Vegetable,55,3.7,0.6,11
+Banana,Fruit,89,1.1,0.3,23
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Chicken Breast,Meat,165,31.0,3.6,0
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Apple,Fruit,52,0.3,0.2,14
+Almonds,Nuts,575,21.0,49.0,22
+Brown Rice,Grain,123,2.7,1.0,25
+Apple,Fruit,52,0.3,0.2,14
+Brown Rice,Grain,123,2.7,1.0,25
+Almonds,Nuts,575,21.0,49.0,22
+Chicken Breast,Meat,165,31.0,3.6,0
+Almonds,Nuts,575,21.0,49.0,22
+Banana,Fruit,89,1.1,0.3,23
+Apple,Fruit,52,0.3,0.2,14
+Brown Rice,Grain,123,2.7,1.0,25
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Almonds,Nuts,575,21.0,49.0,22
+Chicken Breast,Meat,165,31.0,3.6,0
+Almonds,Nuts,575,21.0,49.0,22
+Broccoli,Vegetable,55,3.7,0.6,11
+Apple,Fruit,52,0.3,0.2,14
+Banana,Fruit,89,1.1,0.3,23
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Chicken Breast,Meat,165,31.0,3.6,0
+Apple,Fruit,52,0.3,0.2,14
+Broccoli,Vegetable,55,3.7,0.6,11
+Broccoli,Vegetable,55,3.7,0.6,11
+Apple,Fruit,52,0.3,0.2,14
+Brown Rice,Grain,123,2.7,1.0,25
+Apple,Fruit,52,0.3,0.2,14
+Apple,Fruit,52,0.3,0.2,14
+Apple,Fruit,52,0.3,0.2,14
+Almonds,Nuts,575,21.0,49.0,22
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Broccoli,Vegetable,55,3.7,0.6,11
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Banana,Fruit,89,1.1,0.3,23
+Apple,Fruit,52,0.3,0.2,14
+Apple,Fruit,52,0.3,0.2,14
+Apple,Fruit,52,0.3,0.2,14
+Banana,Fruit,89,1.1,0.3,23
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Banana,Fruit,89,1.1,0.3,23
+Apple,Fruit,52,0.3,0.2,14
+Brown Rice,Grain,123,2.7,1.0,25
+Apple,Fruit,52,0.3,0.2,14
+Apple,Fruit,52,0.3,0.2,14
+Brown Rice,Grain,123,2.7,1.0,25
+Almonds,Nuts,575,21.0,49.0,22
+Chicken Breast,Meat,165,31.0,3.6,0
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Chicken Breast,Meat,165,31.0,3.6,0
+Chicken Breast,Meat,165,31.0,3.6,0
+Broccoli,Vegetable,55,3.7,0.6,11
+Apple,Fruit,52,0.3,0.2,14
+Almonds,Nuts,575,21.0,49.0,22
+Almonds,Nuts,575,21.0,49.0,22
+Almonds,Nuts,575,21.0,49.0,22
+Apple,Fruit,52,0.3,0.2,14
+Apple,Fruit,52,0.3,0.2,14
+Apple,Fruit,52,0.3,0.2,14
+Banana,Fruit,89,1.1,0.3,23
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Brown Rice,Grain,123,2.7,1.0,25
+Almonds,Nuts,575,21.0,49.0,22
+Brown Rice,Grain,123,2.7,1.0,25
+Brown Rice,Grain,123,2.7,1.0,25
+Chicken Breast,Meat,165,31.0,3.6,0
+Almonds,Nuts,575,21.0,49.0,22
+Almonds,Nuts,575,21.0,49.0,22
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Chicken Breast,Meat,165,31.0,3.6,0
+Brown Rice,Grain,123,2.7,1.0,25
+Chicken Breast,Meat,165,31.0,3.6,0
+Banana,Fruit,89,1.1,0.3,23
+Banana,Fruit,89,1.1,0.3,23
+Almonds,Nuts,575,21.0,49.0,22
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Apple,Fruit,52,0.3,0.2,14
+Almonds,Nuts,575,21.0,49.0,22
+Apple,Fruit,52,0.3,0.2,14
+Brown Rice,Grain,123,2.7,1.0,25
+Almonds,Nuts,575,21.0,49.0,22
+Almonds,Nuts,575,21.0,49.0,22
+Brown Rice,Grain,123,2.7,1.0,25
+Apple,Fruit,52,0.3,0.2,14
+Apple,Fruit,52,0.3,0.2,14
+Broccoli,Vegetable,55,3.7,0.6,11
+Chicken Breast,Meat,165,31.0,3.6,0
+Brown Rice,Grain,123,2.7,1.0,25
+Apple,Fruit,52,0.3,0.2,14
+Apple,Fruit,52,0.3,0.2,14
+Brown Rice,Grain,123,2.7,1.0,25
+Brown Rice,Grain,123,2.7,1.0,25
+Almonds,Nuts,575,21.0,49.0,22
+Brown Rice,Grain,123,2.7,1.0,25
+Chicken Breast,Meat,165,31.0,3.6,0
+Brown Rice,Grain,123,2.7,1.0,25
+Brown Rice,Grain,123,2.7,1.0,25
+Almonds,Nuts,575,21.0,49.0,22
+Chicken Breast,Meat,165,31.0,3.6,0
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Broccoli,Vegetable,55,3.7,0.6,11
+Apple,Fruit,52,0.3,0.2,14
+Apple,Fruit,52,0.3,0.2,14
+Almonds,Nuts,575,21.0,49.0,22
+Almonds,Nuts,575,21.0,49.0,22
+Broccoli,Vegetable,55,3.7,0.6,11
+Apple,Fruit,52,0.3,0.2,14
+Apple,Fruit,52,0.3,0.2,14
+Chicken Breast,Meat,165,31.0,3.6,0
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Chicken Breast,Meat,165,31.0,3.6,0
+Brown Rice,Grain,123,2.7,1.0,25
+Chicken Breast,Meat,165,31.0,3.6,0
+Apple,Fruit,52,0.3,0.2,14
+Chicken Breast,Meat,165,31.0,3.6,0
+Broccoli,Vegetable,55,3.7,0.6,11
+Broccoli,Vegetable,55,3.7,0.6,11
+Banana,Fruit,89,1.1,0.3,23
+Apple,Fruit,52,0.3,0.2,14
+Chicken Breast,Meat,165,31.0,3.6,0
+Banana,Fruit,89,1.1,0.3,23
+Almonds,Nuts,575,21.0,49.0,22
+Brown Rice,Grain,123,2.7,1.0,25
+Apple,Fruit,52,0.3,0.2,14
+Apple,Fruit,52,0.3,0.2,14
+Chicken Breast,Meat,165,31.0,3.6,0
+Broccoli,Vegetable,55,3.7,0.6,11
+Brown Rice,Grain,123,2.7,1.0,25
+Almonds,Nuts,575,21.0,49.0,22
+Apple,Fruit,52,0.3,0.2,14
+Banana,Fruit,89,1.1,0.3,23
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Chicken Breast,Meat,165,31.0,3.6,0
+Almonds,Nuts,575,21.0,49.0,22
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Almonds,Nuts,575,21.0,49.0,22
+Brown Rice,Grain,123,2.7,1.0,25
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Banana,Fruit,89,1.1,0.3,23
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Banana,Fruit,89,1.1,0.3,23
+Apple,Fruit,52,0.3,0.2,14
+Brown Rice,Grain,123,2.7,1.0,25
+Chicken Breast,Meat,165,31.0,3.6,0
+Almonds,Nuts,575,21.0,49.0,22
+Broccoli,Vegetable,55,3.7,0.6,11
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Brown Rice,Grain,123,2.7,1.0,25
+Brown Rice,Grain,123,2.7,1.0,25
+Chicken Breast,Meat,165,31.0,3.6,0
+Banana,Fruit,89,1.1,0.3,23
+Chicken Breast,Meat,165,31.0,3.6,0
+Banana,Fruit,89,1.1,0.3,23
+Banana,Fruit,89,1.1,0.3,23
+Apple,Fruit,52,0.3,0.2,14
+Almonds,Nuts,575,21.0,49.0,22
+Almonds,Nuts,575,21.0,49.0,22
+Almonds,Nuts,575,21.0,49.0,22
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Brown Rice,Grain,123,2.7,1.0,25
+Almonds,Nuts,575,21.0,49.0,22
+Banana,Fruit,89,1.1,0.3,23
+Apple,Fruit,52,0.3,0.2,14
+Broccoli,Vegetable,55,3.7,0.6,11
+Chicken Breast,Meat,165,31.0,3.6,0
+Banana,Fruit,89,1.1,0.3,23
+Chicken Breast,Meat,165,31.0,3.6,0
+Broccoli,Vegetable,55,3.7,0.6,11
+Banana,Fruit,89,1.1,0.3,23
+Apple,Fruit,52,0.3,0.2,14
+Brown Rice,Grain,123,2.7,1.0,25
+Brown Rice,Grain,123,2.7,1.0,25
+Chicken Breast,Meat,165,31.0,3.6,0
+Broccoli,Vegetable,55,3.7,0.6,11
+Chicken Breast,Meat,165,31.0,3.6,0
+Broccoli,Vegetable,55,3.7,0.6,11
+Apple,Fruit,52,0.3,0.2,14
+Broccoli,Vegetable,55,3.7,0.6,11
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Chicken Breast,Meat,165,31.0,3.6,0
+Apple,Fruit,52,0.3,0.2,14
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Apple,Fruit,52,0.3,0.2,14
+Chicken Breast,Meat,165,31.0,3.6,0
+Almonds,Nuts,575,21.0,49.0,22
+Broccoli,Vegetable,55,3.7,0.6,11
+Chicken Breast,Meat,165,31.0,3.6,0
+Banana,Fruit,89,1.1,0.3,23
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Banana,Fruit,89,1.1,0.3,23
+Almonds,Nuts,575,21.0,49.0,22
+Broccoli,Vegetable,55,3.7,0.6,11
+Apple,Fruit,52,0.3,0.2,14
+Almonds,Nuts,575,21.0,49.0,22
+Chicken Breast,Meat,165,31.0,3.6,0
+Broccoli,Vegetable,55,3.7,0.6,11
+Banana,Fruit,89,1.1,0.3,23
+Brown Rice,Grain,123,2.7,1.0,25
+Almonds,Nuts,575,21.0,49.0,22
+Banana,Fruit,89,1.1,0.3,23
+Almonds,Nuts,575,21.0,49.0,22
+Apple,Fruit,52,0.3,0.2,14
+Apple,Fruit,52,0.3,0.2,14
+Almonds,Nuts,575,21.0,49.0,22
+Broccoli,Vegetable,55,3.7,0.6,11
+Broccoli,Vegetable,55,3.7,0.6,11
+Brown Rice,Grain,123,2.7,1.0,25
+Almonds,Nuts,575,21.0,49.0,22
+Almonds,Nuts,575,21.0,49.0,22
+Chicken Breast,Meat,165,31.0,3.6,0
+Brown Rice,Grain,123,2.7,1.0,25
+Brown Rice,Grain,123,2.7,1.0,25
+Chicken Breast,Meat,165,31.0,3.6,0
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Almonds,Nuts,575,21.0,49.0,22
+Broccoli,Vegetable,55,3.7,0.6,11
+Chicken Breast,Meat,165,31.0,3.6,0
+Almonds,Nuts,575,21.0,49.0,22
+Almonds,Nuts,575,21.0,49.0,22
+Broccoli,Vegetable,55,3.7,0.6,11
+Broccoli,Vegetable,55,3.7,0.6,11
+Chicken Breast,Meat,165,31.0,3.6,0
+Apple,Fruit,52,0.3,0.2,14
+Brown Rice,Grain,123,2.7,1.0,25
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Apple,Fruit,52,0.3,0.2,14
+Almonds,Nuts,575,21.0,49.0,22
+Chicken Breast,Meat,165,31.0,3.6,0
+Almonds,Nuts,575,21.0,49.0,22
+Broccoli,Vegetable,55,3.7,0.6,11
+Apple,Fruit,52,0.3,0.2,14
+Banana,Fruit,89,1.1,0.3,23
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Apple,Fruit,52,0.3,0.2,14
+Almonds,Nuts,575,21.0,49.0,22
+Apple,Fruit,52,0.3,0.2,14
+Chicken Breast,Meat,165,31.0,3.6,0
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Chicken Breast,Meat,165,31.0,3.6,0
+Apple,Fruit,52,0.3,0.2,14
+Chicken Breast,Meat,165,31.0,3.6,0
+Almonds,Nuts,575,21.0,49.0,22
+Almonds,Nuts,575,21.0,49.0,22
+Chicken Breast,Meat,165,31.0,3.6,0
+Apple,Fruit,52,0.3,0.2,14
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Brown Rice,Grain,123,2.7,1.0,25
+Chicken Breast,Meat,165,31.0,3.6,0
+Almonds,Nuts,575,21.0,49.0,22
+Almonds,Nuts,575,21.0,49.0,22
+Chicken Breast,Meat,165,31.0,3.6,0
+Broccoli,Vegetable,55,3.7,0.6,11
+Brown Rice,Grain,123,2.7,1.0,25
+Apple,Fruit,52,0.3,0.2,14
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Apple,Fruit,52,0.3,0.2,14
+Broccoli,Vegetable,55,3.7,0.6,11
+Banana,Fruit,89,1.1,0.3,23
+Chicken Breast,Meat,165,31.0,3.6,0
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Broccoli,Vegetable,55,3.7,0.6,11
+Banana,Fruit,89,1.1,0.3,23
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Broccoli,Vegetable,55,3.7,0.6,11
+Banana,Fruit,89,1.1,0.3,23
+Apple,Fruit,52,0.3,0.2,14
+Chicken Breast,Meat,165,31.0,3.6,0
+Almonds,Nuts,575,21.0,49.0,22
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Almonds,Nuts,575,21.0,49.0,22
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Almonds,Nuts,575,21.0,49.0,22
+Apple,Fruit,52,0.3,0.2,14
+Broccoli,Vegetable,55,3.7,0.6,11
+Banana,Fruit,89,1.1,0.3,23
+Almonds,Nuts,575,21.0,49.0,22
+Apple,Fruit,52,0.3,0.2,14
+Apple,Fruit,52,0.3,0.2,14
+Almonds,Nuts,575,21.0,49.0,22
+Chicken Breast,Meat,165,31.0,3.6,0
+Apple,Fruit,52,0.3,0.2,14
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Brown Rice,Grain,123,2.7,1.0,25
+Brown Rice,Grain,123,2.7,1.0,25
+Almonds,Nuts,575,21.0,49.0,22
+Broccoli,Vegetable,55,3.7,0.6,11
+Broccoli,Vegetable,55,3.7,0.6,11
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Chicken Breast,Meat,165,31.0,3.6,0
+Almonds,Nuts,575,21.0,49.0,22
+Chicken Breast,Meat,165,31.0,3.6,0
+Brown Rice,Grain,123,2.7,1.0,25
+Apple,Fruit,52,0.3,0.2,14
+Banana,Fruit,89,1.1,0.3,23
+Apple,Fruit,52,0.3,0.2,14
+Chicken Breast,Meat,165,31.0,3.6,0
+Brown Rice,Grain,123,2.7,1.0,25
+Almonds,Nuts,575,21.0,49.0,22
+Banana,Fruit,89,1.1,0.3,23
+Banana,Fruit,89,1.1,0.3,23
+Chicken Breast,Meat,165,31.0,3.6,0
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Broccoli,Vegetable,55,3.7,0.6,11
+Apple,Fruit,52,0.3,0.2,14
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Apple,Fruit,52,0.3,0.2,14
+Chicken Breast,Meat,165,31.0,3.6,0
+Banana,Fruit,89,1.1,0.3,23
+Almonds,Nuts,575,21.0,49.0,22
+Chicken Breast,Meat,165,31.0,3.6,0
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Banana,Fruit,89,1.1,0.3,23
+Brown Rice,Grain,123,2.7,1.0,25
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Chicken Breast,Meat,165,31.0,3.6,0
+Apple,Fruit,52,0.3,0.2,14
+Brown Rice,Grain,123,2.7,1.0,25
+Almonds,Nuts,575,21.0,49.0,22
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Apple,Fruit,52,0.3,0.2,14
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Broccoli,Vegetable,55,3.7,0.6,11
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Almonds,Nuts,575,21.0,49.0,22
+Broccoli,Vegetable,55,3.7,0.6,11
+Chicken Breast,Meat,165,31.0,3.6,0
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Chicken Breast,Meat,165,31.0,3.6,0
+Broccoli,Vegetable,55,3.7,0.6,11
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Apple,Fruit,52,0.3,0.2,14
+Brown Rice,Grain,123,2.7,1.0,25
+Almonds,Nuts,575,21.0,49.0,22
+Brown Rice,Grain,123,2.7,1.0,25
+Apple,Fruit,52,0.3,0.2,14
+Broccoli,Vegetable,55,3.7,0.6,11
+Apple,Fruit,52,0.3,0.2,14
+Broccoli,Vegetable,55,3.7,0.6,11
+Chicken Breast,Meat,165,31.0,3.6,0
+Apple,Fruit,52,0.3,0.2,14
+Chicken Breast,Meat,165,31.0,3.6,0
+Apple,Fruit,52,0.3,0.2,14
+Brown Rice,Grain,123,2.7,1.0,25
+Apple,Fruit,52,0.3,0.2,14
+Almonds,Nuts,575,21.0,49.0,22
+Broccoli,Vegetable,55,3.7,0.6,11
+Banana,Fruit,89,1.1,0.3,23
+Banana,Fruit,89,1.1,0.3,23
+Almonds,Nuts,575,21.0,49.0,22
+Almonds,Nuts,575,21.0,49.0,22
+Banana,Fruit,89,1.1,0.3,23
+Apple,Fruit,52,0.3,0.2,14
+Chicken Breast,Meat,165,31.0,3.6,0
+Apple,Fruit,52,0.3,0.2,14
+Broccoli,Vegetable,55,3.7,0.6,11
+Banana,Fruit,89,1.1,0.3,23
+Almonds,Nuts,575,21.0,49.0,22
+Chicken Breast,Meat,165,31.0,3.6,0
+Apple,Fruit,52,0.3,0.2,14
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Apple,Fruit,52,0.3,0.2,14
+Apple,Fruit,52,0.3,0.2,14
+Chicken Breast,Meat,165,31.0,3.6,0
+Almonds,Nuts,575,21.0,49.0,22
+Broccoli,Vegetable,55,3.7,0.6,11
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Banana,Fruit,89,1.1,0.3,23
+Almonds,Nuts,575,21.0,49.0,22
+Banana,Fruit,89,1.1,0.3,23
+Almonds,Nuts,575,21.0,49.0,22
+Banana,Fruit,89,1.1,0.3,23
+Banana,Fruit,89,1.1,0.3,23
+Banana,Fruit,89,1.1,0.3,23
+Brown Rice,Grain,123,2.7,1.0,25
+Chicken Breast,Meat,165,31.0,3.6,0
+Apple,Fruit,52,0.3,0.2,14
+Chicken Breast,Meat,165,31.0,3.6,0
+Almonds,Nuts,575,21.0,49.0,22
+Apple,Fruit,52,0.3,0.2,14
+Broccoli,Vegetable,55,3.7,0.6,11
+Chicken Breast,Meat,165,31.0,3.6,0
+Apple,Fruit,52,0.3,0.2,14
+Apple,Fruit,52,0.3,0.2,14
+Apple,Fruit,52,0.3,0.2,14
+Banana,Fruit,89,1.1,0.3,23
+Chicken Breast,Meat,165,31.0,3.6,0
+Broccoli,Vegetable,55,3.7,0.6,11
+Brown Rice,Grain,123,2.7,1.0,25
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Apple,Fruit,52,0.3,0.2,14
+Broccoli,Vegetable,55,3.7,0.6,11
+Banana,Fruit,89,1.1,0.3,23
+Banana,Fruit,89,1.1,0.3,23
+Chicken Breast,Meat,165,31.0,3.6,0
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Banana,Fruit,89,1.1,0.3,23
+Apple,Fruit,52,0.3,0.2,14
+Almonds,Nuts,575,21.0,49.0,22
+Banana,Fruit,89,1.1,0.3,23
+Apple,Fruit,52,0.3,0.2,14
+Broccoli,Vegetable,55,3.7,0.6,11
+Banana,Fruit,89,1.1,0.3,23
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Brown Rice,Grain,123,2.7,1.0,25
+Brown Rice,Grain,123,2.7,1.0,25
+Apple,Fruit,52,0.3,0.2,14
+Broccoli,Vegetable,55,3.7,0.6,11
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Broccoli,Vegetable,55,3.7,0.6,11
+Chicken Breast,Meat,165,31.0,3.6,0
+Apple,Fruit,52,0.3,0.2,14
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Apple,Fruit,52,0.3,0.2,14
+Almonds,Nuts,575,21.0,49.0,22
+Broccoli,Vegetable,55,3.7,0.6,11
+Brown Rice,Grain,123,2.7,1.0,25
+Chicken Breast,Meat,165,31.0,3.6,0
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Chicken Breast,Meat,165,31.0,3.6,0
+Apple,Fruit,52,0.3,0.2,14
+Broccoli,Vegetable,55,3.7,0.6,11
+Brown Rice,Grain,123,2.7,1.0,25
+Chicken Breast,Meat,165,31.0,3.6,0
+Chicken Breast,Meat,165,31.0,3.6,0
+Chicken Breast,Meat,165,31.0,3.6,0
+Brown Rice,Grain,123,2.7,1.0,25
+Brown Rice,Grain,123,2.7,1.0,25
+Apple,Fruit,52,0.3,0.2,14
+Chicken Breast,Meat,165,31.0,3.6,0
+Banana,Fruit,89,1.1,0.3,23
+Brown Rice,Grain,123,2.7,1.0,25
+Almonds,Nuts,575,21.0,49.0,22
+Brown Rice,Grain,123,2.7,1.0,25
+Almonds,Nuts,575,21.0,49.0,22
+Chicken Breast,Meat,165,31.0,3.6,0
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Almonds,Nuts,575,21.0,49.0,22
+Apple,Fruit,52,0.3,0.2,14
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Apple,Fruit,52,0.3,0.2,14
+Brown Rice,Grain,123,2.7,1.0,25
+Brown Rice,Grain,123,2.7,1.0,25
+Apple,Fruit,52,0.3,0.2,14
+Chicken Breast,Meat,165,31.0,3.6,0
+Apple,Fruit,52,0.3,0.2,14
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Banana,Fruit,89,1.1,0.3,23
+Apple,Fruit,52,0.3,0.2,14
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Apple,Fruit,52,0.3,0.2,14
+Broccoli,Vegetable,55,3.7,0.6,11
+Chicken Breast,Meat,165,31.0,3.6,0
+Brown Rice,Grain,123,2.7,1.0,25
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Apple,Fruit,52,0.3,0.2,14
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Chicken Breast,Meat,165,31.0,3.6,0
+Almonds,Nuts,575,21.0,49.0,22
+Brown Rice,Grain,123,2.7,1.0,25
+Brown Rice,Grain,123,2.7,1.0,25
+Almonds,Nuts,575,21.0,49.0,22
+Broccoli,Vegetable,55,3.7,0.6,11
+Banana,Fruit,89,1.1,0.3,23
+Banana,Fruit,89,1.1,0.3,23
+Chicken Breast,Meat,165,31.0,3.6,0
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Almonds,Nuts,575,21.0,49.0,22
+Chicken Breast,Meat,165,31.0,3.6,0
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Apple,Fruit,52,0.3,0.2,14
+Almonds,Nuts,575,21.0,49.0,22
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Chicken Breast,Meat,165,31.0,3.6,0
+Almonds,Nuts,575,21.0,49.0,22
+Brown Rice,Grain,123,2.7,1.0,25
+Brown Rice,Grain,123,2.7,1.0,25
+Apple,Fruit,52,0.3,0.2,14
+Chicken Breast,Meat,165,31.0,3.6,0
+Apple,Fruit,52,0.3,0.2,14
+Apple,Fruit,52,0.3,0.2,14
+Banana,Fruit,89,1.1,0.3,23
+Chicken Breast,Meat,165,31.0,3.6,0
+Brown Rice,Grain,123,2.7,1.0,25
+Apple,Fruit,52,0.3,0.2,14
+Banana,Fruit,89,1.1,0.3,23
+Banana,Fruit,89,1.1,0.3,23
+Brown Rice,Grain,123,2.7,1.0,25
+Chicken Breast,Meat,165,31.0,3.6,0
+Almonds,Nuts,575,21.0,49.0,22
+Chicken Breast,Meat,165,31.0,3.6,0
+Broccoli,Vegetable,55,3.7,0.6,11
+Apple,Fruit,52,0.3,0.2,14
+Banana,Fruit,89,1.1,0.3,23
+Apple,Fruit,52,0.3,0.2,14
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Apple,Fruit,52,0.3,0.2,14
+Apple,Fruit,52,0.3,0.2,14
+Banana,Fruit,89,1.1,0.3,23
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Brown Rice,Grain,123,2.7,1.0,25
+Brown Rice,Grain,123,2.7,1.0,25
+Almonds,Nuts,575,21.0,49.0,22
+Broccoli,Vegetable,55,3.7,0.6,11
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Almonds,Nuts,575,21.0,49.0,22
+Banana,Fruit,89,1.1,0.3,23
+Almonds,Nuts,575,21.0,49.0,22
+Chicken Breast,Meat,165,31.0,3.6,0
+Apple,Fruit,52,0.3,0.2,14
+Almonds,Nuts,575,21.0,49.0,22
+Banana,Fruit,89,1.1,0.3,23
+Brown Rice,Grain,123,2.7,1.0,25
+Chicken Breast,Meat,165,31.0,3.6,0
+Broccoli,Vegetable,55,3.7,0.6,11
+Broccoli,Vegetable,55,3.7,0.6,11
+Brown Rice,Grain,123,2.7,1.0,25
+Almonds,Nuts,575,21.0,49.0,22
+Brown Rice,Grain,123,2.7,1.0,25
+Chicken Breast,Meat,165,31.0,3.6,0
+Chicken Breast,Meat,165,31.0,3.6,0
+Broccoli,Vegetable,55,3.7,0.6,11
+Chicken Breast,Meat,165,31.0,3.6,0
+Apple,Fruit,52,0.3,0.2,14
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Almonds,Nuts,575,21.0,49.0,22
+Almonds,Nuts,575,21.0,49.0,22
+Chicken Breast,Meat,165,31.0,3.6,0
+Apple,Fruit,52,0.3,0.2,14
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Chicken Breast,Meat,165,31.0,3.6,0
+Banana,Fruit,89,1.1,0.3,23
+Brown Rice,Grain,123,2.7,1.0,25
+Almonds,Nuts,575,21.0,49.0,22
+Apple,Fruit,52,0.3,0.2,14
+Chicken Breast,Meat,165,31.0,3.6,0
+Broccoli,Vegetable,55,3.7,0.6,11
+Banana,Fruit,89,1.1,0.3,23
+Banana,Fruit,89,1.1,0.3,23
+Brown Rice,Grain,123,2.7,1.0,25
+Apple,Fruit,52,0.3,0.2,14
+Apple,Fruit,52,0.3,0.2,14
+Apple,Fruit,52,0.3,0.2,14
+Brown Rice,Grain,123,2.7,1.0,25
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Apple,Fruit,52,0.3,0.2,14
+Almonds,Nuts,575,21.0,49.0,22
+Broccoli,Vegetable,55,3.7,0.6,11
+Chicken Breast,Meat,165,31.0,3.6,0
+Banana,Fruit,89,1.1,0.3,23
+Chicken Breast,Meat,165,31.0,3.6,0
+Almonds,Nuts,575,21.0,49.0,22
+Chicken Breast,Meat,165,31.0,3.6,0
+Brown Rice,Grain,123,2.7,1.0,25
+Apple,Fruit,52,0.3,0.2,14
+Banana,Fruit,89,1.1,0.3,23
+Chicken Breast,Meat,165,31.0,3.6,0
+Banana,Fruit,89,1.1,0.3,23
+Chicken Breast,Meat,165,31.0,3.6,0
+Chicken Breast,Meat,165,31.0,3.6,0
+Banana,Fruit,89,1.1,0.3,23
+Banana,Fruit,89,1.1,0.3,23
+Almonds,Nuts,575,21.0,49.0,22
+Chicken Breast,Meat,165,31.0,3.6,0
+Banana,Fruit,89,1.1,0.3,23
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Brown Rice,Grain,123,2.7,1.0,25
+Apple,Fruit,52,0.3,0.2,14
+Brown Rice,Grain,123,2.7,1.0,25
+Almonds,Nuts,575,21.0,49.0,22
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Banana,Fruit,89,1.1,0.3,23
+Chicken Breast,Meat,165,31.0,3.6,0
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Apple,Fruit,52,0.3,0.2,14
+Chicken Breast,Meat,165,31.0,3.6,0
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Apple,Fruit,52,0.3,0.2,14
+Almonds,Nuts,575,21.0,49.0,22
+Apple,Fruit,52,0.3,0.2,14
+Chicken Breast,Meat,165,31.0,3.6,0
+Apple,Fruit,52,0.3,0.2,14
+Broccoli,Vegetable,55,3.7,0.6,11
+Apple,Fruit,52,0.3,0.2,14
+Banana,Fruit,89,1.1,0.3,23
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Chicken Breast,Meat,165,31.0,3.6,0
+Banana,Fruit,89,1.1,0.3,23
+Chicken Breast,Meat,165,31.0,3.6,0
+Apple,Fruit,52,0.3,0.2,14
+Chicken Breast,Meat,165,31.0,3.6,0
+Broccoli,Vegetable,55,3.7,0.6,11
+Banana,Fruit,89,1.1,0.3,23
+Almonds,Nuts,575,21.0,49.0,22
+Brown Rice,Grain,123,2.7,1.0,25
+Chicken Breast,Meat,165,31.0,3.6,0
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Almonds,Nuts,575,21.0,49.0,22
+Broccoli,Vegetable,55,3.7,0.6,11
+Apple,Fruit,52,0.3,0.2,14
+Banana,Fruit,89,1.1,0.3,23
+Apple,Fruit,52,0.3,0.2,14
+Chicken Breast,Meat,165,31.0,3.6,0
+Almonds,Nuts,575,21.0,49.0,22
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Chicken Breast,Meat,165,31.0,3.6,0
+Broccoli,Vegetable,55,3.7,0.6,11
+Apple,Fruit,52,0.3,0.2,14
+Chicken Breast,Meat,165,31.0,3.6,0
+Broccoli,Vegetable,55,3.7,0.6,11
+Broccoli,Vegetable,55,3.7,0.6,11
+Apple,Fruit,52,0.3,0.2,14
+Almonds,Nuts,575,21.0,49.0,22
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Broccoli,Vegetable,55,3.7,0.6,11
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Chicken Breast,Meat,165,31.0,3.6,0
+Broccoli,Vegetable,55,3.7,0.6,11
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Apple,Fruit,52,0.3,0.2,14
+Brown Rice,Grain,123,2.7,1.0,25
+Almonds,Nuts,575,21.0,49.0,22
+Chicken Breast,Meat,165,31.0,3.6,0
+Brown Rice,Grain,123,2.7,1.0,25
+Apple,Fruit,52,0.3,0.2,14
+Brown Rice,Grain,123,2.7,1.0,25
+Brown Rice,Grain,123,2.7,1.0,25
+Brown Rice,Grain,123,2.7,1.0,25
+Apple,Fruit,52,0.3,0.2,14
+Chicken Breast,Meat,165,31.0,3.6,0
+Brown Rice,Grain,123,2.7,1.0,25
+Brown Rice,Grain,123,2.7,1.0,25
+Chicken Breast,Meat,165,31.0,3.6,0
+Apple,Fruit,52,0.3,0.2,14
+Brown Rice,Grain,123,2.7,1.0,25
+Almonds,Nuts,575,21.0,49.0,22
+Almonds,Nuts,575,21.0,49.0,22
+Broccoli,Vegetable,55,3.7,0.6,11
+Chicken Breast,Meat,165,31.0,3.6,0
+Chicken Breast,Meat,165,31.0,3.6,0
+Banana,Fruit,89,1.1,0.3,23
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Chicken Breast,Meat,165,31.0,3.6,0
+Banana,Fruit,89,1.1,0.3,23
+Almonds,Nuts,575,21.0,49.0,22
+Broccoli,Vegetable,55,3.7,0.6,11
+Apple,Fruit,52,0.3,0.2,14
+Broccoli,Vegetable,55,3.7,0.6,11
+Chicken Breast,Meat,165,31.0,3.6,0
+Chicken Breast,Meat,165,31.0,3.6,0
+Apple,Fruit,52,0.3,0.2,14
+Chicken Breast,Meat,165,31.0,3.6,0
+Broccoli,Vegetable,55,3.7,0.6,11
+Chicken Breast,Meat,165,31.0,3.6,0
+Banana,Fruit,89,1.1,0.3,23
+Chicken Breast,Meat,165,31.0,3.6,0
+Almonds,Nuts,575,21.0,49.0,22
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Brown Rice,Grain,123,2.7,1.0,25
+Almonds,Nuts,575,21.0,49.0,22
+Banana,Fruit,89,1.1,0.3,23
+Apple,Fruit,52,0.3,0.2,14
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Apple,Fruit,52,0.3,0.2,14
+Brown Rice,Grain,123,2.7,1.0,25
+Chicken Breast,Meat,165,31.0,3.6,0
+Apple,Fruit,52,0.3,0.2,14
+Broccoli,Vegetable,55,3.7,0.6,11
+Apple,Fruit,52,0.3,0.2,14
+Chicken Breast,Meat,165,31.0,3.6,0
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Broccoli,Vegetable,55,3.7,0.6,11
+Apple,Fruit,52,0.3,0.2,14
+Chicken Breast,Meat,165,31.0,3.6,0
+Chicken Breast,Meat,165,31.0,3.6,0
+Chicken Breast,Meat,165,31.0,3.6,0
+Apple,Fruit,52,0.3,0.2,14
+Apple,Fruit,52,0.3,0.2,14
+Chicken Breast,Meat,165,31.0,3.6,0
+Banana,Fruit,89,1.1,0.3,23
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Banana,Fruit,89,1.1,0.3,23
+Chicken Breast,Meat,165,31.0,3.6,0
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Banana,Fruit,89,1.1,0.3,23
+Almonds,Nuts,575,21.0,49.0,22
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Apple,Fruit,52,0.3,0.2,14
+Almonds,Nuts,575,21.0,49.0,22
+Almonds,Nuts,575,21.0,49.0,22
+Broccoli,Vegetable,55,3.7,0.6,11
+Apple,Fruit,52,0.3,0.2,14
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Chicken Breast,Meat,165,31.0,3.6,0
+Chicken Breast,Meat,165,31.0,3.6,0
+Almonds,Nuts,575,21.0,49.0,22
+Broccoli,Vegetable,55,3.7,0.6,11
+Broccoli,Vegetable,55,3.7,0.6,11
+Banana,Fruit,89,1.1,0.3,23
+Chicken Breast,Meat,165,31.0,3.6,0
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Banana,Fruit,89,1.1,0.3,23
+Banana,Fruit,89,1.1,0.3,23
+Chicken Breast,Meat,165,31.0,3.6,0
+Brown Rice,Grain,123,2.7,1.0,25
+Chicken Breast,Meat,165,31.0,3.6,0
+Almonds,Nuts,575,21.0,49.0,22
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Banana,Fruit,89,1.1,0.3,23
+Apple,Fruit,52,0.3,0.2,14
+Banana,Fruit,89,1.1,0.3,23
+Brown Rice,Grain,123,2.7,1.0,25
+Chicken Breast,Meat,165,31.0,3.6,0
+Banana,Fruit,89,1.1,0.3,23
+Apple,Fruit,52,0.3,0.2,14
+Apple,Fruit,52,0.3,0.2,14
+Apple,Fruit,52,0.3,0.2,14
+Almonds,Nuts,575,21.0,49.0,22
+Banana,Fruit,89,1.1,0.3,23
+Almonds,Nuts,575,21.0,49.0,22
+Broccoli,Vegetable,55,3.7,0.6,11
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Brown Rice,Grain,123,2.7,1.0,25
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Brown Rice,Grain,123,2.7,1.0,25
+Chicken Breast,Meat,165,31.0,3.6,0
+Apple,Fruit,52,0.3,0.2,14
+Chicken Breast,Meat,165,31.0,3.6,0
+Broccoli,Vegetable,55,3.7,0.6,11
+Apple,Fruit,52,0.3,0.2,14
+Almonds,Nuts,575,21.0,49.0,22
+Chicken Breast,Meat,165,31.0,3.6,0
+Apple,Fruit,52,0.3,0.2,14
+Almonds,Nuts,575,21.0,49.0,22
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Banana,Fruit,89,1.1,0.3,23
+Banana,Fruit,89,1.1,0.3,23
+Brown Rice,Grain,123,2.7,1.0,25
+Chicken Breast,Meat,165,31.0,3.6,0
+Almonds,Nuts,575,21.0,49.0,22
+Broccoli,Vegetable,55,3.7,0.6,11
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Chicken Breast,Meat,165,31.0,3.6,0
+Almonds,Nuts,575,21.0,49.0,22
+Almonds,Nuts,575,21.0,49.0,22
+Banana,Fruit,89,1.1,0.3,23
+Banana,Fruit,89,1.1,0.3,23
+Almonds,Nuts,575,21.0,49.0,22
+Brown Rice,Grain,123,2.7,1.0,25
+Brown Rice,Grain,123,2.7,1.0,25
+Brown Rice,Grain,123,2.7,1.0,25
+Almonds,Nuts,575,21.0,49.0,22
+Broccoli,Vegetable,55,3.7,0.6,11
+Broccoli,Vegetable,55,3.7,0.6,11
+Chicken Breast,Meat,165,31.0,3.6,0
+Brown Rice,Grain,123,2.7,1.0,25
+Brown Rice,Grain,123,2.7,1.0,25
+Almonds,Nuts,575,21.0,49.0,22
+Chicken Breast,Meat,165,31.0,3.6,0
+Almonds,Nuts,575,21.0,49.0,22
+Apple,Fruit,52,0.3,0.2,14
+Chicken Breast,Meat,165,31.0,3.6,0
+Banana,Fruit,89,1.1,0.3,23
+Banana,Fruit,89,1.1,0.3,23
+Apple,Fruit,52,0.3,0.2,14
+Chicken Breast,Meat,165,31.0,3.6,0
+Brown Rice,Grain,123,2.7,1.0,25
+Apple,Fruit,52,0.3,0.2,14
+Chicken Breast,Meat,165,31.0,3.6,0
+Almonds,Nuts,575,21.0,49.0,22
+Brown Rice,Grain,123,2.7,1.0,25
+Brown Rice,Grain,123,2.7,1.0,25
+Almonds,Nuts,575,21.0,49.0,22
+Broccoli,Vegetable,55,3.7,0.6,11
+Banana,Fruit,89,1.1,0.3,23
+Chicken Breast,Meat,165,31.0,3.6,0
+Brown Rice,Grain,123,2.7,1.0,25
+Brown Rice,Grain,123,2.7,1.0,25
+Chicken Breast,Meat,165,31.0,3.6,0
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Apple,Fruit,52,0.3,0.2,14
+Chicken Breast,Meat,165,31.0,3.6,0
+Banana,Fruit,89,1.1,0.3,23
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Broccoli,Vegetable,55,3.7,0.6,11
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Almonds,Nuts,575,21.0,49.0,22
+Brown Rice,Grain,123,2.7,1.0,25
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Chicken Breast,Meat,165,31.0,3.6,0
+Apple,Fruit,52,0.3,0.2,14
+Apple,Fruit,52,0.3,0.2,14
+Chicken Breast,Meat,165,31.0,3.6,0
+Almonds,Nuts,575,21.0,49.0,22
+Broccoli,Vegetable,55,3.7,0.6,11
+Brown Rice,Grain,123,2.7,1.0,25
+Brown Rice,Grain,123,2.7,1.0,25
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Brown Rice,Grain,123,2.7,1.0,25
+Almonds,Nuts,575,21.0,49.0,22
+Brown Rice,Grain,123,2.7,1.0,25
+Apple,Fruit,52,0.3,0.2,14
+Broccoli,Vegetable,55,3.7,0.6,11
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Chicken Breast,Meat,165,31.0,3.6,0
+Brown Rice,Grain,123,2.7,1.0,25
+Brown Rice,Grain,123,2.7,1.0,25
+Apple,Fruit,52,0.3,0.2,14
+Banana,Fruit,89,1.1,0.3,23
+Almonds,Nuts,575,21.0,49.0,22
+Apple,Fruit,52,0.3,0.2,14
+Banana,Fruit,89,1.1,0.3,23
+Banana,Fruit,89,1.1,0.3,23
+Almonds,Nuts,575,21.0,49.0,22
+Chicken Breast,Meat,165,31.0,3.6,0
+Broccoli,Vegetable,55,3.7,0.6,11
+Broccoli,Vegetable,55,3.7,0.6,11
+Brown Rice,Grain,123,2.7,1.0,25
+Apple,Fruit,52,0.3,0.2,14
+Banana,Fruit,89,1.1,0.3,23
+Apple,Fruit,52,0.3,0.2,14
+Apple,Fruit,52,0.3,0.2,14
+Apple,Fruit,52,0.3,0.2,14
+Apple,Fruit,52,0.3,0.2,14
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Chicken Breast,Meat,165,31.0,3.6,0
+Brown Rice,Grain,123,2.7,1.0,25
+Apple,Fruit,52,0.3,0.2,14
+Apple,Fruit,52,0.3,0.2,14
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Brown Rice,Grain,123,2.7,1.0,25
+Brown Rice,Grain,123,2.7,1.0,25
+Apple,Fruit,52,0.3,0.2,14
+Apple,Fruit,52,0.3,0.2,14
+Banana,Fruit,89,1.1,0.3,23
+Apple,Fruit,52,0.3,0.2,14
+Broccoli,Vegetable,55,3.7,0.6,11
+Broccoli,Vegetable,55,3.7,0.6,11
+Brown Rice,Grain,123,2.7,1.0,25
+Brown Rice,Grain,123,2.7,1.0,25
+Almonds,Nuts,575,21.0,49.0,22
+Apple,Fruit,52,0.3,0.2,14
+Almonds,Nuts,575,21.0,49.0,22
+Chicken Breast,Meat,165,31.0,3.6,0
+Broccoli,Vegetable,55,3.7,0.6,11
+Apple,Fruit,52,0.3,0.2,14
+Banana,Fruit,89,1.1,0.3,23
+Chicken Breast,Meat,165,31.0,3.6,0
+Almonds,Nuts,575,21.0,49.0,22
+Apple,Fruit,52,0.3,0.2,14
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Banana,Fruit,89,1.1,0.3,23
+Banana,Fruit,89,1.1,0.3,23
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Chicken Breast,Meat,165,31.0,3.6,0
+Chicken Breast,Meat,165,31.0,3.6,0
+Chicken Breast,Meat,165,31.0,3.6,0
+Apple,Fruit,52,0.3,0.2,14
+Chicken Breast,Meat,165,31.0,3.6,0
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Banana,Fruit,89,1.1,0.3,23
+Almonds,Nuts,575,21.0,49.0,22
+Banana,Fruit,89,1.1,0.3,23
+Almonds,Nuts,575,21.0,49.0,22
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Banana,Fruit,89,1.1,0.3,23
+Chicken Breast,Meat,165,31.0,3.6,0
+Banana,Fruit,89,1.1,0.3,23
+Apple,Fruit,52,0.3,0.2,14
+Chicken Breast,Meat,165,31.0,3.6,0
+Apple,Fruit,52,0.3,0.2,14
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Brown Rice,Grain,123,2.7,1.0,25
+Almonds,Nuts,575,21.0,49.0,22
+Brown Rice,Grain,123,2.7,1.0,25
+Brown Rice,Grain,123,2.7,1.0,25
+Almonds,Nuts,575,21.0,49.0,22
+Almonds,Nuts,575,21.0,49.0,22
+Brown Rice,Grain,123,2.7,1.0,25
+Brown Rice,Grain,123,2.7,1.0,25
+Chicken Breast,Meat,165,31.0,3.6,0
+Broccoli,Vegetable,55,3.7,0.6,11
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Almonds,Nuts,575,21.0,49.0,22
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Brown Rice,Grain,123,2.7,1.0,25
+Almonds,Nuts,575,21.0,49.0,22
+Chicken Breast,Meat,165,31.0,3.6,0
+Chicken Breast,Meat,165,31.0,3.6,0
+Broccoli,Vegetable,55,3.7,0.6,11
+Banana,Fruit,89,1.1,0.3,23
+Banana,Fruit,89,1.1,0.3,23
+Brown Rice,Grain,123,2.7,1.0,25
+Brown Rice,Grain,123,2.7,1.0,25
+Chicken Breast,Meat,165,31.0,3.6,0
+Brown Rice,Grain,123,2.7,1.0,25
+Brown Rice,Grain,123,2.7,1.0,25
+Almonds,Nuts,575,21.0,49.0,22
+Brown Rice,Grain,123,2.7,1.0,25
+Apple,Fruit,52,0.3,0.2,14
+Chicken Breast,Meat,165,31.0,3.6,0
+Broccoli,Vegetable,55,3.7,0.6,11
+Broccoli,Vegetable,55,3.7,0.6,11
+Chicken Breast,Meat,165,31.0,3.6,0
+Almonds,Nuts,575,21.0,49.0,22
+Banana,Fruit,89,1.1,0.3,23
+Chicken Breast,Meat,165,31.0,3.6,0
+Almonds,Nuts,575,21.0,49.0,22
+Banana,Fruit,89,1.1,0.3,23
+Chicken Breast,Meat,165,31.0,3.6,0
+Almonds,Nuts,575,21.0,49.0,22
+Apple,Fruit,52,0.3,0.2,14
+Brown Rice,Grain,123,2.7,1.0,25
+Almonds,Nuts,575,21.0,49.0,22
+Almonds,Nuts,575,21.0,49.0,22
+Almonds,Nuts,575,21.0,49.0,22
+Almonds,Nuts,575,21.0,49.0,22
+Almonds,Nuts,575,21.0,49.0,22
+Apple,Fruit,52,0.3,0.2,14
+Broccoli,Vegetable,55,3.7,0.6,11
+Broccoli,Vegetable,55,3.7,0.6,11
+Apple,Fruit,52,0.3,0.2,14
+Banana,Fruit,89,1.1,0.3,23
+Apple,Fruit,52,0.3,0.2,14
+Brown Rice,Grain,123,2.7,1.0,25
+Chicken Breast,Meat,165,31.0,3.6,0
+Brown Rice,Grain,123,2.7,1.0,25
+Brown Rice,Grain,123,2.7,1.0,25
+Chicken Breast,Meat,165,31.0,3.6,0
+Almonds,Nuts,575,21.0,49.0,22
+Apple,Fruit,52,0.3,0.2,14
+Apple,Fruit,52,0.3,0.2,14
+Banana,Fruit,89,1.1,0.3,23
+Apple,Fruit,52,0.3,0.2,14
+Apple,Fruit,52,0.3,0.2,14
+Apple,Fruit,52,0.3,0.2,14
+Almonds,Nuts,575,21.0,49.0,22
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Broccoli,Vegetable,55,3.7,0.6,11
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Banana,Fruit,89,1.1,0.3,23
+Apple,Fruit,52,0.3,0.2,14
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Broccoli,Vegetable,55,3.7,0.6,11
+Brown Rice,Grain,123,2.7,1.0,25
+Chicken Breast,Meat,165,31.0,3.6,0
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Banana,Fruit,89,1.1,0.3,23
+Apple,Fruit,52,0.3,0.2,14
+Broccoli,Vegetable,55,3.7,0.6,11
+Apple,Fruit,52,0.3,0.2,14
+Apple,Fruit,52,0.3,0.2,14
+Broccoli,Vegetable,55,3.7,0.6,11
+Banana,Fruit,89,1.1,0.3,23
+Banana,Fruit,89,1.1,0.3,23
+Banana,Fruit,89,1.1,0.3,23
+Apple,Fruit,52,0.3,0.2,14
+Almonds,Nuts,575,21.0,49.0,22
+Brown Rice,Grain,123,2.7,1.0,25
+Brown Rice,Grain,123,2.7,1.0,25
+Apple,Fruit,52,0.3,0.2,14
+Banana,Fruit,89,1.1,0.3,23
+Banana,Fruit,89,1.1,0.3,23
+Brown Rice,Grain,123,2.7,1.0,25
+Almonds,Nuts,575,21.0,49.0,22
+Chicken Breast,Meat,165,31.0,3.6,0
+Almonds,Nuts,575,21.0,49.0,22
+Almonds,Nuts,575,21.0,49.0,22
+Broccoli,Vegetable,55,3.7,0.6,11
+Apple,Fruit,52,0.3,0.2,14
+Brown Rice,Grain,123,2.7,1.0,25
+Almonds,Nuts,575,21.0,49.0,22
+Banana,Fruit,89,1.1,0.3,23
+Chicken Breast,Meat,165,31.0,3.6,0
+Almonds,Nuts,575,21.0,49.0,22
+Broccoli,Vegetable,55,3.7,0.6,11
+Apple,Fruit,52,0.3,0.2,14
+Broccoli,Vegetable,55,3.7,0.6,11
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Apple,Fruit,52,0.3,0.2,14
+Broccoli,Vegetable,55,3.7,0.6,11
+Apple,Fruit,52,0.3,0.2,14
+Broccoli,Vegetable,55,3.7,0.6,11
+Banana,Fruit,89,1.1,0.3,23
+Banana,Fruit,89,1.1,0.3,23
+Apple,Fruit,52,0.3,0.2,14
+Banana,Fruit,89,1.1,0.3,23
+Apple,Fruit,52,0.3,0.2,14
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Chicken Breast,Meat,165,31.0,3.6,0
+Banana,Fruit,89,1.1,0.3,23
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Almonds,Nuts,575,21.0,49.0,22
+Almonds,Nuts,575,21.0,49.0,22
+Banana,Fruit,89,1.1,0.3,23
+Almonds,Nuts,575,21.0,49.0,22
+Apple,Fruit,52,0.3,0.2,14
+Broccoli,Vegetable,55,3.7,0.6,11
+Broccoli,Vegetable,55,3.7,0.6,11
+Brown Rice,Grain,123,2.7,1.0,25
+Brown Rice,Grain,123,2.7,1.0,25
+Almonds,Nuts,575,21.0,49.0,22
+Chicken Breast,Meat,165,31.0,3.6,0
+Broccoli,Vegetable,55,3.7,0.6,11
+Brown Rice,Grain,123,2.7,1.0,25
+Almonds,Nuts,575,21.0,49.0,22
+Almonds,Nuts,575,21.0,49.0,22
+Apple,Fruit,52,0.3,0.2,14
+Broccoli,Vegetable,55,3.7,0.6,11
+Chicken Breast,Meat,165,31.0,3.6,0
+Apple,Fruit,52,0.3,0.2,14
+Chicken Breast,Meat,165,31.0,3.6,0
+Almonds,Nuts,575,21.0,49.0,22
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Broccoli,Vegetable,55,3.7,0.6,11
+Broccoli,Vegetable,55,3.7,0.6,11
+Apple,Fruit,52,0.3,0.2,14
+Banana,Fruit,89,1.1,0.3,23
+Apple,Fruit,52,0.3,0.2,14
+Banana,Fruit,89,1.1,0.3,23
+Apple,Fruit,52,0.3,0.2,14
+Apple,Fruit,52,0.3,0.2,14
+Almonds,Nuts,575,21.0,49.0,22
+Apple,Fruit,52,0.3,0.2,14
+Chicken Breast,Meat,165,31.0,3.6,0
+Broccoli,Vegetable,55,3.7,0.6,11
+Apple,Fruit,52,0.3,0.2,14
+Broccoli,Vegetable,55,3.7,0.6,11
+Chicken Breast,Meat,165,31.0,3.6,0
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Almonds,Nuts,575,21.0,49.0,22
+Banana,Fruit,89,1.1,0.3,23
+Banana,Fruit,89,1.1,0.3,23
+Almonds,Nuts,575,21.0,49.0,22
+Banana,Fruit,89,1.1,0.3,23
+Apple,Fruit,52,0.3,0.2,14
+Broccoli,Vegetable,55,3.7,0.6,11
+Broccoli,Vegetable,55,3.7,0.6,11
+Apple,Fruit,52,0.3,0.2,14
+Brown Rice,Grain,123,2.7,1.0,25
+Apple,Fruit,52,0.3,0.2,14
+Chicken Breast,Meat,165,31.0,3.6,0
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Brown Rice,Grain,123,2.7,1.0,25
+Almonds,Nuts,575,21.0,49.0,22
+Apple,Fruit,52,0.3,0.2,14
+Broccoli,Vegetable,55,3.7,0.6,11
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Brown Rice,Grain,123,2.7,1.0,25
+Almonds,Nuts,575,21.0,49.0,22
+Chicken Breast,Meat,165,31.0,3.6,0
+Brown Rice,Grain,123,2.7,1.0,25
+Chicken Breast,Meat,165,31.0,3.6,0
+Brown Rice,Grain,123,2.7,1.0,25
+Chicken Breast,Meat,165,31.0,3.6,0
+Broccoli,Vegetable,55,3.7,0.6,11
+Apple,Fruit,52,0.3,0.2,14
+Apple,Fruit,52,0.3,0.2,14
+Banana,Fruit,89,1.1,0.3,23
+Banana,Fruit,89,1.1,0.3,23
+Almonds,Nuts,575,21.0,49.0,22
+Almonds,Nuts,575,21.0,49.0,22
+Chicken Breast,Meat,165,31.0,3.6,0
+Brown Rice,Grain,123,2.7,1.0,25
+Apple,Fruit,52,0.3,0.2,14
+Broccoli,Vegetable,55,3.7,0.6,11
+Apple,Fruit,52,0.3,0.2,14
+Brown Rice,Grain,123,2.7,1.0,25
+Chicken Breast,Meat,165,31.0,3.6,0
+Apple,Fruit,52,0.3,0.2,14
+Apple,Fruit,52,0.3,0.2,14
+Apple,Fruit,52,0.3,0.2,14
+Apple,Fruit,52,0.3,0.2,14
+Almonds,Nuts,575,21.0,49.0,22
+Chicken Breast,Meat,165,31.0,3.6,0
+Banana,Fruit,89,1.1,0.3,23
+Banana,Fruit,89,1.1,0.3,23
+Chicken Breast,Meat,165,31.0,3.6,0
+Almonds,Nuts,575,21.0,49.0,22
+Banana,Fruit,89,1.1,0.3,23
+Almonds,Nuts,575,21.0,49.0,22
+Broccoli,Vegetable,55,3.7,0.6,11
+Chicken Breast,Meat,165,31.0,3.6,0
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Chicken Breast,Meat,165,31.0,3.6,0
+Apple,Fruit,52,0.3,0.2,14
+Brown Rice,Grain,123,2.7,1.0,25
+Chicken Breast,Meat,165,31.0,3.6,0
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Chicken Breast,Meat,165,31.0,3.6,0
+Brown Rice,Grain,123,2.7,1.0,25
+Apple,Fruit,52,0.3,0.2,14
+Almonds,Nuts,575,21.0,49.0,22
+Chicken Breast,Meat,165,31.0,3.6,0
+Brown Rice,Grain,123,2.7,1.0,25
+Chicken Breast,Meat,165,31.0,3.6,0
+Broccoli,Vegetable,55,3.7,0.6,11
+Apple,Fruit,52,0.3,0.2,14
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Brown Rice,Grain,123,2.7,1.0,25
+Brown Rice,Grain,123,2.7,1.0,25
+Apple,Fruit,52,0.3,0.2,14
+Chicken Breast,Meat,165,31.0,3.6,0
+Apple,Fruit,52,0.3,0.2,14
+Brown Rice,Grain,123,2.7,1.0,25
+Chicken Breast,Meat,165,31.0,3.6,0
+Brown Rice,Grain,123,2.7,1.0,25
+Brown Rice,Grain,123,2.7,1.0,25
+Apple,Fruit,52,0.3,0.2,14
+Broccoli,Vegetable,55,3.7,0.6,11
+Chicken Breast,Meat,165,31.0,3.6,0
+Apple,Fruit,52,0.3,0.2,14
+Banana,Fruit,89,1.1,0.3,23
+Brown Rice,Grain,123,2.7,1.0,25
+Brown Rice,Grain,123,2.7,1.0,25
+Apple,Fruit,52,0.3,0.2,14
+Chicken Breast,Meat,165,31.0,3.6,0
+Almonds,Nuts,575,21.0,49.0,22
+Banana,Fruit,89,1.1,0.3,23
+Chicken Breast,Meat,165,31.0,3.6,0
+Broccoli,Vegetable,55,3.7,0.6,11
+Chicken Breast,Meat,165,31.0,3.6,0
+Brown Rice,Grain,123,2.7,1.0,25
+Almonds,Nuts,575,21.0,49.0,22
+Broccoli,Vegetable,55,3.7,0.6,11
+Apple,Fruit,52,0.3,0.2,14
+Almonds,Nuts,575,21.0,49.0,22
+Apple,Fruit,52,0.3,0.2,14
+Banana,Fruit,89,1.1,0.3,23
+Apple,Fruit,52,0.3,0.2,14
+Apple,Fruit,52,0.3,0.2,14
+Banana,Fruit,89,1.1,0.3,23
+Almonds,Nuts,575,21.0,49.0,22
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Chicken Breast,Meat,165,31.0,3.6,0
+Banana,Fruit,89,1.1,0.3,23
+Chicken Breast,Meat,165,31.0,3.6,0
+Banana,Fruit,89,1.1,0.3,23
+Almonds,Nuts,575,21.0,49.0,22
+Apple,Fruit,52,0.3,0.2,14
+Chicken Breast,Meat,165,31.0,3.6,0
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Banana,Fruit,89,1.1,0.3,23
+Chicken Breast,Meat,165,31.0,3.6,0
+Apple,Fruit,52,0.3,0.2,14
+Chicken Breast,Meat,165,31.0,3.6,0
+Chicken Breast,Meat,165,31.0,3.6,0
+Apple,Fruit,52,0.3,0.2,14
+Almonds,Nuts,575,21.0,49.0,22
+Apple,Fruit,52,0.3,0.2,14
+Broccoli,Vegetable,55,3.7,0.6,11
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Apple,Fruit,52,0.3,0.2,14
+Almonds,Nuts,575,21.0,49.0,22
+Banana,Fruit,89,1.1,0.3,23
+Apple,Fruit,52,0.3,0.2,14
+Apple,Fruit,52,0.3,0.2,14
+Banana,Fruit,89,1.1,0.3,23
+Almonds,Nuts,575,21.0,49.0,22
+Chicken Breast,Meat,165,31.0,3.6,0
+Almonds,Nuts,575,21.0,49.0,22
+Apple,Fruit,52,0.3,0.2,14
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Brown Rice,Grain,123,2.7,1.0,25
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Apple,Fruit,52,0.3,0.2,14
+Apple,Fruit,52,0.3,0.2,14
+Broccoli,Vegetable,55,3.7,0.6,11
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Chicken Breast,Meat,165,31.0,3.6,0
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Almonds,Nuts,575,21.0,49.0,22
+Banana,Fruit,89,1.1,0.3,23
+Almonds,Nuts,575,21.0,49.0,22
+Almonds,Nuts,575,21.0,49.0,22
+Apple,Fruit,52,0.3,0.2,14
+Banana,Fruit,89,1.1,0.3,23
+Almonds,Nuts,575,21.0,49.0,22
+Chicken Breast,Meat,165,31.0,3.6,0
+Almonds,Nuts,575,21.0,49.0,22
+Apple,Fruit,52,0.3,0.2,14
+Broccoli,Vegetable,55,3.7,0.6,11
+Chicken Breast,Meat,165,31.0,3.6,0
+Banana,Fruit,89,1.1,0.3,23
+Almonds,Nuts,575,21.0,49.0,22
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Apple,Fruit,52,0.3,0.2,14
+Banana,Fruit,89,1.1,0.3,23
+Almonds,Nuts,575,21.0,49.0,22
+Banana,Fruit,89,1.1,0.3,23
+Brown Rice,Grain,123,2.7,1.0,25
+Brown Rice,Grain,123,2.7,1.0,25
+Brown Rice,Grain,123,2.7,1.0,25
+Apple,Fruit,52,0.3,0.2,14
+Brown Rice,Grain,123,2.7,1.0,25
+Almonds,Nuts,575,21.0,49.0,22
+Banana,Fruit,89,1.1,0.3,23
+Brown Rice,Grain,123,2.7,1.0,25
+Brown Rice,Grain,123,2.7,1.0,25
+Almonds,Nuts,575,21.0,49.0,22
+Chicken Breast,Meat,165,31.0,3.6,0
+Apple,Fruit,52,0.3,0.2,14
+Banana,Fruit,89,1.1,0.3,23
+Apple,Fruit,52,0.3,0.2,14
+Apple,Fruit,52,0.3,0.2,14
+Almonds,Nuts,575,21.0,49.0,22
+Chicken Breast,Meat,165,31.0,3.6,0
+Chicken Breast,Meat,165,31.0,3.6,0
+Chicken Breast,Meat,165,31.0,3.6,0
+Chicken Breast,Meat,165,31.0,3.6,0
+Banana,Fruit,89,1.1,0.3,23
+Chicken Breast,Meat,165,31.0,3.6,0
+Chicken Breast,Meat,165,31.0,3.6,0
+Almonds,Nuts,575,21.0,49.0,22
+Apple,Fruit,52,0.3,0.2,14
+Banana,Fruit,89,1.1,0.3,23
+Almonds,Nuts,575,21.0,49.0,22
+Apple,Fruit,52,0.3,0.2,14
+Brown Rice,Grain,123,2.7,1.0,25
+Chicken Breast,Meat,165,31.0,3.6,0
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Apple,Fruit,52,0.3,0.2,14
+Banana,Fruit,89,1.1,0.3,23
+Apple,Fruit,52,0.3,0.2,14
+Broccoli,Vegetable,55,3.7,0.6,11
+Brown Rice,Grain,123,2.7,1.0,25
+Almonds,Nuts,575,21.0,49.0,22
+Banana,Fruit,89,1.1,0.3,23
+Banana,Fruit,89,1.1,0.3,23
+Almonds,Nuts,575,21.0,49.0,22
+Almonds,Nuts,575,21.0,49.0,22
+Apple,Fruit,52,0.3,0.2,14
+Broccoli,Vegetable,55,3.7,0.6,11
+Broccoli,Vegetable,55,3.7,0.6,11
+Apple,Fruit,52,0.3,0.2,14
+Brown Rice,Grain,123,2.7,1.0,25
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Chicken Breast,Meat,165,31.0,3.6,0
+Apple,Fruit,52,0.3,0.2,14
+Chicken Breast,Meat,165,31.0,3.6,0
+Apple,Fruit,52,0.3,0.2,14
+Chicken Breast,Meat,165,31.0,3.6,0
+Almonds,Nuts,575,21.0,49.0,22
+Broccoli,Vegetable,55,3.7,0.6,11
+Chicken Breast,Meat,165,31.0,3.6,0
+Brown Rice,Grain,123,2.7,1.0,25
+Apple,Fruit,52,0.3,0.2,14
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Chicken Breast,Meat,165,31.0,3.6,0
+Almonds,Nuts,575,21.0,49.0,22
+Chicken Breast,Meat,165,31.0,3.6,0
+Almonds,Nuts,575,21.0,49.0,22
+Brown Rice,Grain,123,2.7,1.0,25
+Apple,Fruit,52,0.3,0.2,14
+Banana,Fruit,89,1.1,0.3,23
+Chicken Breast,Meat,165,31.0,3.6,0
+Banana,Fruit,89,1.1,0.3,23
+Apple,Fruit,52,0.3,0.2,14
+Chicken Breast,Meat,165,31.0,3.6,0
+Brown Rice,Grain,123,2.7,1.0,25
+Apple,Fruit,52,0.3,0.2,14
+Banana,Fruit,89,1.1,0.3,23
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Brown Rice,Grain,123,2.7,1.0,25
+Apple,Fruit,52,0.3,0.2,14
+Apple,Fruit,52,0.3,0.2,14
+Almonds,Nuts,575,21.0,49.0,22
+Apple,Fruit,52,0.3,0.2,14
+Banana,Fruit,89,1.1,0.3,23
+Almonds,Nuts,575,21.0,49.0,22
+Broccoli,Vegetable,55,3.7,0.6,11
+Chicken Breast,Meat,165,31.0,3.6,0
+Broccoli,Vegetable,55,3.7,0.6,11
+Brown Rice,Grain,123,2.7,1.0,25
+Almonds,Nuts,575,21.0,49.0,22
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Chicken Breast,Meat,165,31.0,3.6,0
+Almonds,Nuts,575,21.0,49.0,22
+Almonds,Nuts,575,21.0,49.0,22
+Brown Rice,Grain,123,2.7,1.0,25
+Almonds,Nuts,575,21.0,49.0,22
+Chicken Breast,Meat,165,31.0,3.6,0
+Almonds,Nuts,575,21.0,49.0,22
+Chicken Breast,Meat,165,31.0,3.6,0
+Apple,Fruit,52,0.3,0.2,14
+Broccoli,Vegetable,55,3.7,0.6,11
+Banana,Fruit,89,1.1,0.3,23
+Apple,Fruit,52,0.3,0.2,14
+Broccoli,Vegetable,55,3.7,0.6,11
+Chicken Breast,Meat,165,31.0,3.6,0
+Apple,Fruit,52,0.3,0.2,14
+Banana,Fruit,89,1.1,0.3,23
+Brown Rice,Grain,123,2.7,1.0,25
+Apple,Fruit,52,0.3,0.2,14
+Chicken Breast,Meat,165,31.0,3.6,0
+Brown Rice,Grain,123,2.7,1.0,25
+Almonds,Nuts,575,21.0,49.0,22
+Brown Rice,Grain,123,2.7,1.0,25
+Apple,Fruit,52,0.3,0.2,14
+Chicken Breast,Meat,165,31.0,3.6,0
+Banana,Fruit,89,1.1,0.3,23
+Almonds,Nuts,575,21.0,49.0,22
+Banana,Fruit,89,1.1,0.3,23
+Apple,Fruit,52,0.3,0.2,14
+Chicken Breast,Meat,165,31.0,3.6,0
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Almonds,Nuts,575,21.0,49.0,22
+Apple,Fruit,52,0.3,0.2,14
+Banana,Fruit,89,1.1,0.3,23
+Banana,Fruit,89,1.1,0.3,23
+Apple,Fruit,52,0.3,0.2,14
+Brown Rice,Grain,123,2.7,1.0,25
+Almonds,Nuts,575,21.0,49.0,22
+Banana,Fruit,89,1.1,0.3,23
+Almonds,Nuts,575,21.0,49.0,22
+Banana,Fruit,89,1.1,0.3,23
+Brown Rice,Grain,123,2.7,1.0,25
+Chicken Breast,Meat,165,31.0,3.6,0
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Chicken Breast,Meat,165,31.0,3.6,0
+Banana,Fruit,89,1.1,0.3,23
+Brown Rice,Grain,123,2.7,1.0,25
+Apple,Fruit,52,0.3,0.2,14
+Chicken Breast,Meat,165,31.0,3.6,0
+Apple,Fruit,52,0.3,0.2,14
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Chicken Breast,Meat,165,31.0,3.6,0
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Chicken Breast,Meat,165,31.0,3.6,0
+Banana,Fruit,89,1.1,0.3,23
+Chicken Breast,Meat,165,31.0,3.6,0
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Chicken Breast,Meat,165,31.0,3.6,0
+Brown Rice,Grain,123,2.7,1.0,25
+Chicken Breast,Meat,165,31.0,3.6,0
+Brown Rice,Grain,123,2.7,1.0,25
+Apple,Fruit,52,0.3,0.2,14
+Broccoli,Vegetable,55,3.7,0.6,11
+Banana,Fruit,89,1.1,0.3,23
+Banana,Fruit,89,1.1,0.3,23
+Apple,Fruit,52,0.3,0.2,14
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Broccoli,Vegetable,55,3.7,0.6,11
+Banana,Fruit,89,1.1,0.3,23
+Brown Rice,Grain,123,2.7,1.0,25
+Almonds,Nuts,575,21.0,49.0,22
+Almonds,Nuts,575,21.0,49.0,22
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Brown Rice,Grain,123,2.7,1.0,25
+Almonds,Nuts,575,21.0,49.0,22
+Broccoli,Vegetable,55,3.7,0.6,11
+Banana,Fruit,89,1.1,0.3,23
+Brown Rice,Grain,123,2.7,1.0,25
+Almonds,Nuts,575,21.0,49.0,22
+Apple,Fruit,52,0.3,0.2,14
+Almonds,Nuts,575,21.0,49.0,22
+Almonds,Nuts,575,21.0,49.0,22
+Banana,Fruit,89,1.1,0.3,23
+Chicken Breast,Meat,165,31.0,3.6,0
+Chicken Breast,Meat,165,31.0,3.6,0
+Chicken Breast,Meat,165,31.0,3.6,0
+Broccoli,Vegetable,55,3.7,0.6,11
+Banana,Fruit,89,1.1,0.3,23
+Banana,Fruit,89,1.1,0.3,23
+Banana,Fruit,89,1.1,0.3,23
+Apple,Fruit,52,0.3,0.2,14
+Almonds,Nuts,575,21.0,49.0,22
+Chicken Breast,Meat,165,31.0,3.6,0
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Brown Rice,Grain,123,2.7,1.0,25
+Apple,Fruit,52,0.3,0.2,14
+Apple,Fruit,52,0.3,0.2,14
+Brown Rice,Grain,123,2.7,1.0,25
+Apple,Fruit,52,0.3,0.2,14
+Apple,Fruit,52,0.3,0.2,14
+Apple,Fruit,52,0.3,0.2,14
+Banana,Fruit,89,1.1,0.3,23
+Apple,Fruit,52,0.3,0.2,14
+Apple,Fruit,52,0.3,0.2,14
+Broccoli,Vegetable,55,3.7,0.6,11
+Apple,Fruit,52,0.3,0.2,14
+Apple,Fruit,52,0.3,0.2,14
+Brown Rice,Grain,123,2.7,1.0,25
+Almonds,Nuts,575,21.0,49.0,22
+Almonds,Nuts,575,21.0,49.0,22
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Almonds,Nuts,575,21.0,49.0,22
+Banana,Fruit,89,1.1,0.3,23
+Apple,Fruit,52,0.3,0.2,14
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Broccoli,Vegetable,55,3.7,0.6,11
+Chicken Breast,Meat,165,31.0,3.6,0
+Apple,Fruit,52,0.3,0.2,14
+Broccoli,Vegetable,55,3.7,0.6,11
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Apple,Fruit,52,0.3,0.2,14
+Apple,Fruit,52,0.3,0.2,14
+Apple,Fruit,52,0.3,0.2,14
+Apple,Fruit,52,0.3,0.2,14
+Chicken Breast,Meat,165,31.0,3.6,0
+Broccoli,Vegetable,55,3.7,0.6,11
+Banana,Fruit,89,1.1,0.3,23
+Brown Rice,Grain,123,2.7,1.0,25
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Broccoli,Vegetable,55,3.7,0.6,11
+Banana,Fruit,89,1.1,0.3,23
+Banana,Fruit,89,1.1,0.3,23
+Chicken Breast,Meat,165,31.0,3.6,0
+Apple,Fruit,52,0.3,0.2,14
+Chicken Breast,Meat,165,31.0,3.6,0
+Chicken Breast,Meat,165,31.0,3.6,0
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Banana,Fruit,89,1.1,0.3,23
+Banana,Fruit,89,1.1,0.3,23
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Apple,Fruit,52,0.3,0.2,14
+Banana,Fruit,89,1.1,0.3,23
+Brown Rice,Grain,123,2.7,1.0,25
+Apple,Fruit,52,0.3,0.2,14
+Brown Rice,Grain,123,2.7,1.0,25
+Apple,Fruit,52,0.3,0.2,14
+Broccoli,Vegetable,55,3.7,0.6,11
+Chicken Breast,Meat,165,31.0,3.6,0
+Brown Rice,Grain,123,2.7,1.0,25
+Chicken Breast,Meat,165,31.0,3.6,0
+Broccoli,Vegetable,55,3.7,0.6,11
+Apple,Fruit,52,0.3,0.2,14
+Brown Rice,Grain,123,2.7,1.0,25
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Chicken Breast,Meat,165,31.0,3.6,0
+Broccoli,Vegetable,55,3.7,0.6,11
+Apple,Fruit,52,0.3,0.2,14
+Brown Rice,Grain,123,2.7,1.0,25
+Apple,Fruit,52,0.3,0.2,14
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Chicken Breast,Meat,165,31.0,3.6,0
+Brown Rice,Grain,123,2.7,1.0,25
+Almonds,Nuts,575,21.0,49.0,22
+Banana,Fruit,89,1.1,0.3,23
+Banana,Fruit,89,1.1,0.3,23
+Chicken Breast,Meat,165,31.0,3.6,0
+Chicken Breast,Meat,165,31.0,3.6,0
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Chicken Breast,Meat,165,31.0,3.6,0
+Banana,Fruit,89,1.1,0.3,23
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Apple,Fruit,52,0.3,0.2,14
+Almonds,Nuts,575,21.0,49.0,22
+Broccoli,Vegetable,55,3.7,0.6,11
+Banana,Fruit,89,1.1,0.3,23
+Banana,Fruit,89,1.1,0.3,23
+Apple,Fruit,52,0.3,0.2,14
+Banana,Fruit,89,1.1,0.3,23
+Banana,Fruit,89,1.1,0.3,23
+Brown Rice,Grain,123,2.7,1.0,25
+Apple,Fruit,52,0.3,0.2,14
+Apple,Fruit,52,0.3,0.2,14
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Almonds,Nuts,575,21.0,49.0,22
+Apple,Fruit,52,0.3,0.2,14
+Almonds,Nuts,575,21.0,49.0,22
+Almonds,Nuts,575,21.0,49.0,22
+Almonds,Nuts,575,21.0,49.0,22
+Brown Rice,Grain,123,2.7,1.0,25
+Brown Rice,Grain,123,2.7,1.0,25
+Apple,Fruit,52,0.3,0.2,14
+Broccoli,Vegetable,55,3.7,0.6,11
+Apple,Fruit,52,0.3,0.2,14
+Apple,Fruit,52,0.3,0.2,14
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Chicken Breast,Meat,165,31.0,3.6,0
+Apple,Fruit,52,0.3,0.2,14
+Broccoli,Vegetable,55,3.7,0.6,11
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Brown Rice,Grain,123,2.7,1.0,25
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Broccoli,Vegetable,55,3.7,0.6,11
+Brown Rice,Grain,123,2.7,1.0,25
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Apple,Fruit,52,0.3,0.2,14
+Chicken Breast,Meat,165,31.0,3.6,0
+Apple,Fruit,52,0.3,0.2,14
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Apple,Fruit,52,0.3,0.2,14
+Broccoli,Vegetable,55,3.7,0.6,11
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Brown Rice,Grain,123,2.7,1.0,25
+Brown Rice,Grain,123,2.7,1.0,25
+Chicken Breast,Meat,165,31.0,3.6,0
+Apple,Fruit,52,0.3,0.2,14
+Broccoli,Vegetable,55,3.7,0.6,11
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Apple,Fruit,52,0.3,0.2,14
+Chicken Breast,Meat,165,31.0,3.6,0
+Almonds,Nuts,575,21.0,49.0,22
+Chicken Breast,Meat,165,31.0,3.6,0
+Banana,Fruit,89,1.1,0.3,23
+Chicken Breast,Meat,165,31.0,3.6,0
+Chicken Breast,Meat,165,31.0,3.6,0
+Apple,Fruit,52,0.3,0.2,14
+Banana,Fruit,89,1.1,0.3,23
+Apple,Fruit,52,0.3,0.2,14
+Brown Rice,Grain,123,2.7,1.0,25
+Apple,Fruit,52,0.3,0.2,14
+Broccoli,Vegetable,55,3.7,0.6,11
+Chicken Breast,Meat,165,31.0,3.6,0
+Almonds,Nuts,575,21.0,49.0,22
+Banana,Fruit,89,1.1,0.3,23
+Banana,Fruit,89,1.1,0.3,23
+Almonds,Nuts,575,21.0,49.0,22
+Broccoli,Vegetable,55,3.7,0.6,11
+Broccoli,Vegetable,55,3.7,0.6,11
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Apple,Fruit,52,0.3,0.2,14
+Almonds,Nuts,575,21.0,49.0,22
+Chicken Breast,Meat,165,31.0,3.6,0
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Almonds,Nuts,575,21.0,49.0,22
+Broccoli,Vegetable,55,3.7,0.6,11
+Broccoli,Vegetable,55,3.7,0.6,11
+Brown Rice,Grain,123,2.7,1.0,25
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Brown Rice,Grain,123,2.7,1.0,25
+Chicken Breast,Meat,165,31.0,3.6,0
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Chicken Breast,Meat,165,31.0,3.6,0
+Almonds,Nuts,575,21.0,49.0,22
+Broccoli,Vegetable,55,3.7,0.6,11
+Brown Rice,Grain,123,2.7,1.0,25
+Apple,Fruit,52,0.3,0.2,14
+Banana,Fruit,89,1.1,0.3,23
+Banana,Fruit,89,1.1,0.3,23
+Chicken Breast,Meat,165,31.0,3.6,0
+Brown Rice,Grain,123,2.7,1.0,25
+Brown Rice,Grain,123,2.7,1.0,25
+Almonds,Nuts,575,21.0,49.0,22
+Apple,Fruit,52,0.3,0.2,14
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Brown Rice,Grain,123,2.7,1.0,25
+Apple,Fruit,52,0.3,0.2,14
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Almonds,Nuts,575,21.0,49.0,22
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Chicken Breast,Meat,165,31.0,3.6,0
+Chicken Breast,Meat,165,31.0,3.6,0
+Apple,Fruit,52,0.3,0.2,14
+Chicken Breast,Meat,165,31.0,3.6,0
+Chicken Breast,Meat,165,31.0,3.6,0
+Brown Rice,Grain,123,2.7,1.0,25
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Banana,Fruit,89,1.1,0.3,23
+Almonds,Nuts,575,21.0,49.0,22
+Apple,Fruit,52,0.3,0.2,14
+Broccoli,Vegetable,55,3.7,0.6,11
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Brown Rice,Grain,123,2.7,1.0,25
+Brown Rice,Grain,123,2.7,1.0,25
+Apple,Fruit,52,0.3,0.2,14
+Almonds,Nuts,575,21.0,49.0,22
+Banana,Fruit,89,1.1,0.3,23
+Chicken Breast,Meat,165,31.0,3.6,0
+Banana,Fruit,89,1.1,0.3,23
+Banana,Fruit,89,1.1,0.3,23
+Banana,Fruit,89,1.1,0.3,23
+Almonds,Nuts,575,21.0,49.0,22
+Chicken Breast,Meat,165,31.0,3.6,0
+Chicken Breast,Meat,165,31.0,3.6,0
+Banana,Fruit,89,1.1,0.3,23
+Almonds,Nuts,575,21.0,49.0,22
+Broccoli,Vegetable,55,3.7,0.6,11
+Apple,Fruit,52,0.3,0.2,14
+Chicken Breast,Meat,165,31.0,3.6,0
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Banana,Fruit,89,1.1,0.3,23
+Chicken Breast,Meat,165,31.0,3.6,0
+Chicken Breast,Meat,165,31.0,3.6,0
+Banana,Fruit,89,1.1,0.3,23
+Banana,Fruit,89,1.1,0.3,23
+Banana,Fruit,89,1.1,0.3,23
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Almonds,Nuts,575,21.0,49.0,22
+Broccoli,Vegetable,55,3.7,0.6,11
+Chicken Breast,Meat,165,31.0,3.6,0
+Almonds,Nuts,575,21.0,49.0,22
+Banana,Fruit,89,1.1,0.3,23
+Chicken Breast,Meat,165,31.0,3.6,0
+Chicken Breast,Meat,165,31.0,3.6,0
+Apple,Fruit,52,0.3,0.2,14
+Banana,Fruit,89,1.1,0.3,23
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Brown Rice,Grain,123,2.7,1.0,25
+Apple,Fruit,52,0.3,0.2,14
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Almonds,Nuts,575,21.0,49.0,22
+Brown Rice,Grain,123,2.7,1.0,25
+Brown Rice,Grain,123,2.7,1.0,25
+Chicken Breast,Meat,165,31.0,3.6,0
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Apple,Fruit,52,0.3,0.2,14
+Broccoli,Vegetable,55,3.7,0.6,11
+Apple,Fruit,52,0.3,0.2,14
+Almonds,Nuts,575,21.0,49.0,22
+Almonds,Nuts,575,21.0,49.0,22
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Banana,Fruit,89,1.1,0.3,23
+Apple,Fruit,52,0.3,0.2,14
+Chicken Breast,Meat,165,31.0,3.6,0
+Chicken Breast,Meat,165,31.0,3.6,0
+Apple,Fruit,52,0.3,0.2,14
+Broccoli,Vegetable,55,3.7,0.6,11
+Apple,Fruit,52,0.3,0.2,14
+Banana,Fruit,89,1.1,0.3,23
+Chicken Breast,Meat,165,31.0,3.6,0
+Brown Rice,Grain,123,2.7,1.0,25
+Apple,Fruit,52,0.3,0.2,14
+Chicken Breast,Meat,165,31.0,3.6,0
+Chicken Breast,Meat,165,31.0,3.6,0
+Chicken Breast,Meat,165,31.0,3.6,0
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Brown Rice,Grain,123,2.7,1.0,25
+Apple,Fruit,52,0.3,0.2,14
+Broccoli,Vegetable,55,3.7,0.6,11
+Broccoli,Vegetable,55,3.7,0.6,11
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Apple,Fruit,52,0.3,0.2,14
+Chicken Breast,Meat,165,31.0,3.6,0
+Apple,Fruit,52,0.3,0.2,14
+Broccoli,Vegetable,55,3.7,0.6,11
+Chicken Breast,Meat,165,31.0,3.6,0
+Almonds,Nuts,575,21.0,49.0,22
+Banana,Fruit,89,1.1,0.3,23
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Banana,Fruit,89,1.1,0.3,23
+Almonds,Nuts,575,21.0,49.0,22
+Almonds,Nuts,575,21.0,49.0,22
+Chicken Breast,Meat,165,31.0,3.6,0
+Chicken Breast,Meat,165,31.0,3.6,0
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Chicken Breast,Meat,165,31.0,3.6,0
+Broccoli,Vegetable,55,3.7,0.6,11
+Brown Rice,Grain,123,2.7,1.0,25
+Brown Rice,Grain,123,2.7,1.0,25
+Apple,Fruit,52,0.3,0.2,14
+Banana,Fruit,89,1.1,0.3,23
+Almonds,Nuts,575,21.0,49.0,22
+Banana,Fruit,89,1.1,0.3,23
+Chicken Breast,Meat,165,31.0,3.6,0
+Banana,Fruit,89,1.1,0.3,23
+Apple,Fruit,52,0.3,0.2,14
+Apple,Fruit,52,0.3,0.2,14
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Apple,Fruit,52,0.3,0.2,14
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Banana,Fruit,89,1.1,0.3,23
+Banana,Fruit,89,1.1,0.3,23
+Banana,Fruit,89,1.1,0.3,23
+Chicken Breast,Meat,165,31.0,3.6,0
+Apple,Fruit,52,0.3,0.2,14
+Broccoli,Vegetable,55,3.7,0.6,11
+Brown Rice,Grain,123,2.7,1.0,25
+Brown Rice,Grain,123,2.7,1.0,25
+Apple,Fruit,52,0.3,0.2,14
+Chicken Breast,Meat,165,31.0,3.6,0
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Almonds,Nuts,575,21.0,49.0,22
+Banana,Fruit,89,1.1,0.3,23
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Broccoli,Vegetable,55,3.7,0.6,11
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Banana,Fruit,89,1.1,0.3,23
+Banana,Fruit,89,1.1,0.3,23
+Almonds,Nuts,575,21.0,49.0,22
+Banana,Fruit,89,1.1,0.3,23
+Banana,Fruit,89,1.1,0.3,23
+Apple,Fruit,52,0.3,0.2,14
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Apple,Fruit,52,0.3,0.2,14
+Apple,Fruit,52,0.3,0.2,14
+Banana,Fruit,89,1.1,0.3,23
+Almonds,Nuts,575,21.0,49.0,22
+Broccoli,Vegetable,55,3.7,0.6,11
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Chicken Breast,Meat,165,31.0,3.6,0
+Brown Rice,Grain,123,2.7,1.0,25
+Chicken Breast,Meat,165,31.0,3.6,0
+Chicken Breast,Meat,165,31.0,3.6,0
+Chicken Breast,Meat,165,31.0,3.6,0
+Broccoli,Vegetable,55,3.7,0.6,11
+Apple,Fruit,52,0.3,0.2,14
+Brown Rice,Grain,123,2.7,1.0,25
+Brown Rice,Grain,123,2.7,1.0,25
+Almonds,Nuts,575,21.0,49.0,22
+Apple,Fruit,52,0.3,0.2,14
+Banana,Fruit,89,1.1,0.3,23
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Apple,Fruit,52,0.3,0.2,14
+Brown Rice,Grain,123,2.7,1.0,25
+Apple,Fruit,52,0.3,0.2,14
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Almonds,Nuts,575,21.0,49.0,22
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Apple,Fruit,52,0.3,0.2,14
+Brown Rice,Grain,123,2.7,1.0,25
+Apple,Fruit,52,0.3,0.2,14
+Banana,Fruit,89,1.1,0.3,23
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Apple,Fruit,52,0.3,0.2,14
+Chicken Breast,Meat,165,31.0,3.6,0
+Almonds,Nuts,575,21.0,49.0,22
+Broccoli,Vegetable,55,3.7,0.6,11
+Apple,Fruit,52,0.3,0.2,14
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Banana,Fruit,89,1.1,0.3,23
+Brown Rice,Grain,123,2.7,1.0,25
+Chicken Breast,Meat,165,31.0,3.6,0
+Almonds,Nuts,575,21.0,49.0,22
+Broccoli,Vegetable,55,3.7,0.6,11
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Apple,Fruit,52,0.3,0.2,14
+Almonds,Nuts,575,21.0,49.0,22
+Chicken Breast,Meat,165,31.0,3.6,0
+Chicken Breast,Meat,165,31.0,3.6,0
+Banana,Fruit,89,1.1,0.3,23
+Apple,Fruit,52,0.3,0.2,14
+Apple,Fruit,52,0.3,0.2,14
+Apple,Fruit,52,0.3,0.2,14
+Banana,Fruit,89,1.1,0.3,23
+Chicken Breast,Meat,165,31.0,3.6,0
+Apple,Fruit,52,0.3,0.2,14
+Broccoli,Vegetable,55,3.7,0.6,11
+Apple,Fruit,52,0.3,0.2,14
+Chicken Breast,Meat,165,31.0,3.6,0
+Banana,Fruit,89,1.1,0.3,23
+Apple,Fruit,52,0.3,0.2,14
+Apple,Fruit,52,0.3,0.2,14
+Chicken Breast,Meat,165,31.0,3.6,0
+Broccoli,Vegetable,55,3.7,0.6,11
+Apple,Fruit,52,0.3,0.2,14
+Apple,Fruit,52,0.3,0.2,14
+Broccoli,Vegetable,55,3.7,0.6,11
+Chicken Breast,Meat,165,31.0,3.6,0
+Chicken Breast,Meat,165,31.0,3.6,0
+Almonds,Nuts,575,21.0,49.0,22
+Brown Rice,Grain,123,2.7,1.0,25
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Almonds,Nuts,575,21.0,49.0,22
+Apple,Fruit,52,0.3,0.2,14
+Chicken Breast,Meat,165,31.0,3.6,0
+Apple,Fruit,52,0.3,0.2,14
+Almonds,Nuts,575,21.0,49.0,22
+Almonds,Nuts,575,21.0,49.0,22
+Brown Rice,Grain,123,2.7,1.0,25
+Apple,Fruit,52,0.3,0.2,14
+Banana,Fruit,89,1.1,0.3,23
+Apple,Fruit,52,0.3,0.2,14
+Almonds,Nuts,575,21.0,49.0,22
+Almonds,Nuts,575,21.0,49.0,22
+Broccoli,Vegetable,55,3.7,0.6,11
+Broccoli,Vegetable,55,3.7,0.6,11
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Apple,Fruit,52,0.3,0.2,14
+Broccoli,Vegetable,55,3.7,0.6,11
+Banana,Fruit,89,1.1,0.3,23
+Brown Rice,Grain,123,2.7,1.0,25
+Apple,Fruit,52,0.3,0.2,14
+Banana,Fruit,89,1.1,0.3,23
+Banana,Fruit,89,1.1,0.3,23
+Chicken Breast,Meat,165,31.0,3.6,0
+Banana,Fruit,89,1.1,0.3,23
+Brown Rice,Grain,123,2.7,1.0,25
+Almonds,Nuts,575,21.0,49.0,22
+Almonds,Nuts,575,21.0,49.0,22
+Chicken Breast,Meat,165,31.0,3.6,0
+Almonds,Nuts,575,21.0,49.0,22
+Almonds,Nuts,575,21.0,49.0,22
+Banana,Fruit,89,1.1,0.3,23
+Chicken Breast,Meat,165,31.0,3.6,0
+Apple,Fruit,52,0.3,0.2,14
+Apple,Fruit,52,0.3,0.2,14
+Brown Rice,Grain,123,2.7,1.0,25
+Chicken Breast,Meat,165,31.0,3.6,0
+Banana,Fruit,89,1.1,0.3,23
+Banana,Fruit,89,1.1,0.3,23
+Banana,Fruit,89,1.1,0.3,23
+Apple,Fruit,52,0.3,0.2,14
+Almonds,Nuts,575,21.0,49.0,22
+Almonds,Nuts,575,21.0,49.0,22
+Apple,Fruit,52,0.3,0.2,14
+Almonds,Nuts,575,21.0,49.0,22
+Broccoli,Vegetable,55,3.7,0.6,11
+Chicken Breast,Meat,165,31.0,3.6,0
+Brown Rice,Grain,123,2.7,1.0,25
+Almonds,Nuts,575,21.0,49.0,22
+Almonds,Nuts,575,21.0,49.0,22
+Broccoli,Vegetable,55,3.7,0.6,11
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Banana,Fruit,89,1.1,0.3,23
+Chicken Breast,Meat,165,31.0,3.6,0
+Brown Rice,Grain,123,2.7,1.0,25
+Brown Rice,Grain,123,2.7,1.0,25
+Almonds,Nuts,575,21.0,49.0,22
+Chicken Breast,Meat,165,31.0,3.6,0
+Apple,Fruit,52,0.3,0.2,14
+Brown Rice,Grain,123,2.7,1.0,25
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Banana,Fruit,89,1.1,0.3,23
+Chicken Breast,Meat,165,31.0,3.6,0
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Brown Rice,Grain,123,2.7,1.0,25
+Almonds,Nuts,575,21.0,49.0,22
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Broccoli,Vegetable,55,3.7,0.6,11
+Apple,Fruit,52,0.3,0.2,14
+Broccoli,Vegetable,55,3.7,0.6,11
+Chicken Breast,Meat,165,31.0,3.6,0
+Apple,Fruit,52,0.3,0.2,14
+Brown Rice,Grain,123,2.7,1.0,25
+Apple,Fruit,52,0.3,0.2,14
+Banana,Fruit,89,1.1,0.3,23
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Apple,Fruit,52,0.3,0.2,14
+Apple,Fruit,52,0.3,0.2,14
+Broccoli,Vegetable,55,3.7,0.6,11
+Banana,Fruit,89,1.1,0.3,23
+Chicken Breast,Meat,165,31.0,3.6,0
+Banana,Fruit,89,1.1,0.3,23
+Chicken Breast,Meat,165,31.0,3.6,0
+Banana,Fruit,89,1.1,0.3,23
+Almonds,Nuts,575,21.0,49.0,22
+Broccoli,Vegetable,55,3.7,0.6,11
+Broccoli,Vegetable,55,3.7,0.6,11
+Chicken Breast,Meat,165,31.0,3.6,0
+Broccoli,Vegetable,55,3.7,0.6,11
+Chicken Breast,Meat,165,31.0,3.6,0
+Broccoli,Vegetable,55,3.7,0.6,11
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Apple,Fruit,52,0.3,0.2,14
+Apple,Fruit,52,0.3,0.2,14
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Banana,Fruit,89,1.1,0.3,23
+Almonds,Nuts,575,21.0,49.0,22
+Apple,Fruit,52,0.3,0.2,14
+Apple,Fruit,52,0.3,0.2,14
+Apple,Fruit,52,0.3,0.2,14
+Banana,Fruit,89,1.1,0.3,23
+Chicken Breast,Meat,165,31.0,3.6,0
+Chicken Breast,Meat,165,31.0,3.6,0
+Chicken Breast,Meat,165,31.0,3.6,0
+Banana,Fruit,89,1.1,0.3,23
+Almonds,Nuts,575,21.0,49.0,22
+Apple,Fruit,52,0.3,0.2,14
+Apple,Fruit,52,0.3,0.2,14
+Banana,Fruit,89,1.1,0.3,23
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Broccoli,Vegetable,55,3.7,0.6,11
+Chicken Breast,Meat,165,31.0,3.6,0
+Apple,Fruit,52,0.3,0.2,14
+Chicken Breast,Meat,165,31.0,3.6,0
+Broccoli,Vegetable,55,3.7,0.6,11
+Chicken Breast,Meat,165,31.0,3.6,0
+Chicken Breast,Meat,165,31.0,3.6,0
+Chicken Breast,Meat,165,31.0,3.6,0
+Chicken Breast,Meat,165,31.0,3.6,0
+Almonds,Nuts,575,21.0,49.0,22
+Banana,Fruit,89,1.1,0.3,23
+Apple,Fruit,52,0.3,0.2,14
+Broccoli,Vegetable,55,3.7,0.6,11
+Apple,Fruit,52,0.3,0.2,14
+Broccoli,Vegetable,55,3.7,0.6,11
+Broccoli,Vegetable,55,3.7,0.6,11
+Banana,Fruit,89,1.1,0.3,23
+Apple,Fruit,52,0.3,0.2,14
+Apple,Fruit,52,0.3,0.2,14
+Almonds,Nuts,575,21.0,49.0,22
+Brown Rice,Grain,123,2.7,1.0,25
+Almonds,Nuts,575,21.0,49.0,22
+Chicken Breast,Meat,165,31.0,3.6,0
+Broccoli,Vegetable,55,3.7,0.6,11
+Chicken Breast,Meat,165,31.0,3.6,0
+Apple,Fruit,52,0.3,0.2,14
+Chicken Breast,Meat,165,31.0,3.6,0
+Almonds,Nuts,575,21.0,49.0,22
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Brown Rice,Grain,123,2.7,1.0,25
+Brown Rice,Grain,123,2.7,1.0,25
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Chicken Breast,Meat,165,31.0,3.6,0
+Banana,Fruit,89,1.1,0.3,23
+Apple,Fruit,52,0.3,0.2,14
+Apple,Fruit,52,0.3,0.2,14
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Chicken Breast,Meat,165,31.0,3.6,0
+Banana,Fruit,89,1.1,0.3,23
+Apple,Fruit,52,0.3,0.2,14
+Almonds,Nuts,575,21.0,49.0,22
+Chicken Breast,Meat,165,31.0,3.6,0
+Almonds,Nuts,575,21.0,49.0,22
+Almonds,Nuts,575,21.0,49.0,22
+Chicken Breast,Meat,165,31.0,3.6,0
+Almonds,Nuts,575,21.0,49.0,22
+Almonds,Nuts,575,21.0,49.0,22
+Brown Rice,Grain,123,2.7,1.0,25
+Apple,Fruit,52,0.3,0.2,14
+Almonds,Nuts,575,21.0,49.0,22
+Almonds,Nuts,575,21.0,49.0,22
+Almonds,Nuts,575,21.0,49.0,22
+Apple,Fruit,52,0.3,0.2,14
+Chicken Breast,Meat,165,31.0,3.6,0
+Broccoli,Vegetable,55,3.7,0.6,11
+Apple,Fruit,52,0.3,0.2,14
+Broccoli,Vegetable,55,3.7,0.6,11
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Apple,Fruit,52,0.3,0.2,14
+Broccoli,Vegetable,55,3.7,0.6,11
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Almonds,Nuts,575,21.0,49.0,22
+Chicken Breast,Meat,165,31.0,3.6,0
+Almonds,Nuts,575,21.0,49.0,22
+Almonds,Nuts,575,21.0,49.0,22
+Chicken Breast,Meat,165,31.0,3.6,0
+Chicken Breast,Meat,165,31.0,3.6,0
+Broccoli,Vegetable,55,3.7,0.6,11
+Banana,Fruit,89,1.1,0.3,23
+Chicken Breast,Meat,165,31.0,3.6,0
+Chicken Breast,Meat,165,31.0,3.6,0
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Broccoli,Vegetable,55,3.7,0.6,11
+Broccoli,Vegetable,55,3.7,0.6,11
+Banana,Fruit,89,1.1,0.3,23
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Apple,Fruit,52,0.3,0.2,14
+Banana,Fruit,89,1.1,0.3,23
+Brown Rice,Grain,123,2.7,1.0,25
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Almonds,Nuts,575,21.0,49.0,22
+Almonds,Nuts,575,21.0,49.0,22
+Broccoli,Vegetable,55,3.7,0.6,11
+Apple,Fruit,52,0.3,0.2,14
+Banana,Fruit,89,1.1,0.3,23
+Chicken Breast,Meat,165,31.0,3.6,0
+Apple,Fruit,52,0.3,0.2,14
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Apple,Fruit,52,0.3,0.2,14
+Apple,Fruit,52,0.3,0.2,14
+Almonds,Nuts,575,21.0,49.0,22
+Broccoli,Vegetable,55,3.7,0.6,11
+Apple,Fruit,52,0.3,0.2,14
+Almonds,Nuts,575,21.0,49.0,22
+Broccoli,Vegetable,55,3.7,0.6,11
+Broccoli,Vegetable,55,3.7,0.6,11
+Chicken Breast,Meat,165,31.0,3.6,0
+Apple,Fruit,52,0.3,0.2,14
+Banana,Fruit,89,1.1,0.3,23
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Chicken Breast,Meat,165,31.0,3.6,0
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Brown Rice,Grain,123,2.7,1.0,25
+Almonds,Nuts,575,21.0,49.0,22
+Broccoli,Vegetable,55,3.7,0.6,11
+Chicken Breast,Meat,165,31.0,3.6,0
+Broccoli,Vegetable,55,3.7,0.6,11
+Brown Rice,Grain,123,2.7,1.0,25
+Almonds,Nuts,575,21.0,49.0,22
+Almonds,Nuts,575,21.0,49.0,22
+Almonds,Nuts,575,21.0,49.0,22
+Banana,Fruit,89,1.1,0.3,23
+Chicken Breast,Meat,165,31.0,3.6,0
+Brown Rice,Grain,123,2.7,1.0,25
+Apple,Fruit,52,0.3,0.2,14
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Apple,Fruit,52,0.3,0.2,14
+Chicken Breast,Meat,165,31.0,3.6,0
+Apple,Fruit,52,0.3,0.2,14
+Broccoli,Vegetable,55,3.7,0.6,11
+Apple,Fruit,52,0.3,0.2,14
+Brown Rice,Grain,123,2.7,1.0,25
+Almonds,Nuts,575,21.0,49.0,22
+Broccoli,Vegetable,55,3.7,0.6,11
+Broccoli,Vegetable,55,3.7,0.6,11
+Apple,Fruit,52,0.3,0.2,14
+Almonds,Nuts,575,21.0,49.0,22
+Banana,Fruit,89,1.1,0.3,23
+Almonds,Nuts,575,21.0,49.0,22
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Almonds,Nuts,575,21.0,49.0,22
+Brown Rice,Grain,123,2.7,1.0,25
+Chicken Breast,Meat,165,31.0,3.6,0
+Apple,Fruit,52,0.3,0.2,14
+Broccoli,Vegetable,55,3.7,0.6,11
+Apple,Fruit,52,0.3,0.2,14
+Chicken Breast,Meat,165,31.0,3.6,0
+Chicken Breast,Meat,165,31.0,3.6,0
+Broccoli,Vegetable,55,3.7,0.6,11
+Apple,Fruit,52,0.3,0.2,14
+Almonds,Nuts,575,21.0,49.0,22
+Apple,Fruit,52,0.3,0.2,14
+Banana,Fruit,89,1.1,0.3,23
+Brown Rice,Grain,123,2.7,1.0,25
+Apple,Fruit,52,0.3,0.2,14
+Broccoli,Vegetable,55,3.7,0.6,11
+Apple,Fruit,52,0.3,0.2,14
+Banana,Fruit,89,1.1,0.3,23
+Almonds,Nuts,575,21.0,49.0,22
+Almonds,Nuts,575,21.0,49.0,22
+Broccoli,Vegetable,55,3.7,0.6,11
+Chicken Breast,Meat,165,31.0,3.6,0
+Apple,Fruit,52,0.3,0.2,14
+Apple,Fruit,52,0.3,0.2,14
+Apple,Fruit,52,0.3,0.2,14
+Chicken Breast,Meat,165,31.0,3.6,0
+Chicken Breast,Meat,165,31.0,3.6,0
+Chicken Breast,Meat,165,31.0,3.6,0
+Almonds,Nuts,575,21.0,49.0,22
+Brown Rice,Grain,123,2.7,1.0,25
+Almonds,Nuts,575,21.0,49.0,22
+Banana,Fruit,89,1.1,0.3,23
+Chicken Breast,Meat,165,31.0,3.6,0
+Chicken Breast,Meat,165,31.0,3.6,0
+Chicken Breast,Meat,165,31.0,3.6,0
+Apple,Fruit,52,0.3,0.2,14
+Almonds,Nuts,575,21.0,49.0,22
+Broccoli,Vegetable,55,3.7,0.6,11
+Brown Rice,Grain,123,2.7,1.0,25
+Brown Rice,Grain,123,2.7,1.0,25
+Brown Rice,Grain,123,2.7,1.0,25
+Chicken Breast,Meat,165,31.0,3.6,0
+Chicken Breast,Meat,165,31.0,3.6,0
+Almonds,Nuts,575,21.0,49.0,22
+Chicken Breast,Meat,165,31.0,3.6,0
+Banana,Fruit,89,1.1,0.3,23
+Chicken Breast,Meat,165,31.0,3.6,0
+Chicken Breast,Meat,165,31.0,3.6,0
+Banana,Fruit,89,1.1,0.3,23
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Apple,Fruit,52,0.3,0.2,14
+Almonds,Nuts,575,21.0,49.0,22
+Chicken Breast,Meat,165,31.0,3.6,0
+Broccoli,Vegetable,55,3.7,0.6,11
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Chicken Breast,Meat,165,31.0,3.6,0
+Almonds,Nuts,575,21.0,49.0,22
+Chicken Breast,Meat,165,31.0,3.6,0
+Brown Rice,Grain,123,2.7,1.0,25
+Chicken Breast,Meat,165,31.0,3.6,0
+Brown Rice,Grain,123,2.7,1.0,25
+Apple,Fruit,52,0.3,0.2,14
+Brown Rice,Grain,123,2.7,1.0,25
+Chicken Breast,Meat,165,31.0,3.6,0
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Chicken Breast,Meat,165,31.0,3.6,0
+Banana,Fruit,89,1.1,0.3,23
+Banana,Fruit,89,1.1,0.3,23
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Brown Rice,Grain,123,2.7,1.0,25
+Almonds,Nuts,575,21.0,49.0,22
+Banana,Fruit,89,1.1,0.3,23
+Apple,Fruit,52,0.3,0.2,14
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Chicken Breast,Meat,165,31.0,3.6,0
+Banana,Fruit,89,1.1,0.3,23
+Apple,Fruit,52,0.3,0.2,14
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Chicken Breast,Meat,165,31.0,3.6,0
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Almonds,Nuts,575,21.0,49.0,22
+Apple,Fruit,52,0.3,0.2,14
+Banana,Fruit,89,1.1,0.3,23
+Banana,Fruit,89,1.1,0.3,23
+Almonds,Nuts,575,21.0,49.0,22
+Banana,Fruit,89,1.1,0.3,23
+Apple,Fruit,52,0.3,0.2,14
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Brown Rice,Grain,123,2.7,1.0,25
+Almonds,Nuts,575,21.0,49.0,22
+Apple,Fruit,52,0.3,0.2,14
+Banana,Fruit,89,1.1,0.3,23
+Brown Rice,Grain,123,2.7,1.0,25
+Brown Rice,Grain,123,2.7,1.0,25
+Apple,Fruit,52,0.3,0.2,14
+Almonds,Nuts,575,21.0,49.0,22
+Apple,Fruit,52,0.3,0.2,14
+Banana,Fruit,89,1.1,0.3,23
+Almonds,Nuts,575,21.0,49.0,22
+Brown Rice,Grain,123,2.7,1.0,25
+Apple,Fruit,52,0.3,0.2,14
+Chicken Breast,Meat,165,31.0,3.6,0
+Apple,Fruit,52,0.3,0.2,14
+Broccoli,Vegetable,55,3.7,0.6,11
+Banana,Fruit,89,1.1,0.3,23
+Almonds,Nuts,575,21.0,49.0,22
+Banana,Fruit,89,1.1,0.3,23
+Chicken Breast,Meat,165,31.0,3.6,0
+Chicken Breast,Meat,165,31.0,3.6,0
+Chicken Breast,Meat,165,31.0,3.6,0
+Apple,Fruit,52,0.3,0.2,14
+Apple,Fruit,52,0.3,0.2,14
+Almonds,Nuts,575,21.0,49.0,22
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Banana,Fruit,89,1.1,0.3,23
+Apple,Fruit,52,0.3,0.2,14
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Broccoli,Vegetable,55,3.7,0.6,11
+Chicken Breast,Meat,165,31.0,3.6,0
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Brown Rice,Grain,123,2.7,1.0,25
+Apple,Fruit,52,0.3,0.2,14
+Almonds,Nuts,575,21.0,49.0,22
+Apple,Fruit,52,0.3,0.2,14
+Chicken Breast,Meat,165,31.0,3.6,0
+Brown Rice,Grain,123,2.7,1.0,25
+Almonds,Nuts,575,21.0,49.0,22
+Almonds,Nuts,575,21.0,49.0,22
+Broccoli,Vegetable,55,3.7,0.6,11
+Banana,Fruit,89,1.1,0.3,23
+Brown Rice,Grain,123,2.7,1.0,25
+Almonds,Nuts,575,21.0,49.0,22
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Apple,Fruit,52,0.3,0.2,14
+Banana,Fruit,89,1.1,0.3,23
+Banana,Fruit,89,1.1,0.3,23
+Banana,Fruit,89,1.1,0.3,23
+Almonds,Nuts,575,21.0,49.0,22
+Banana,Fruit,89,1.1,0.3,23
+Almonds,Nuts,575,21.0,49.0,22
+Banana,Fruit,89,1.1,0.3,23
+Banana,Fruit,89,1.1,0.3,23
+Apple,Fruit,52,0.3,0.2,14
+Chicken Breast,Meat,165,31.0,3.6,0
+Chicken Breast,Meat,165,31.0,3.6,0
+Chicken Breast,Meat,165,31.0,3.6,0
+Broccoli,Vegetable,55,3.7,0.6,11
+Broccoli,Vegetable,55,3.7,0.6,11
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Chicken Breast,Meat,165,31.0,3.6,0
+Chicken Breast,Meat,165,31.0,3.6,0
+Broccoli,Vegetable,55,3.7,0.6,11
+Chicken Breast,Meat,165,31.0,3.6,0
+Apple,Fruit,52,0.3,0.2,14
+Broccoli,Vegetable,55,3.7,0.6,11
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Chicken Breast,Meat,165,31.0,3.6,0
+Broccoli,Vegetable,55,3.7,0.6,11
+Apple,Fruit,52,0.3,0.2,14
+Broccoli,Vegetable,55,3.7,0.6,11
+Banana,Fruit,89,1.1,0.3,23
+Banana,Fruit,89,1.1,0.3,23
+Almonds,Nuts,575,21.0,49.0,22
+Apple,Fruit,52,0.3,0.2,14
+Almonds,Nuts,575,21.0,49.0,22
+Broccoli,Vegetable,55,3.7,0.6,11
+Brown Rice,Grain,123,2.7,1.0,25
+Chicken Breast,Meat,165,31.0,3.6,0
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Brown Rice,Grain,123,2.7,1.0,25
+Almonds,Nuts,575,21.0,49.0,22
+Brown Rice,Grain,123,2.7,1.0,25
+Almonds,Nuts,575,21.0,49.0,22
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Almonds,Nuts,575,21.0,49.0,22
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Banana,Fruit,89,1.1,0.3,23
+Banana,Fruit,89,1.1,0.3,23
+Almonds,Nuts,575,21.0,49.0,22
+Broccoli,Vegetable,55,3.7,0.6,11
+Chicken Breast,Meat,165,31.0,3.6,0
+Banana,Fruit,89,1.1,0.3,23
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Almonds,Nuts,575,21.0,49.0,22
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Chicken Breast,Meat,165,31.0,3.6,0
+Brown Rice,Grain,123,2.7,1.0,25
+Almonds,Nuts,575,21.0,49.0,22
+Almonds,Nuts,575,21.0,49.0,22
+Banana,Fruit,89,1.1,0.3,23
+Almonds,Nuts,575,21.0,49.0,22
+Apple,Fruit,52,0.3,0.2,14
+Broccoli,Vegetable,55,3.7,0.6,11
+Brown Rice,Grain,123,2.7,1.0,25
+Apple,Fruit,52,0.3,0.2,14
+Brown Rice,Grain,123,2.7,1.0,25
+Chicken Breast,Meat,165,31.0,3.6,0
+Almonds,Nuts,575,21.0,49.0,22
+Almonds,Nuts,575,21.0,49.0,22
+Brown Rice,Grain,123,2.7,1.0,25
+Chicken Breast,Meat,165,31.0,3.6,0
+Apple,Fruit,52,0.3,0.2,14
+Banana,Fruit,89,1.1,0.3,23
+Almonds,Nuts,575,21.0,49.0,22
+Chicken Breast,Meat,165,31.0,3.6,0
+Apple,Fruit,52,0.3,0.2,14
+Broccoli,Vegetable,55,3.7,0.6,11
+Broccoli,Vegetable,55,3.7,0.6,11
+Brown Rice,Grain,123,2.7,1.0,25
+Almonds,Nuts,575,21.0,49.0,22
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Almonds,Nuts,575,21.0,49.0,22
+Almonds,Nuts,575,21.0,49.0,22
+Banana,Fruit,89,1.1,0.3,23
+Almonds,Nuts,575,21.0,49.0,22
+Banana,Fruit,89,1.1,0.3,23
+Almonds,Nuts,575,21.0,49.0,22
+Apple,Fruit,52,0.3,0.2,14
+Almonds,Nuts,575,21.0,49.0,22
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Banana,Fruit,89,1.1,0.3,23
+Brown Rice,Grain,123,2.7,1.0,25
+Brown Rice,Grain,123,2.7,1.0,25
+Apple,Fruit,52,0.3,0.2,14
+Almonds,Nuts,575,21.0,49.0,22
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Banana,Fruit,89,1.1,0.3,23
+Almonds,Nuts,575,21.0,49.0,22
+Almonds,Nuts,575,21.0,49.0,22
+Broccoli,Vegetable,55,3.7,0.6,11
+Apple,Fruit,52,0.3,0.2,14
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Broccoli,Vegetable,55,3.7,0.6,11
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Broccoli,Vegetable,55,3.7,0.6,11
+Banana,Fruit,89,1.1,0.3,23
+Banana,Fruit,89,1.1,0.3,23
+Brown Rice,Grain,123,2.7,1.0,25
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Apple,Fruit,52,0.3,0.2,14
+Chicken Breast,Meat,165,31.0,3.6,0
+Almonds,Nuts,575,21.0,49.0,22
+Brown Rice,Grain,123,2.7,1.0,25
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Chicken Breast,Meat,165,31.0,3.6,0
+Banana,Fruit,89,1.1,0.3,23
+Brown Rice,Grain,123,2.7,1.0,25
+Chicken Breast,Meat,165,31.0,3.6,0
+Almonds,Nuts,575,21.0,49.0,22
+Banana,Fruit,89,1.1,0.3,23
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Brown Rice,Grain,123,2.7,1.0,25
+Apple,Fruit,52,0.3,0.2,14
+Brown Rice,Grain,123,2.7,1.0,25
+Brown Rice,Grain,123,2.7,1.0,25
+Apple,Fruit,52,0.3,0.2,14
+Chicken Breast,Meat,165,31.0,3.6,0
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Apple,Fruit,52,0.3,0.2,14
+Chicken Breast,Meat,165,31.0,3.6,0
+Banana,Fruit,89,1.1,0.3,23
+Chicken Breast,Meat,165,31.0,3.6,0
+Almonds,Nuts,575,21.0,49.0,22
+Banana,Fruit,89,1.1,0.3,23
+Apple,Fruit,52,0.3,0.2,14
+Apple,Fruit,52,0.3,0.2,14
+Brown Rice,Grain,123,2.7,1.0,25
+Chicken Breast,Meat,165,31.0,3.6,0
+Broccoli,Vegetable,55,3.7,0.6,11
+Broccoli,Vegetable,55,3.7,0.6,11
+Banana,Fruit,89,1.1,0.3,23
+Almonds,Nuts,575,21.0,49.0,22
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Apple,Fruit,52,0.3,0.2,14
+Broccoli,Vegetable,55,3.7,0.6,11
+Apple,Fruit,52,0.3,0.2,14
+Banana,Fruit,89,1.1,0.3,23
+Almonds,Nuts,575,21.0,49.0,22
+Almonds,Nuts,575,21.0,49.0,22
+Apple,Fruit,52,0.3,0.2,14
+Almonds,Nuts,575,21.0,49.0,22
+Banana,Fruit,89,1.1,0.3,23
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Brown Rice,Grain,123,2.7,1.0,25
+Brown Rice,Grain,123,2.7,1.0,25
+Almonds,Nuts,575,21.0,49.0,22
+Brown Rice,Grain,123,2.7,1.0,25
+Apple,Fruit,52,0.3,0.2,14
+Almonds,Nuts,575,21.0,49.0,22
+Banana,Fruit,89,1.1,0.3,23
+Apple,Fruit,52,0.3,0.2,14
+Brown Rice,Grain,123,2.7,1.0,25
+Apple,Fruit,52,0.3,0.2,14
+Almonds,Nuts,575,21.0,49.0,22
+Chicken Breast,Meat,165,31.0,3.6,0
+Almonds,Nuts,575,21.0,49.0,22
+Chicken Breast,Meat,165,31.0,3.6,0
+Apple,Fruit,52,0.3,0.2,14
+Broccoli,Vegetable,55,3.7,0.6,11
+Chicken Breast,Meat,165,31.0,3.6,0
+Chicken Breast,Meat,165,31.0,3.6,0
+Banana,Fruit,89,1.1,0.3,23
+Chicken Breast,Meat,165,31.0,3.6,0
+Apple,Fruit,52,0.3,0.2,14
+Brown Rice,Grain,123,2.7,1.0,25
+Chicken Breast,Meat,165,31.0,3.6,0
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Brown Rice,Grain,123,2.7,1.0,25
+Almonds,Nuts,575,21.0,49.0,22
+Almonds,Nuts,575,21.0,49.0,22
+Brown Rice,Grain,123,2.7,1.0,25
+Brown Rice,Grain,123,2.7,1.0,25
+Apple,Fruit,52,0.3,0.2,14
+Chicken Breast,Meat,165,31.0,3.6,0
+Apple,Fruit,52,0.3,0.2,14
+Almonds,Nuts,575,21.0,49.0,22
+Chicken Breast,Meat,165,31.0,3.6,0
+Broccoli,Vegetable,55,3.7,0.6,11
+Brown Rice,Grain,123,2.7,1.0,25
+Almonds,Nuts,575,21.0,49.0,22
+Broccoli,Vegetable,55,3.7,0.6,11
+Banana,Fruit,89,1.1,0.3,23
+Banana,Fruit,89,1.1,0.3,23
+Banana,Fruit,89,1.1,0.3,23
+Apple,Fruit,52,0.3,0.2,14
+Banana,Fruit,89,1.1,0.3,23
+Banana,Fruit,89,1.1,0.3,23
+Apple,Fruit,52,0.3,0.2,14
+Chicken Breast,Meat,165,31.0,3.6,0
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Brown Rice,Grain,123,2.7,1.0,25
+Almonds,Nuts,575,21.0,49.0,22
+Almonds,Nuts,575,21.0,49.0,22
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Broccoli,Vegetable,55,3.7,0.6,11
+Brown Rice,Grain,123,2.7,1.0,25
+Chicken Breast,Meat,165,31.0,3.6,0
+Brown Rice,Grain,123,2.7,1.0,25
+Apple,Fruit,52,0.3,0.2,14
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Chicken Breast,Meat,165,31.0,3.6,0
+Almonds,Nuts,575,21.0,49.0,22
+Apple,Fruit,52,0.3,0.2,14
+Chicken Breast,Meat,165,31.0,3.6,0
+Apple,Fruit,52,0.3,0.2,14
+Apple,Fruit,52,0.3,0.2,14
+Broccoli,Vegetable,55,3.7,0.6,11
+Apple,Fruit,52,0.3,0.2,14
+Chicken Breast,Meat,165,31.0,3.6,0
+Apple,Fruit,52,0.3,0.2,14
+Broccoli,Vegetable,55,3.7,0.6,11
+Banana,Fruit,89,1.1,0.3,23
+Banana,Fruit,89,1.1,0.3,23
+Almonds,Nuts,575,21.0,49.0,22
+Chicken Breast,Meat,165,31.0,3.6,0
+Chicken Breast,Meat,165,31.0,3.6,0
+Apple,Fruit,52,0.3,0.2,14
+Broccoli,Vegetable,55,3.7,0.6,11
+Apple,Fruit,52,0.3,0.2,14
+Brown Rice,Grain,123,2.7,1.0,25
+Almonds,Nuts,575,21.0,49.0,22
+Chicken Breast,Meat,165,31.0,3.6,0
+Broccoli,Vegetable,55,3.7,0.6,11
+Apple,Fruit,52,0.3,0.2,14
+Brown Rice,Grain,123,2.7,1.0,25
+Apple,Fruit,52,0.3,0.2,14
+Brown Rice,Grain,123,2.7,1.0,25
+Almonds,Nuts,575,21.0,49.0,22
+Broccoli,Vegetable,55,3.7,0.6,11
+Banana,Fruit,89,1.1,0.3,23
+Apple,Fruit,52,0.3,0.2,14
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Banana,Fruit,89,1.1,0.3,23
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Broccoli,Vegetable,55,3.7,0.6,11
+Banana,Fruit,89,1.1,0.3,23
+Almonds,Nuts,575,21.0,49.0,22
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Broccoli,Vegetable,55,3.7,0.6,11
+Brown Rice,Grain,123,2.7,1.0,25
+Chicken Breast,Meat,165,31.0,3.6,0
+Broccoli,Vegetable,55,3.7,0.6,11
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Brown Rice,Grain,123,2.7,1.0,25
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Apple,Fruit,52,0.3,0.2,14
+Broccoli,Vegetable,55,3.7,0.6,11
+Brown Rice,Grain,123,2.7,1.0,25
+Apple,Fruit,52,0.3,0.2,14
+Chicken Breast,Meat,165,31.0,3.6,0
+Broccoli,Vegetable,55,3.7,0.6,11
+Banana,Fruit,89,1.1,0.3,23
+Almonds,Nuts,575,21.0,49.0,22
+Almonds,Nuts,575,21.0,49.0,22
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Apple,Fruit,52,0.3,0.2,14
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Brown Rice,Grain,123,2.7,1.0,25
+Almonds,Nuts,575,21.0,49.0,22
+Almonds,Nuts,575,21.0,49.0,22
+Apple,Fruit,52,0.3,0.2,14
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Almonds,Nuts,575,21.0,49.0,22
+Apple,Fruit,52,0.3,0.2,14
+Apple,Fruit,52,0.3,0.2,14
+Banana,Fruit,89,1.1,0.3,23
+Chicken Breast,Meat,165,31.0,3.6,0
+Chicken Breast,Meat,165,31.0,3.6,0
+Apple,Fruit,52,0.3,0.2,14
+Brown Rice,Grain,123,2.7,1.0,25
+Apple,Fruit,52,0.3,0.2,14
+Chicken Breast,Meat,165,31.0,3.6,0
+Almonds,Nuts,575,21.0,49.0,22
+Brown Rice,Grain,123,2.7,1.0,25
+Chicken Breast,Meat,165,31.0,3.6,0
+Apple,Fruit,52,0.3,0.2,14
+Broccoli,Vegetable,55,3.7,0.6,11
+Chicken Breast,Meat,165,31.0,3.6,0
+Almonds,Nuts,575,21.0,49.0,22
+Chicken Breast,Meat,165,31.0,3.6,0
+Almonds,Nuts,575,21.0,49.0,22
+Chicken Breast,Meat,165,31.0,3.6,0
+Chicken Breast,Meat,165,31.0,3.6,0
+Broccoli,Vegetable,55,3.7,0.6,11
+Apple,Fruit,52,0.3,0.2,14
+Almonds,Nuts,575,21.0,49.0,22
+Almonds,Nuts,575,21.0,49.0,22
+Chicken Breast,Meat,165,31.0,3.6,0
+Apple,Fruit,52,0.3,0.2,14
+Banana,Fruit,89,1.1,0.3,23
+Banana,Fruit,89,1.1,0.3,23
+Almonds,Nuts,575,21.0,49.0,22
+Broccoli,Vegetable,55,3.7,0.6,11
+Brown Rice,Grain,123,2.7,1.0,25
+Apple,Fruit,52,0.3,0.2,14
+Almonds,Nuts,575,21.0,49.0,22
+Broccoli,Vegetable,55,3.7,0.6,11
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Brown Rice,Grain,123,2.7,1.0,25
+Brown Rice,Grain,123,2.7,1.0,25
+Chicken Breast,Meat,165,31.0,3.6,0
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Banana,Fruit,89,1.1,0.3,23
+Chicken Breast,Meat,165,31.0,3.6,0
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Banana,Fruit,89,1.1,0.3,23
+Apple,Fruit,52,0.3,0.2,14
+Banana,Fruit,89,1.1,0.3,23
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Banana,Fruit,89,1.1,0.3,23
+Chicken Breast,Meat,165,31.0,3.6,0
+Banana,Fruit,89,1.1,0.3,23
+Apple,Fruit,52,0.3,0.2,14
+Banana,Fruit,89,1.1,0.3,23
+Almonds,Nuts,575,21.0,49.0,22
+Apple,Fruit,52,0.3,0.2,14
+Banana,Fruit,89,1.1,0.3,23
+Almonds,Nuts,575,21.0,49.0,22
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Brown Rice,Grain,123,2.7,1.0,25
+Brown Rice,Grain,123,2.7,1.0,25
+Chicken Breast,Meat,165,31.0,3.6,0
+Almonds,Nuts,575,21.0,49.0,22
+Apple,Fruit,52,0.3,0.2,14
+Banana,Fruit,89,1.1,0.3,23
+Almonds,Nuts,575,21.0,49.0,22
+Apple,Fruit,52,0.3,0.2,14
+Brown Rice,Grain,123,2.7,1.0,25
+Almonds,Nuts,575,21.0,49.0,22
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Broccoli,Vegetable,55,3.7,0.6,11
+Broccoli,Vegetable,55,3.7,0.6,11
+Brown Rice,Grain,123,2.7,1.0,25
+Chicken Breast,Meat,165,31.0,3.6,0
+Chicken Breast,Meat,165,31.0,3.6,0
+Banana,Fruit,89,1.1,0.3,23
+Banana,Fruit,89,1.1,0.3,23
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Apple,Fruit,52,0.3,0.2,14
+Apple,Fruit,52,0.3,0.2,14
+Brown Rice,Grain,123,2.7,1.0,25
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Apple,Fruit,52,0.3,0.2,14
+Chicken Breast,Meat,165,31.0,3.6,0
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Banana,Fruit,89,1.1,0.3,23
+Almonds,Nuts,575,21.0,49.0,22
+Broccoli,Vegetable,55,3.7,0.6,11
+Apple,Fruit,52,0.3,0.2,14
+Brown Rice,Grain,123,2.7,1.0,25
+Apple,Fruit,52,0.3,0.2,14
+Broccoli,Vegetable,55,3.7,0.6,11
+Brown Rice,Grain,123,2.7,1.0,25
+Almonds,Nuts,575,21.0,49.0,22
+Almonds,Nuts,575,21.0,49.0,22
+Apple,Fruit,52,0.3,0.2,14
+Apple,Fruit,52,0.3,0.2,14
+Apple,Fruit,52,0.3,0.2,14
+Broccoli,Vegetable,55,3.7,0.6,11
+Chicken Breast,Meat,165,31.0,3.6,0
+Broccoli,Vegetable,55,3.7,0.6,11
+Chicken Breast,Meat,165,31.0,3.6,0
+Almonds,Nuts,575,21.0,49.0,22
+Banana,Fruit,89,1.1,0.3,23
+Chicken Breast,Meat,165,31.0,3.6,0
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Chicken Breast,Meat,165,31.0,3.6,0
+Apple,Fruit,52,0.3,0.2,14
+Banana,Fruit,89,1.1,0.3,23
+Banana,Fruit,89,1.1,0.3,23
+Apple,Fruit,52,0.3,0.2,14
+Broccoli,Vegetable,55,3.7,0.6,11
+Apple,Fruit,52,0.3,0.2,14
+Apple,Fruit,52,0.3,0.2,14
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Brown Rice,Grain,123,2.7,1.0,25
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Banana,Fruit,89,1.1,0.3,23
+Chicken Breast,Meat,165,31.0,3.6,0
+Banana,Fruit,89,1.1,0.3,23
+Chicken Breast,Meat,165,31.0,3.6,0
+Broccoli,Vegetable,55,3.7,0.6,11
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Chicken Breast,Meat,165,31.0,3.6,0
+Broccoli,Vegetable,55,3.7,0.6,11
+Apple,Fruit,52,0.3,0.2,14
+Almonds,Nuts,575,21.0,49.0,22
+Apple,Fruit,52,0.3,0.2,14
+Brown Rice,Grain,123,2.7,1.0,25
+Almonds,Nuts,575,21.0,49.0,22
+Chicken Breast,Meat,165,31.0,3.6,0
+Banana,Fruit,89,1.1,0.3,23
+Almonds,Nuts,575,21.0,49.0,22
+Almonds,Nuts,575,21.0,49.0,22
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Almonds,Nuts,575,21.0,49.0,22
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Apple,Fruit,52,0.3,0.2,14
+Chicken Breast,Meat,165,31.0,3.6,0
+Apple,Fruit,52,0.3,0.2,14
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Apple,Fruit,52,0.3,0.2,14
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Banana,Fruit,89,1.1,0.3,23
+Chicken Breast,Meat,165,31.0,3.6,0
+Brown Rice,Grain,123,2.7,1.0,25
+Brown Rice,Grain,123,2.7,1.0,25
+Chicken Breast,Meat,165,31.0,3.6,0
+Apple,Fruit,52,0.3,0.2,14
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Brown Rice,Grain,123,2.7,1.0,25
+Chicken Breast,Meat,165,31.0,3.6,0
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Apple,Fruit,52,0.3,0.2,14
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Almonds,Nuts,575,21.0,49.0,22
+Banana,Fruit,89,1.1,0.3,23
+Brown Rice,Grain,123,2.7,1.0,25
+Chicken Breast,Meat,165,31.0,3.6,0
+Banana,Fruit,89,1.1,0.3,23
+Apple,Fruit,52,0.3,0.2,14
+Apple,Fruit,52,0.3,0.2,14
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Apple,Fruit,52,0.3,0.2,14
+Almonds,Nuts,575,21.0,49.0,22
+Broccoli,Vegetable,55,3.7,0.6,11
+Apple,Fruit,52,0.3,0.2,14
+Brown Rice,Grain,123,2.7,1.0,25
+Chicken Breast,Meat,165,31.0,3.6,0
+Broccoli,Vegetable,55,3.7,0.6,11
+Chicken Breast,Meat,165,31.0,3.6,0
+Brown Rice,Grain,123,2.7,1.0,25
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Apple,Fruit,52,0.3,0.2,14
+Banana,Fruit,89,1.1,0.3,23
+Brown Rice,Grain,123,2.7,1.0,25
+Chicken Breast,Meat,165,31.0,3.6,0
+Chicken Breast,Meat,165,31.0,3.6,0
+Brown Rice,Grain,123,2.7,1.0,25
+Brown Rice,Grain,123,2.7,1.0,25
+Apple,Fruit,52,0.3,0.2,14
+Chicken Breast,Meat,165,31.0,3.6,0
+Banana,Fruit,89,1.1,0.3,23
+Brown Rice,Grain,123,2.7,1.0,25
+Apple,Fruit,52,0.3,0.2,14
+Broccoli,Vegetable,55,3.7,0.6,11
+Chicken Breast,Meat,165,31.0,3.6,0
+Chicken Breast,Meat,165,31.0,3.6,0
+Banana,Fruit,89,1.1,0.3,23
+Chicken Breast,Meat,165,31.0,3.6,0
+Apple,Fruit,52,0.3,0.2,14
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Apple,Fruit,52,0.3,0.2,14
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Apple,Fruit,52,0.3,0.2,14
+Banana,Fruit,89,1.1,0.3,23
+Almonds,Nuts,575,21.0,49.0,22
+Banana,Fruit,89,1.1,0.3,23
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Brown Rice,Grain,123,2.7,1.0,25
+Almonds,Nuts,575,21.0,49.0,22
+Apple,Fruit,52,0.3,0.2,14
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Broccoli,Vegetable,55,3.7,0.6,11
+Broccoli,Vegetable,55,3.7,0.6,11
+Banana,Fruit,89,1.1,0.3,23
+Apple,Fruit,52,0.3,0.2,14
+Banana,Fruit,89,1.1,0.3,23
+Chicken Breast,Meat,165,31.0,3.6,0
+Chicken Breast,Meat,165,31.0,3.6,0
+Chicken Breast,Meat,165,31.0,3.6,0
+Apple,Fruit,52,0.3,0.2,14
+Broccoli,Vegetable,55,3.7,0.6,11
+Banana,Fruit,89,1.1,0.3,23
+Almonds,Nuts,575,21.0,49.0,22
+Broccoli,Vegetable,55,3.7,0.6,11
+Broccoli,Vegetable,55,3.7,0.6,11
+Chicken Breast,Meat,165,31.0,3.6,0
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Brown Rice,Grain,123,2.7,1.0,25
+Brown Rice,Grain,123,2.7,1.0,25
+Almonds,Nuts,575,21.0,49.0,22
+Chicken Breast,Meat,165,31.0,3.6,0
+Almonds,Nuts,575,21.0,49.0,22
+Apple,Fruit,52,0.3,0.2,14
+Almonds,Nuts,575,21.0,49.0,22
+Apple,Fruit,52,0.3,0.2,14
+Banana,Fruit,89,1.1,0.3,23
+Chicken Breast,Meat,165,31.0,3.6,0
+Chicken Breast,Meat,165,31.0,3.6,0
+Almonds,Nuts,575,21.0,49.0,22
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Banana,Fruit,89,1.1,0.3,23
+Brown Rice,Grain,123,2.7,1.0,25
+Brown Rice,Grain,123,2.7,1.0,25
+Apple,Fruit,52,0.3,0.2,14
+Apple,Fruit,52,0.3,0.2,14
+Broccoli,Vegetable,55,3.7,0.6,11
+Brown Rice,Grain,123,2.7,1.0,25
+Brown Rice,Grain,123,2.7,1.0,25
+Brown Rice,Grain,123,2.7,1.0,25
+Brown Rice,Grain,123,2.7,1.0,25
+Chicken Breast,Meat,165,31.0,3.6,0
+Broccoli,Vegetable,55,3.7,0.6,11
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Chicken Breast,Meat,165,31.0,3.6,0
+Apple,Fruit,52,0.3,0.2,14
+Brown Rice,Grain,123,2.7,1.0,25
+Brown Rice,Grain,123,2.7,1.0,25
+Chicken Breast,Meat,165,31.0,3.6,0
+Broccoli,Vegetable,55,3.7,0.6,11
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Apple,Fruit,52,0.3,0.2,14
+Chicken Breast,Meat,165,31.0,3.6,0
+Apple,Fruit,52,0.3,0.2,14
+Banana,Fruit,89,1.1,0.3,23
+Almonds,Nuts,575,21.0,49.0,22
+Apple,Fruit,52,0.3,0.2,14
+Apple,Fruit,52,0.3,0.2,14
+Banana,Fruit,89,1.1,0.3,23
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Apple,Fruit,52,0.3,0.2,14
+Almonds,Nuts,575,21.0,49.0,22
+Apple,Fruit,52,0.3,0.2,14
+Broccoli,Vegetable,55,3.7,0.6,11
+Brown Rice,Grain,123,2.7,1.0,25
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Apple,Fruit,52,0.3,0.2,14
+Almonds,Nuts,575,21.0,49.0,22
+Brown Rice,Grain,123,2.7,1.0,25
+Almonds,Nuts,575,21.0,49.0,22
+Brown Rice,Grain,123,2.7,1.0,25
+Apple,Fruit,52,0.3,0.2,14
+Almonds,Nuts,575,21.0,49.0,22
+Banana,Fruit,89,1.1,0.3,23
+Banana,Fruit,89,1.1,0.3,23
+Banana,Fruit,89,1.1,0.3,23
+Apple,Fruit,52,0.3,0.2,14
+Brown Rice,Grain,123,2.7,1.0,25
+Almonds,Nuts,575,21.0,49.0,22
+Banana,Fruit,89,1.1,0.3,23
+Almonds,Nuts,575,21.0,49.0,22
+Almonds,Nuts,575,21.0,49.0,22
+Almonds,Nuts,575,21.0,49.0,22
+Banana,Fruit,89,1.1,0.3,23
+Banana,Fruit,89,1.1,0.3,23
+Almonds,Nuts,575,21.0,49.0,22
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Apple,Fruit,52,0.3,0.2,14
+Apple,Fruit,52,0.3,0.2,14
+Broccoli,Vegetable,55,3.7,0.6,11
+Chicken Breast,Meat,165,31.0,3.6,0
+Broccoli,Vegetable,55,3.7,0.6,11
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Chicken Breast,Meat,165,31.0,3.6,0
+Chicken Breast,Meat,165,31.0,3.6,0
+Chicken Breast,Meat,165,31.0,3.6,0
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Chicken Breast,Meat,165,31.0,3.6,0
+Apple,Fruit,52,0.3,0.2,14
+Chicken Breast,Meat,165,31.0,3.6,0
+Banana,Fruit,89,1.1,0.3,23
+Apple,Fruit,52,0.3,0.2,14
+Brown Rice,Grain,123,2.7,1.0,25
+Apple,Fruit,52,0.3,0.2,14
+Banana,Fruit,89,1.1,0.3,23
+Apple,Fruit,52,0.3,0.2,14
+Banana,Fruit,89,1.1,0.3,23
+Banana,Fruit,89,1.1,0.3,23
+Apple,Fruit,52,0.3,0.2,14
+Brown Rice,Grain,123,2.7,1.0,25
+Chicken Breast,Meat,165,31.0,3.6,0
+Broccoli,Vegetable,55,3.7,0.6,11
+Chicken Breast,Meat,165,31.0,3.6,0
+Apple,Fruit,52,0.3,0.2,14
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Almonds,Nuts,575,21.0,49.0,22
+Banana,Fruit,89,1.1,0.3,23
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Broccoli,Vegetable,55,3.7,0.6,11
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Chicken Breast,Meat,165,31.0,3.6,0
+Broccoli,Vegetable,55,3.7,0.6,11
+Broccoli,Vegetable,55,3.7,0.6,11
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Chicken Breast,Meat,165,31.0,3.6,0
+Apple,Fruit,52,0.3,0.2,14
+Brown Rice,Grain,123,2.7,1.0,25
+Chicken Breast,Meat,165,31.0,3.6,0
+Chicken Breast,Meat,165,31.0,3.6,0
+Chicken Breast,Meat,165,31.0,3.6,0
+Almonds,Nuts,575,21.0,49.0,22
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Brown Rice,Grain,123,2.7,1.0,25
+Brown Rice,Grain,123,2.7,1.0,25
+Chicken Breast,Meat,165,31.0,3.6,0
+Chicken Breast,Meat,165,31.0,3.6,0
+Brown Rice,Grain,123,2.7,1.0,25
+Chicken Breast,Meat,165,31.0,3.6,0
+Banana,Fruit,89,1.1,0.3,23
+Almonds,Nuts,575,21.0,49.0,22
+Banana,Fruit,89,1.1,0.3,23
+Banana,Fruit,89,1.1,0.3,23
+Almonds,Nuts,575,21.0,49.0,22
+Broccoli,Vegetable,55,3.7,0.6,11
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Apple,Fruit,52,0.3,0.2,14
+Chicken Breast,Meat,165,31.0,3.6,0
+Apple,Fruit,52,0.3,0.2,14
+Almonds,Nuts,575,21.0,49.0,22
+Almonds,Nuts,575,21.0,49.0,22
+Broccoli,Vegetable,55,3.7,0.6,11
+Chicken Breast,Meat,165,31.0,3.6,0
+Banana,Fruit,89,1.1,0.3,23
+Chicken Breast,Meat,165,31.0,3.6,0
+Banana,Fruit,89,1.1,0.3,23
+Almonds,Nuts,575,21.0,49.0,22
+Banana,Fruit,89,1.1,0.3,23
+Brown Rice,Grain,123,2.7,1.0,25
+Apple,Fruit,52,0.3,0.2,14
+Apple,Fruit,52,0.3,0.2,14
+Broccoli,Vegetable,55,3.7,0.6,11
+Apple,Fruit,52,0.3,0.2,14
+Almonds,Nuts,575,21.0,49.0,22
+Chicken Breast,Meat,165,31.0,3.6,0
+Banana,Fruit,89,1.1,0.3,23
+Almonds,Nuts,575,21.0,49.0,22
+Chicken Breast,Meat,165,31.0,3.6,0
+Apple,Fruit,52,0.3,0.2,14
+Almonds,Nuts,575,21.0,49.0,22
+Almonds,Nuts,575,21.0,49.0,22
+Broccoli,Vegetable,55,3.7,0.6,11
+Chicken Breast,Meat,165,31.0,3.6,0
+Broccoli,Vegetable,55,3.7,0.6,11
+Broccoli,Vegetable,55,3.7,0.6,11
+Broccoli,Vegetable,55,3.7,0.6,11
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Broccoli,Vegetable,55,3.7,0.6,11
+Apple,Fruit,52,0.3,0.2,14
+Almonds,Nuts,575,21.0,49.0,22
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Banana,Fruit,89,1.1,0.3,23
+Chicken Breast,Meat,165,31.0,3.6,0
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Banana,Fruit,89,1.1,0.3,23
+Chicken Breast,Meat,165,31.0,3.6,0
+Broccoli,Vegetable,55,3.7,0.6,11
+Chicken Breast,Meat,165,31.0,3.6,0
+Chicken Breast,Meat,165,31.0,3.6,0
+Chicken Breast,Meat,165,31.0,3.6,0
+Brown Rice,Grain,123,2.7,1.0,25
+Almonds,Nuts,575,21.0,49.0,22
+Brown Rice,Grain,123,2.7,1.0,25
+Chicken Breast,Meat,165,31.0,3.6,0
+Broccoli,Vegetable,55,3.7,0.6,11
+Banana,Fruit,89,1.1,0.3,23
+Apple,Fruit,52,0.3,0.2,14
+Broccoli,Vegetable,55,3.7,0.6,11
+Broccoli,Vegetable,55,3.7,0.6,11
+Broccoli,Vegetable,55,3.7,0.6,11
+Chicken Breast,Meat,165,31.0,3.6,0
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Broccoli,Vegetable,55,3.7,0.6,11
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Chicken Breast,Meat,165,31.0,3.6,0
+Broccoli,Vegetable,55,3.7,0.6,11
+Broccoli,Vegetable,55,3.7,0.6,11
+Apple,Fruit,52,0.3,0.2,14
+Chicken Breast,Meat,165,31.0,3.6,0
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Chicken Breast,Meat,165,31.0,3.6,0
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Brown Rice,Grain,123,2.7,1.0,25
+Brown Rice,Grain,123,2.7,1.0,25
+Apple,Fruit,52,0.3,0.2,14
+Broccoli,Vegetable,55,3.7,0.6,11
+Broccoli,Vegetable,55,3.7,0.6,11
+Apple,Fruit,52,0.3,0.2,14
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Brown Rice,Grain,123,2.7,1.0,25
+Apple,Fruit,52,0.3,0.2,14
+Almonds,Nuts,575,21.0,49.0,22
+Banana,Fruit,89,1.1,0.3,23
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Broccoli,Vegetable,55,3.7,0.6,11
+Apple,Fruit,52,0.3,0.2,14
+Banana,Fruit,89,1.1,0.3,23
+Apple,Fruit,52,0.3,0.2,14
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Banana,Fruit,89,1.1,0.3,23
+Chicken Breast,Meat,165,31.0,3.6,0
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Broccoli,Vegetable,55,3.7,0.6,11
+Banana,Fruit,89,1.1,0.3,23
+Apple,Fruit,52,0.3,0.2,14
+Chicken Breast,Meat,165,31.0,3.6,0
+Brown Rice,Grain,123,2.7,1.0,25
+Brown Rice,Grain,123,2.7,1.0,25
+Chicken Breast,Meat,165,31.0,3.6,0
+Brown Rice,Grain,123,2.7,1.0,25
+Almonds,Nuts,575,21.0,49.0,22
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Chicken Breast,Meat,165,31.0,3.6,0
+Apple,Fruit,52,0.3,0.2,14
+Apple,Fruit,52,0.3,0.2,14
+Brown Rice,Grain,123,2.7,1.0,25
+Apple,Fruit,52,0.3,0.2,14
+Chicken Breast,Meat,165,31.0,3.6,0
+Banana,Fruit,89,1.1,0.3,23
+Almonds,Nuts,575,21.0,49.0,22
+Chicken Breast,Meat,165,31.0,3.6,0
+Chicken Breast,Meat,165,31.0,3.6,0
+Almonds,Nuts,575,21.0,49.0,22
+Broccoli,Vegetable,55,3.7,0.6,11
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Almonds,Nuts,575,21.0,49.0,22
+Almonds,Nuts,575,21.0,49.0,22
+Brown Rice,Grain,123,2.7,1.0,25
+Apple,Fruit,52,0.3,0.2,14
+Chicken Breast,Meat,165,31.0,3.6,0
+Banana,Fruit,89,1.1,0.3,23
+Chicken Breast,Meat,165,31.0,3.6,0
+Chicken Breast,Meat,165,31.0,3.6,0
+Brown Rice,Grain,123,2.7,1.0,25
+Chicken Breast,Meat,165,31.0,3.6,0
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Banana,Fruit,89,1.1,0.3,23
+Almonds,Nuts,575,21.0,49.0,22
+Chicken Breast,Meat,165,31.0,3.6,0
+Apple,Fruit,52,0.3,0.2,14
+Chicken Breast,Meat,165,31.0,3.6,0
+Apple,Fruit,52,0.3,0.2,14
+Chicken Breast,Meat,165,31.0,3.6,0
+Broccoli,Vegetable,55,3.7,0.6,11
+Chicken Breast,Meat,165,31.0,3.6,0
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Brown Rice,Grain,123,2.7,1.0,25
+Apple,Fruit,52,0.3,0.2,14
+Almonds,Nuts,575,21.0,49.0,22
+Broccoli,Vegetable,55,3.7,0.6,11
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Apple,Fruit,52,0.3,0.2,14
+Almonds,Nuts,575,21.0,49.0,22
+Banana,Fruit,89,1.1,0.3,23
+Chicken Breast,Meat,165,31.0,3.6,0
+Banana,Fruit,89,1.1,0.3,23
+Chicken Breast,Meat,165,31.0,3.6,0
+Almonds,Nuts,575,21.0,49.0,22
+Apple,Fruit,52,0.3,0.2,14
+Apple,Fruit,52,0.3,0.2,14
+Chicken Breast,Meat,165,31.0,3.6,0
+Apple,Fruit,52,0.3,0.2,14
+Chicken Breast,Meat,165,31.0,3.6,0
+Almonds,Nuts,575,21.0,49.0,22
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Banana,Fruit,89,1.1,0.3,23
+Chicken Breast,Meat,165,31.0,3.6,0
+Banana,Fruit,89,1.1,0.3,23
+Banana,Fruit,89,1.1,0.3,23
+Apple,Fruit,52,0.3,0.2,14
+Apple,Fruit,52,0.3,0.2,14
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Brown Rice,Grain,123,2.7,1.0,25
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Apple,Fruit,52,0.3,0.2,14
+Almonds,Nuts,575,21.0,49.0,22
+Banana,Fruit,89,1.1,0.3,23
+Almonds,Nuts,575,21.0,49.0,22
+Banana,Fruit,89,1.1,0.3,23
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Almonds,Nuts,575,21.0,49.0,22
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Chicken Breast,Meat,165,31.0,3.6,0
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Broccoli,Vegetable,55,3.7,0.6,11
+Broccoli,Vegetable,55,3.7,0.6,11
+Broccoli,Vegetable,55,3.7,0.6,11
+Apple,Fruit,52,0.3,0.2,14
+Apple,Fruit,52,0.3,0.2,14
+Banana,Fruit,89,1.1,0.3,23
+Chicken Breast,Meat,165,31.0,3.6,0
+Broccoli,Vegetable,55,3.7,0.6,11
+Apple,Fruit,52,0.3,0.2,14
+Almonds,Nuts,575,21.0,49.0,22
+Chicken Breast,Meat,165,31.0,3.6,0
+Apple,Fruit,52,0.3,0.2,14
+Broccoli,Vegetable,55,3.7,0.6,11
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Chicken Breast,Meat,165,31.0,3.6,0
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Banana,Fruit,89,1.1,0.3,23
+Banana,Fruit,89,1.1,0.3,23
+Apple,Fruit,52,0.3,0.2,14
+Almonds,Nuts,575,21.0,49.0,22
+Almonds,Nuts,575,21.0,49.0,22
+Chicken Breast,Meat,165,31.0,3.6,0
+Banana,Fruit,89,1.1,0.3,23
+Almonds,Nuts,575,21.0,49.0,22
+Brown Rice,Grain,123,2.7,1.0,25
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Broccoli,Vegetable,55,3.7,0.6,11
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Almonds,Nuts,575,21.0,49.0,22
+Almonds,Nuts,575,21.0,49.0,22
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Banana,Fruit,89,1.1,0.3,23
+Apple,Fruit,52,0.3,0.2,14
+Brown Rice,Grain,123,2.7,1.0,25
+Apple,Fruit,52,0.3,0.2,14
+Brown Rice,Grain,123,2.7,1.0,25
+Brown Rice,Grain,123,2.7,1.0,25
+Almonds,Nuts,575,21.0,49.0,22
+Almonds,Nuts,575,21.0,49.0,22
+Broccoli,Vegetable,55,3.7,0.6,11
+Chicken Breast,Meat,165,31.0,3.6,0
+Broccoli,Vegetable,55,3.7,0.6,11
+Broccoli,Vegetable,55,3.7,0.6,11
+Apple,Fruit,52,0.3,0.2,14
+Chicken Breast,Meat,165,31.0,3.6,0
+Almonds,Nuts,575,21.0,49.0,22
+Almonds,Nuts,575,21.0,49.0,22
+Apple,Fruit,52,0.3,0.2,14
+Banana,Fruit,89,1.1,0.3,23
+Chicken Breast,Meat,165,31.0,3.6,0
+Almonds,Nuts,575,21.0,49.0,22
+Apple,Fruit,52,0.3,0.2,14
+Apple,Fruit,52,0.3,0.2,14
+Chicken Breast,Meat,165,31.0,3.6,0
+Brown Rice,Grain,123,2.7,1.0,25
+Apple,Fruit,52,0.3,0.2,14
+Broccoli,Vegetable,55,3.7,0.6,11
+Brown Rice,Grain,123,2.7,1.0,25
+Apple,Fruit,52,0.3,0.2,14
+Broccoli,Vegetable,55,3.7,0.6,11
+Brown Rice,Grain,123,2.7,1.0,25
+Almonds,Nuts,575,21.0,49.0,22
+Brown Rice,Grain,123,2.7,1.0,25
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Almonds,Nuts,575,21.0,49.0,22
+Broccoli,Vegetable,55,3.7,0.6,11
+Apple,Fruit,52,0.3,0.2,14
+Chicken Breast,Meat,165,31.0,3.6,0
+Banana,Fruit,89,1.1,0.3,23
+Banana,Fruit,89,1.1,0.3,23
+Banana,Fruit,89,1.1,0.3,23
+Apple,Fruit,52,0.3,0.2,14
+Broccoli,Vegetable,55,3.7,0.6,11
+Banana,Fruit,89,1.1,0.3,23
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Chicken Breast,Meat,165,31.0,3.6,0
+Almonds,Nuts,575,21.0,49.0,22
+Chicken Breast,Meat,165,31.0,3.6,0
+Apple,Fruit,52,0.3,0.2,14
+Almonds,Nuts,575,21.0,49.0,22
+Brown Rice,Grain,123,2.7,1.0,25
+Almonds,Nuts,575,21.0,49.0,22
+Broccoli,Vegetable,55,3.7,0.6,11
+Banana,Fruit,89,1.1,0.3,23
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Broccoli,Vegetable,55,3.7,0.6,11
+Broccoli,Vegetable,55,3.7,0.6,11
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Chicken Breast,Meat,165,31.0,3.6,0
+Banana,Fruit,89,1.1,0.3,23
+Chicken Breast,Meat,165,31.0,3.6,0
+Broccoli,Vegetable,55,3.7,0.6,11
+Apple,Fruit,52,0.3,0.2,14
+Broccoli,Vegetable,55,3.7,0.6,11
+Chicken Breast,Meat,165,31.0,3.6,0
+Banana,Fruit,89,1.1,0.3,23
+Almonds,Nuts,575,21.0,49.0,22
+Almonds,Nuts,575,21.0,49.0,22
+Chicken Breast,Meat,165,31.0,3.6,0
+Apple,Fruit,52,0.3,0.2,14
+Chicken Breast,Meat,165,31.0,3.6,0
+Almonds,Nuts,575,21.0,49.0,22
+Apple,Fruit,52,0.3,0.2,14
+Apple,Fruit,52,0.3,0.2,14
+Almonds,Nuts,575,21.0,49.0,22
+Broccoli,Vegetable,55,3.7,0.6,11
+Brown Rice,Grain,123,2.7,1.0,25
+Almonds,Nuts,575,21.0,49.0,22
+Brown Rice,Grain,123,2.7,1.0,25
+Chicken Breast,Meat,165,31.0,3.6,0
+Banana,Fruit,89,1.1,0.3,23
+Almonds,Nuts,575,21.0,49.0,22
+Apple,Fruit,52,0.3,0.2,14
+Almonds,Nuts,575,21.0,49.0,22
+Apple,Fruit,52,0.3,0.2,14
+Banana,Fruit,89,1.1,0.3,23
+Chicken Breast,Meat,165,31.0,3.6,0
+Almonds,Nuts,575,21.0,49.0,22
+Apple,Fruit,52,0.3,0.2,14
+Banana,Fruit,89,1.1,0.3,23
+Brown Rice,Grain,123,2.7,1.0,25
+Brown Rice,Grain,123,2.7,1.0,25
+Almonds,Nuts,575,21.0,49.0,22
+Apple,Fruit,52,0.3,0.2,14
+Broccoli,Vegetable,55,3.7,0.6,11
+Brown Rice,Grain,123,2.7,1.0,25
+Apple,Fruit,52,0.3,0.2,14
+Banana,Fruit,89,1.1,0.3,23
+Chicken Breast,Meat,165,31.0,3.6,0
+Brown Rice,Grain,123,2.7,1.0,25
+Brown Rice,Grain,123,2.7,1.0,25
+Chicken Breast,Meat,165,31.0,3.6,0
+Chicken Breast,Meat,165,31.0,3.6,0
+Broccoli,Vegetable,55,3.7,0.6,11
+Chicken Breast,Meat,165,31.0,3.6,0
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Apple,Fruit,52,0.3,0.2,14
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Banana,Fruit,89,1.1,0.3,23
+Brown Rice,Grain,123,2.7,1.0,25
+Almonds,Nuts,575,21.0,49.0,22
+Banana,Fruit,89,1.1,0.3,23
+Apple,Fruit,52,0.3,0.2,14
+Apple,Fruit,52,0.3,0.2,14
+Chicken Breast,Meat,165,31.0,3.6,0
+Chicken Breast,Meat,165,31.0,3.6,0
+Broccoli,Vegetable,55,3.7,0.6,11
+Brown Rice,Grain,123,2.7,1.0,25
+Chicken Breast,Meat,165,31.0,3.6,0
+Apple,Fruit,52,0.3,0.2,14
+Banana,Fruit,89,1.1,0.3,23
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Banana,Fruit,89,1.1,0.3,23
+Broccoli,Vegetable,55,3.7,0.6,11
+Brown Rice,Grain,123,2.7,1.0,25
+Banana,Fruit,89,1.1,0.3,23
+Apple,Fruit,52,0.3,0.2,14
+Chicken Breast,Meat,165,31.0,3.6,0
+Broccoli,Vegetable,55,3.7,0.6,11
+Apple,Fruit,52,0.3,0.2,14
+Almonds,Nuts,575,21.0,49.0,22
+Banana,Fruit,89,1.1,0.3,23
+Apple,Fruit,52,0.3,0.2,14
+Brown Rice,Grain,123,2.7,1.0,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21.0,49.0,22
+Banana,Fruit,89,1.1,0.3,23
+Chicken Breast,Meat,165,31.0,3.6,0

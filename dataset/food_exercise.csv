@@ -1,0 +1,456 @@
+Name,Type,Calories,Proteins,Fats,Carbohydrates,Exercise
+Apple,Fruit,52,0.3,0.2,14,Jogging
+Chicken Breast,Meat,165,31,3.6,0,Lunges
+Brown Rice,Grain,123,2.7,1,25,Deadlifts
+Broccoli,Vegetable,55,3.7,0.6,11,Plank
+Almonds,Nuts,575,21,49,22,Yoga
+Banana,Fruit,89,1.1,0.3,23,Cycling
+Salmon,Fish,208,20,13,0,Swimming
+Quinoa,Grain,120,4.1,1.9,21,Jumping Jacks
+Spinach,Vegetable,23,2.9,0.4,3,Burpees
+Eggs,Protein,155,13,11,1,Mountain Climbers
+Sweet Potato,Vegetable,86,1.6,0.1,20,Jumping Jacks
+Tofu,Protein,76,8,4.8,1,Resistance Band Training
+Oats,Grain,389,16.9,6.9,66,HIIT (High Intensity Interval Training)
+Walnuts,Nuts,654,15,65,14,Pilates
+Cucumber,Vegetable,16,0.7,0.1,4,Yoga
+Turkey,Meat,135,29,1,0,Bench Press
+Carrots,Vegetable,41,0.9,0.2,10,Rowing
+Greek Yogurt,Dairy,59,10,0.4,3,Boxing
+Avocado,Fruit,160,2,15,9,Stretching
+Cottage Cheese,Dairy,98,11,4.3,3,Pull-ups
+Blueberries,Fruit,57,0.7,0.3,14,Hiking
+Beef Steak,Meat,271,26,18,0,Weightlifting
+Lentils,Legume,116,9,0.4,20,Elliptical Machine
+Chickpeas,Legume,164,9,2.6,27,Step-ups
+Zucchini,Vegetable,17,1.2,0.3,3,Dumbbell Curls
+Milk,Dairy,42,3.4,1,5,Treadmill Walking
+Pineapple,Fruit,50,0.5,0.1,13,Dance Aerobics
+Peanut Butter,Spread,588,25,50,20,Core Exercises
+Green Tea,Beverage,1,0,0,0,Meditation
+Dark Chocolate,Sweet,546,4.9,31,61,Skipping Rope
+Rice,Grain,130,2.7,0.3,28,Running
+Mango,Fruit,60,0.8,0.4,15,Yoga
+Cucumber,Vegetable,15,0.7,0.1,3,Stretching
+Chia Seeds,Nuts,486,16.5,30.7,42.1,Power Yoga
+Coconut,Fruit,354,3.3,33.5,15.2,Mountain Hiking
+Pork,Meat,242,27,14,0,Push-ups
+Cheese,Dairy,402,25,33,1,Squats
+Olive Oil,Oil,884,0,100,0,Crossfit
+Papaya,Fruit,43,0.5,0.3,11,Zumba
+Spinach,Vegetable,23,2.9,0.4,3,Biking
+Lemon,Fruit,29,1.1,0.3,9,Jogging
+Tomato,Vegetable,18,0.9,0.2,3.9,Boxing
+Shrimp,Fish,99,24,0.3,0,Yoga
+Kale,Vegetable,49,4.3,0.9,9.0,Jogging
+Beets,Vegetable,43,1.6,0.2,10.0,Power Walking
+Hummus,Spread,166,7.9,14.3,9.6,Stretching
+Tuna,Fish,132,28,0.7,0,Swimming
+Asparagus,Vegetable,20,2.2,0.2,3.7,Running
+Apple Cider Vinegar,Condiment,3,0,0,0,Yoga
+Grapefruit,Fruit,52,0.8,0.2,13.0,Jogging
+Figs,Fruit,74,0.4,0.2,19.2,Walking
+Pistachios,Nuts,562,20.2,45.3,28.0,Strength Training
+Eggplant,Vegetable,25,1.0,0.2,6.0,Zumba
+Cantaloupe,Fruit,34,0.8,0.2,8.0,Stretching
+Cabbage,Vegetable,25,1.3,0.1,5.8,Plank
+Apricot,Fruit,48,0.5,0.4,12.0,Cycling
+Raspberries,Fruit,52,1.2,0.6,11.9,Yoga
+Avocado,Vegetable,160,2.0,15.0,9.0,Yoga
+Brussels Sprouts,Vegetable,43,3.4,0.3,9.0,Hiking
+Cauliflower,Vegetable,25,1.9,0.3,4.0,Boxing
+Blackberries,Fruit,43,1.0,0.5,9.6,Yoga
+Kiwi,Fruit,61,1.1,0.5,14.7,Running
+Rye Bread,Grain,257,8.5,3.3,48.0,Rowing
+Salmon,Fish,208,20.0,13.0,0.0,Swimming
+Turkey Breast,Meat,135,30.0,1.0,0.0,Jogging
+Prawn,Fish,99,24.0,0.4,0.0,Stretching
+Chia Seeds,Nuts,486,16.5,30.7,42.1,HIIT
+Feta Cheese,Dairy,264,14.0,21.0,3.0,Yoga
+Rhubarb,Vegetable,21,0.9,0.1,4.0,Jumping Jacks
+Peach,Fruit,39,0.9,0.3,10.0,Weightlifting
+Ziti,Grain,200,7.0,1.0,42.0,Swimming
+Mozzarella Cheese,Dairy,280,21.0,22.0,2.0,Cycling
+Tilapia,Fish,128,26.0,2.3,0.0,Running
+Lobster,Fish,143,31.0,1.5,0.0,Stretching
+Sweet Corn,Vegetable,96,3.4,1.5,21.0,Boxing
+Lamb,Meat,294,25.0,21.0,0.0,Jumping Jacks
+Mushrooms,Vegetable,22,3.1,0.3,3.3,Yoga
+Avocado Toast,Grain,235,5.0,15.0,24.0,Yoga
+Fennel,Vegetable,31,1.2,0.2,7.6,Rowing
+Coconut Milk,Beverage,230,2.0,24.0,6.0,Stretching
+Chia Pudding,Nuts,450,15.0,30.0,42.0,HIIT
+Rice Cakes,Grain,113,2.0,0.9,24.0,Jogging
+Miso Soup,Vegetable,40,2.5,1.0,7.5,Plank
+Popcorn,Snack,387,13.0,22.0,44.0,Jumping Jacks
+Pine Nuts,Nuts,673,13.7,68.0,13.1,Power Yoga
+Rice Pudding,Dessert,159,3.6,4.0,30.0,Weightlifting
+Coconut Water,Beverage,45,0.0,0.5,11.0,Swimming
+Clams,Fish,74,13.0,1.0,4.0,Stretching
+Pork Tenderloin,Meat,143,26.0,4.0,0.0,Push-ups
+Sweet Pepper,Vegetable,20,0.9,0.1,4.6,Yoga
+Cranberries,Fruit,46,0.4,0.1,12.0,Boxing
+Butternut Squash,Vegetable,45,1.0,0.1,12.0,Zumba
+Olives,Vegetable,115,0.8,10.0,6.0,Yoga
+Artichoke,Vegetable,60,4.0,0.2,14.0,Running
+Peas,Legume,81,5.4,0.4,14.0,Power Walking
+Poppy Seeds,Nuts,525,18.0,41.0,28.0,Resistance Band Training
+Cabbage Soup,Vegetable,35,2.0,0.1,7.9,Stretching
+Ginger Root,Spice,80,1.8,0.9,18.0,Yoga
+Basil,Herb,22,1.0,0.6,4.0,Running
+Tomato Soup,Vegetable,74,2.0,3.5,12.0,Jumping Jacks
+Scallops,Fish,112,20.0,1.0,5.0,Swimming
+Mussels,Fish,172,20.0,8.0,7.0,Rowing
+Bulgur Wheat,Grain,83,3.1,0.2,18.6,HIIT
+Chicken Thighs,Meat,209,26.0,10.0,0.0,Crossfit
+Duck,Meat,337,19.0,28.0,0.0,Weightlifting
+Lamb Chops,Meat,294,25.0,21.0,0.0,Jumping Jacks
+Pistachio Butter,Nuts,588,20.0,50.0,28.0,Yoga
+Tangerine,Fruit,47,0.6,0.2,12.0,Yoga
+Mustard,Condiment,9,0.6,0.5,0.7,Jogging
+Sesame Seeds,Nuts,573,17.0,49.7,23.5,Weightlifting
+Chia Seed Pudding,Nuts,500,16.0,30.0,42.0,Yoga
+Macadamia Nuts,Nuts,718,8.0,75.0,14.0,Yoga
+Yogurt Parfait,Dairy,220,10.0,7.0,30.0,Zumba
+Bacon,Meat,42,3.0,3.3,0.1,Jumping Jacks
+Cinnamon,Spice,6,0.1,0.0,1.8,Running
+Honey,Sweetener,64,0.1,0.0,17.3,Yoga
+Pecan Nuts,Nuts,691,9.2,72.0,14.0,Yoga
+Cashews,Nuts,553,18.0,44.0,30.0,Rowing
+Sardines,Fish,208,24.0,11.5,0.0,Swimming
+Beef Jerky,Meat,410,33.0,29.0,6.0,Push-ups
+Fried Tofu,Protein,194,15.0,13.0,8.0,Yoga
+Roasted Chickpeas,Legume,186,9.0,5.0,27.0,HIIT
+Oyster,Fish,68,7.0,2.0,3.0,Swimming
+Chickpea Salad,Legume,210,11.0,9.0,23.0,Boxing
+Grapefruit Juice,Beverage,39,0.4,0.1,9.0,Jogging
+Baked Potato,Vegetable,161,4.3,0.2,37.0,Jumping Jacks
+Beef Burrito,Meat,400,20.0,14.0,45.0,HIIT
+Lentil Soup,Legume,230,16.0,2.0,38.0,Yoga
+Roasted Almonds,Nuts,579,21.0,49.0,22.0,Plank
+Veggie Burger,Protein,320,20.0,15.0,25.0,Weightlifting
+Barbecue Chicken,Meat,250,25.0,15.0,5.0,Stretching
+Cucumber Salad,Vegetable,30,1.0,0.2,6.0,Running
+Beef Stir-fry,Meat,330,27.0,18.0,14.0,Crossfit
+Chicken Wings,Meat,203,19.0,13.0,0.0,Jumping Jacks
+Raspberry Sorbet,Dessert,200,1.0,5.0,46.0,Yoga
+Tuna Salad,Fish,250,20.0,12.0,12.0,Swimming
+Chicken Caesar Salad,Meat,330,28.0,20.0,9.0,Yoga
+Zucchini Noodles,Vegetable,20,1.5,0.2,4.0,Running
+Frittata,Protein,220,15.0,16.0,5.0,Zumba
+Cauliflower Rice,Vegetable,25,2.0,0.3,5.0,Yoga
+Baked Salmon,Fish,232,22.0,14.0,0.0,Cycling
+Pork Ribs,Meat,400,30.0,30.0,0.0,Push-ups
+Steak,Meat,242,26.0,16.0,0.0,Weightlifting
+Cabbage Stir-fry,Vegetable,115,3.5,7.0,11.0,Yoga
+Fried Rice,Grain,240,6.0,6.0,40.0,Jumping Jacks
+Salmon Fillet,Fish,233,25.0,15.0,0.0,Yoga
+Grilled Chicken,Meat,165,31.0,3.6,0.0,Cycling
+Pasta,Grain,200,7.0,1.0,42.0,Plank
+Spinach Salad,Vegetable,50,2.0,1.0,10.0,Yoga
+Tofu Stir-fry,Protein,150,12.0,10.0,10.0,Swimming
+Avocado Smoothie,Fruit,250,4.0,15.0,24.0,Stretching
+Rice Pudding,Dessert,170,5.0,4.0,35.0,Yoga
+Quinoa Salad,Grain,220,8.0,7.0,35.0,Jogging
+Chia Seed Pudding,Nuts,230,8.0,15.0,28.0,Weightlifting
+Grilled Cheese Sandwich,Grain,300,10.0,18.0,30.0,Zumba
+Cauliflower Mashed,Vegetable,60,3.0,4.0,12.0,Burpees
+Chicken Burrito,Meat,350,28.0,15.0,40.0,Plank
+Pineapple Smoothie,Fruit,180,1.0,1.0,45.0,Yoga
+Garlic Bread,Grain,210,5.0,10.0,25.0,Running
+Sweet Potato Fries,Vegetable,150,2.0,7.0,24.0,Crossfit
+Vegetable Soup,Vegetable,80,3.0,2.0,15.0,Stretching
+Frozen Yogurt,Dessert,130,3.0,4.0,20.0,Jumping Jacks
+Chocolate Milk,Dairy,190,8.0,5.0,27.0,Yoga
+Chicken Tenders,Meat,290,20.0,14.0,26.0,Boxing
+Coconut Shrimp,Fish,330,20.0,22.0,12.0,Jumping Jacks
+Beef Tacos,Meat,290,18.0,14.0,24.0,HIIT
+Frittata,Protein,230,15.0,18.0,5.0,Cycling
+Turkey Bacon,Meat,50,6.0,2.5,1.0,Yoga
+Pancakes,Grain,210,5.0,8.0,35.0,Zumba
+Pita Bread,Grain,165,6.0,1.0,35.0,Yoga
+Egg Salad,Protein,240,12.0,18.0,4.0,Weightlifting
+Lamb Curry,Meat,350,25.0,22.0,15.0,Rowing
+Cottage Cheese with Fruit,Dairy,180,12.0,9.0,18.0,Yoga
+Fruit Salad,Fruit,120,2.0,0.5,30.0,Plank
+Roast Beef,Meat,250,25.0,15.0,0.0,Crossfit
+Chia Smoothie,Nuts,300,8.0,18.0,34.0,Stretching
+Cucumber Yogurt Salad,Vegetable,90,4.0,5.0,10.0,Jumping Jacks
+Eggplant Parmesan,Vegetable,180,8.0,7.0,22.0,Swimming
+Fried Egg,Protein,91,6.0,7.0,0.5,Running
+Beetroot Salad,Vegetable,70,2.0,0.1,17.0,Yoga
+Potato Salad,Vegetable,210,3.0,15.0,20.0,Zumba
+Vegan Burger,Protein,320,22.0,14.0,30.0,HIIT
+Chicken Quesadilla,Meat,300,22.0,14.0,30.0,Cycling
+Avocado Fries,Fruit,180,2.0,12.0,15.0,Stretching
+Soy Milk,Beverage,45,3.0,2.0,4.0,Yoga
+Waffles,Grain,250,6.0,8.0,40.0,Yoga
+Pulled Pork Sandwich,Meat,400,28.0,20.0,35.0,Boxing
+Fish Tacos,Fish,210,18.0,10.0,16.0,Jumping Jacks
+Chicken Fajitas,Meat,270,24.0,12.0,20.0,Zumba
+Rice Pudding,Grain,150,4.0,5.0,28.0,Yoga
+Avocado on Toast,Fruit,230,6.0,15.0,24.0,HIIT
+Coconut Rice,Grain,200,4.0,8.0,34.0,Running
+Hummus,Legume,165,6.0,10.0,14.0,Yoga
+Apple Pie,Dessert,320,1.0,15.0,45.0,Zumba
+Ginger Tea,Beverage,30,0.5,0.1,7.5,Yoga
+Omelette,Protein,140,12.0,9.0,2.0,Weightlifting
+Poppy Seed Muffins,Dessert,220,4.0,12.0,26.0,Stretching
+Chicken Soup,Meat,180,18.0,8.0,15.0,Yoga
+French Fries,Vegetable,365,3.0,17.0,50.0,Cycling
+Beef Meatballs,Meat,300,20.0,20.0,5.0,HIIT
+Shrimp Cocktail,Fish,100,20.0,1.5,2.0,Jogging
+Fruit Smoothie,Fruit,160,3.0,2.0,40.0,Swimming
+Spinach and Cheese Wrap,Protein,290,15.0,12.0,25.0,Yoga
+Steamed Broccoli,Vegetable,50,4.0,0.5,10.0,Running
+Banana Bread,Dessert,250,3.0,14.0,35.0,HIIT
+Tuna Sandwich,Fish,290,22.0,14.0,28.0,Plank
+Guacamole,Fruit,160,2.0,14.0,9.0,Stretching
+Baked Potatoes,Vegetable,160,4.0,0.2,37.0,Zumba
+Fruit Smoothie,Fruit,180,3.0,2.0,40.0,Yoga
+Carrot Soup,Vegetable,120,3.0,7.0,15.0,Yoga
+Mango Smoothie,Fruit,180,2.0,1.0,44.0,Running
+Tomato Soup,Vegetable,90,3.0,4.0,12.0,Plank
+Beef Burger,Meat,350,22.0,20.0,30.0,HIIT
+Crispy Tofu,Protein,180,15.0,10.0,10.0,Zumba
+Almond Butter,Nuts,200,7.0,18.0,6.0,Yoga
+Avocado Wrap,Fruit,270,6.0,17.0,28.0,Boxing
+Granola,Grain,200,4.0,10.0,30.0,Jogging
+Peach Smoothie,Fruit,160,2.0,2.0,38.0,Cycling
+Kale Chips,Vegetable,120,4.0,6.0,16.0,Swimming
+Chicken Stir-fry,Meat,280,25.0,15.0,10.0,Jumping Jacks
+Veggie Burger,Protein,250,18.0,12.0,28.0,Stretching
+Egg Salad Sandwich,Protein,270,14.0,14.0,18.0,Yoga
+Rice and Beans,Legume,350,12.0,6.0,60.0,Running
+Peanut Butter Toast,Spread,220,8.0,18.0,18.0,Boxing
+Chocolate Cake,Dessert,320,5.0,18.0,40.0,Zumba
+Frozen Fruit Bar,Fruit,120,1.0,0.5,30.0,HIIT
+Pumpkin Soup,Vegetable,100,2.0,3.0,20.0,Yoga
+Baked Salmon,Fish,200,25.0,10.0,0.0,Swimming
+Chicken Skewers,Meat,220,28.0,10.0,0.0,Jumping Jacks
+Chocolate Chip Cookies,Dessert,250,3.0,12.0,30.0,Jogging
+Rice Pudding with Almonds,Grain,180,4.0,7.0,25.0,Yoga
+Grilled Shrimp,Fish,120,22.0,3.0,2.0,Running
+Smoothie Bowl,Fruit,350,6.0,20.0,45.0,Boxing
+Chickpea Salad,Legume,250,12.0,8.0,35.0,Yoga
+Strawberry Yogurt Parfait,Dairy,200,8.0,6.0,32.0,Plank
+Spaghetti with Meatballs,Grain,450,25.0,20.0,50.0,Crossfit
+Greek Salad,Vegetable,150,6.0,10.0,12.0,Zumba
+Veggie Wrap,Vegetable,180,5.0,6.0,35.0,Swimming
+Toasted Bagel,Grain,290,10.0,9.0,40.0,Cycling
+Black Bean Soup,Legume,180,12.0,4.0,30.0,Yoga
+Pasta with Pesto,Grain,450,10.0,20.0,50.0,Zumba
+Chicken Caesar Salad,Meat,350,25.0,20.0,12.0,Plank
+Vegan Chili,Legume,250,16.0,10.0,35.0,Running
+Cucumber Sandwich,Vegetable,100,3.0,2.0,18.0,Yoga
+Beef Burritos,Meat,330,20.0,16.0,30.0,Boxing
+Quinoa and Veggie Stir-fry,Grain,300,12.0,8.0,45.0,Crossfit
+Turkey and Cheese Sandwich,Meat,280,22.0,12.0,30.0,Yoga
+Vegetarian Tacos,Legume,220,12.0,8.0,30.0,Stretching
+Oatmeal with Berries,Grain,150,5.0,3.0,28.0,Jogging
+Lentil Soup,Legume,170,9.0,4.0,28.0,Yoga
+Beef and Veggie Stir-fry,Meat,300,25.0,15.0,20.0,HIIT
+Mushroom Risotto,Grain,400,12.0,18.0,50.0,Swimming
+Chia Pudding,Nuts,230,6.0,15.0,20.0,Zumba
+Grilled Cheese with Tomato,Grain,350,12.0,18.0,30.0,Jumping Jacks
+Chicken Parmesan,Meat,400,30.0,20.0,35.0,Plank
+Vegetable Frittata,Protein,250,18.0,14.0,12.0,Yoga
+Fruit and Nut Bars,Nuts,230,8.0,12.0,28.0,Running
+Falafel,Legume,200,10.0,8.0,30.0,Yoga
+Apple Cinnamon Oatmeal,Grain,220,6.0,4.0,38.0,Boxing
+Mango Chutney,Dessert,160,1.0,0.5,40.0,Zumba
+Quinoa with Roasted Vegetables,Grain,300,10.0,9.0,45.0,Crossfit
+Almond Joy,Snack,230,3.0,18.0,24.0,HIIT
+Vegetable Stir Fry,Vegetable,120,4.0,7.0,15.0,Weightlifting
+Caramelized Onion Soup,Vegetable,200,5.0,12.0,20.0,Yoga
+Tuna Salad,Meat,220,30.0,10.0,5.0,Jogging
+Pineapple Salsa,Snack,60,1.0,0.5,15.0,Zumba
+Peach Cobbler,Dessert,350,5.0,15.0,55.0,Cycling
+Scrambled Eggs,Protein,150,10.0,12.0,2.0,Yoga
+Cauliflower Rice,Vegetable,50,2.0,2.0,8.0,Running
+Eggplant Lasagna,Vegetable,280,15.0,18.0,20.0,HIIT
+Pumpkin Pie,Dessert,320,5.0,15.0,45.0,Zumba
+Mango Salsa,Snack,70,1.0,0.5,18.0,Cycling
+Chicken Quesadilla,Meat,330,22.0,15.0,28.0,Yoga
+Beetroot Salad,Vegetable,100,4.0,3.0,20.0,Swimming
+Vegan Burrito,Legume,250,10.0,7.0,40.0,Running
+Brown Rice and Beans,Grain,300,12.0,6.0,50.0,HIIT
+Fruit Salad,Fruit,120,1.0,0.5,30.0,Boxing
+Spinach and Feta Wrap,Vegetable,250,9.0,10.0,30.0,Yoga
+Veggie Sushi,Vegetable,180,6.0,3.0,35.0,Jumping Jacks
+Eggplant Parmesan,Vegetable,350,12.0,20.0,40.0,Plank
+Shrimp Tacos,Fish,220,25.0,10.0,20.0,Cycling
+Vegan Pizza,Legume,350,18.0,12.0,45.0,HIIT
+Peach Smoothie Bowl,Fruit,250,4.0,6.0,50.0,Swimming
+Hummus and Pita,Legume,300,10.0,15.0,35.0,Yoga
+Baked Ziti,Grain,400,15.0,18.0,50.0,Weightlifting
+Roast Chicken,Meat,400,40.0,20.0,0.0,Boxing
+Sweet Potato Fries,Vegetable,180,2.0,8.0,30.0,Cycling
+Vegetable Tempura,Vegetable,220,4.0,14.0,20.0,Running
+Oatmeal with Almond Butter,Grain,280,8.0,12.0,35.0,Zumba
+Cheese and Crackers,Dairy,250,10.0,15.0,20.0,Stretching
+Cauliflower Tacos,Vegetable,200,6.0,10.0,28.0,Yoga
+Falafel Wrap,Legume,350,14.0,16.0,40.0,Crossfit
+Pasta Primavera,Grain,400,12.0,18.0,50.0,Boxing
+Spicy Tuna Roll,Fish,230,15.0,8.0,25.0,Jogging
+BBQ Chicken Wings,Meat,500,40.0,30.0,15.0,HIIT
+Mixed Nuts,Nuts,150,5.0,12.0,10.0,Walking
+Apple Pie,Dessert,350,3.0,20.0,40.0,Jumping Jacks
+Fettuccine Alfredo,Grain,450,20.0,25.0,45.0,Weightlifting
+Cucumber Salad,Vegetable,60,2.0,3.0,12.0,Plank
+Baked Sweet Potato,Vegetable,150,4.0,0.5,35.0,Running
+Lemonade,Beverage,90,0.0,0.1,23.0,Cycling
+Steamed Vegetables,Vegetable,120,6.0,4.0,18.0,Yoga
+Pesto Pasta,Grain,500,15.0,25.0,60.0,Jogging
+Coconut Yogurt,Dairy,200,6.0,18.0,20.0,Zumba
+Vegetable Soup,Vegetable,150,5.0,6.0,20.0,Boxing
+Grilled Veggie Wrap,Vegetable,250,8.0,12.0,30.0,Running
+Beef Stew,Meat,350,30.0,20.0,25.0,HIIT
+Vegetarian Chili,Legume,280,16.0,10.0,35.0,Swimming
+Egg Salad,Protein,200,10.0,14.0,6.0,Yoga
+Tomato and Mozzarella Salad,Vegetable,180,8.0,14.0,12.0,Boxing
+Steak Salad,Meat,400,35.0,25.0,10.0,Jogging
+Fried Rice,Grain,350,8.0,15.0,45.0,Cycling
+Chili Con Carne,Meat,450,30.0,25.0,35.0,Zumba
+Lemon Meringue Pie,Dessert,320,5.0,12.0,40.0,Stretching
+Eggplant Rollatini,Vegetable,280,14.0,18.0,20.0,HIIT
+Baked Cod,Fish,180,20.0,9.0,0.0,Running
+Berry Smoothie,Fruit,200,4.0,3.0,45.0,Boxing
+Quinoa Salad,Grain,350,12.0,9.0,45.0,Yoga
+Vegetable Lasagna,Vegetable,400,20.0,18.0,45.0,Swimming
+Ratatouille,Vegetable,180,6.0,8.0,22.0,Jogging
+Cranberry Sauce,Snack,90,0.5,0.5,22.0,Zumba
+Chocolate Brownie,Dessert,350,5.0,20.0,40.0,Yoga
+Chicken Noodle Soup,Meat,220,15.0,8.0,25.0,Running
+Hibachi Chicken,Meat,300,35.0,15.0,10.0,HIIT
+Vegetable Biryani,Grain,350,8.0,12.0,50.0,Weightlifting
+Fruit Smoothie,Fruit,150,2.0,1.0,35.0,Cycling
+BBQ Pulled Pork,Meat,450,30.0,20.0,35.0,Yoga
+Mushroom Risotto,Grain,400,12.0,18.0,50.0,Boxing
+Fish Tacos,Fish,250,22.0,10.0,20.0,Jogging
+Veggie Omelet,Protein,200,12.0,14.0,8.0,Zumba
+Tomato Bruschetta,Vegetable,150,3.0,6.0,18.0,Stretching
+Eggplant Fries,Vegetable,180,4.0,10.0,20.0,Plank
+Carrot Ginger Soup,Vegetable,120,4.0,6.0,15.0,HIIT
+Spinach Artichoke Dip,Dairy,200,8.0,15.0,15.0,Running
+Zucchini Noodles,Vegetable,70,3.0,1.0,15.0,Cycling
+Vegetable Stir Fry,Vegetable,200,6.0,10.0,30.0,Yoga
+Chicken Caesar Salad,Meat,350,30.0,20.0,10.0,Running
+Greek Salad,Dairy,150,7.0,8.0,12.0,Swimming
+Spaghetti Bolognese,Grain,500,20.0,18.0,60.0,Cycling
+Pineapple Fried Rice,Fruit,400,8.0,15.0,60.0,HIIT
+Quinoa & Roasted Veggie Bowl,Grain,380,10.0,14.0,60.0,Boxing
+Beef Tacos,Meat,320,25.0,18.0,25.0,Yoga
+Chickpea Salad,Legume,250,15.0,8.0,30.0,Zumba
+Veggie Burger,Legume,350,20.0,15.0,40.0,Weightlifting
+Sushi Rolls,Fish,250,18.0,8.0,30.0,Cycling
+Chicken Parmesan,Meat,500,35.0,25.0,40.0,Running
+Tofu Stir Fry,Protein,300,18.0,12.0,25.0,HIIT
+Mango Chutney,Snack,100,1.0,0.5,25.0,Jumping Jacks
+Coconut Rice,Grain,230,4.0,7.0,42.0,Boxing
+Beef Burrito,Meat,550,35.0,22.0,45.0,Yoga
+Oats with Berries,Grain,250,8.0,6.0,45.0,Plank
+Grilled Salmon,Fish,350,30.0,20.0,0.0,Zumba
+Baked Potato,Vegetable,160,4.0,0.5,37.0,Swimming
+Vegan Meatballs,Legume,300,18.0,10.0,35.0,Running
+Pumpkin Soup,Vegetable,150,4.0,7.0,18.0,HIIT
+Veggie Omelette,Protein,180,12.0,10.0,6.0,Yoga
+Chia Pudding,Dairy,230,6.0,16.0,18.0,Boxing
+Lentil Soup,Legume,250,16.0,8.0,35.0,Stretching
+Sweet Corn Salad,Vegetable,200,5.0,7.0,30.0,Zumba
+Pork Stir Fry,Meat,400,30.0,18.0,25.0,Plank
+Egg Salad Sandwich,Protein,350,20.0,15.0,30.0,Jumping Jacks
+Fruit Sorbet,Dessert,150,1.0,0.5,35.0,Cycling
+Beef Tacos with Guacamole,Meat,450,30.0,22.0,30.0,Yoga
+Coconut Milk Smoothie,Dairy,250,3.0,20.0,20.0,Running
+Tomato Soup,Vegetable,120,3.0,4.0,20.0,HIIT
+Avocado Toast,Fruit,300,6.0,18.0,30.0,Swimming
+Black Bean Salad,Legume,350,20.0,8.0,45.0,Boxing
+Grilled Cheese Sandwich,Dairy,400,12.0,20.0,40.0,Yoga
+Vegetable Pizza,Vegetable,350,12.0,15.0,40.0,HIIT
+BBQ Chicken Pizza,Meat,500,35.0,25.0,45.0,Zumba
+Chicken Shawarma,Meat,450,30.0,22.0,40.0,Yoga
+Vegetarian Burrito,Legume,350,12.0,12.0,50.0,Jumping Jacks
+Beetroot Soup,Vegetable,120,5.0,6.0,18.0,Stretching
+Falafel Plate,Legume,400,18.0,20.0,35.0,Crossfit
+Grilled Portobello Mushroom,Vegetable,150,5.0,6.0,20.0,Weightlifting
+Lamb Kebab,Meat,500,40.0,25.0,30.0,HIIT
+Berry Oatmeal,Grain,250,7.0,8.0,40.0,Running
+Spinach and Cheese Stuffed Chicken,Meat,400,35.0,20.0,15.0,Yoga
+Cucumber and Hummus Wrap,Vegetable,150,5.0,8.0,18.0,Plank
+Eggplant Parmesan,Vegetable,350,15.0,18.0,30.0,Boxing
+Salmon Salad,Fish,300,25.0,18.0,15.0,Swimming
+Shakshuka,Protein,350,18.0,25.0,15.0,Yoga
+Avocado Smoothie,Fruit,200,4.0,16.0,20.0,HIIT
+Pumpkin Pie,Dessert,250,4.0,12.0,30.0,Running
+Mixed Fruit Bowl,Fruit,120,2.0,1.0,30.0,Cycling
+Chicken Fajitas,Meat,400,30.0,12.0,35.0,Boxing
+Pasta with Pesto,Grain,450,15.0,18.0,50.0,Weightlifting
+Rice and Dal,Grain,350,12.0,8.0,55.0,Yoga
+Chicken and Veggie Stir Fry,Meat,350,25.0,15.0,30.0,Jogging
+Beef Wellington,Meat,550,40.0,30.0,30.0,Zumba
+Mushroom Soup,Vegetable,150,4.0,7.0,20.0,HIIT
+Tuna Salad,Fish,250,22.0,12.0,10.0,Boxing
+Grilled Tofu,Protein,200,18.0,10.0,12.0,Running
+Peach Iced Tea,Beverage,120,0.0,0.0,30.0,Swimming
+Veggie Paella,Vegetable,350,10.0,15.0,45.0,HIIT
+Pasta Carbonara,Grain,500,20.0,25.0,50.0,Yoga
+Potato Wedges,Vegetable,200,5.0,10.0,30.0,Plank
+Chocolate Chip Cookies,Dessert,300,4.0,15.0,40.0,Zumba
+Pork Tenderloin,Meat,250,26.0,14.0,5.0,Yoga
+Roasted Carrots,Vegetable,180,3.0,7.0,30.0,Boxing
+Cauliflower Rice,Vegetable,25,2.0,0.1,5.0,Running
+Grilled Shrimp,Fish,200,25.0,10.0,5.0,Swimming
+Chia Seed Pudding,Protein,180,6.0,12.0,18.0,Zumba
+Sweet Potato Fries,Vegetable,200,4.0,8.0,35.0,HIIT
+Spicy Tofu Stir Fry,Protein,300,18.0,16.0,22.0,Jumping Jacks
+Vegetable Samosas,Snack,220,5.0,10.0,30.0,Crossfit
+Fettuccine Alfredo,Grain,600,15.0,30.0,65.0,Yoga
+Lamb Shank,Meat,550,50.0,30.0,10.0,Weightlifting
+Chicken & Avocado Wrap,Meat,400,30.0,20.0,35.0,Running
+Pasta Primavera,Grain,450,12.0,18.0,60.0,Zumba
+Ginger Lemon Tea,Beverage,5,0.0,0.0,1.0,Meditation
+Beef Stir Fry,Meat,350,28.0,18.0,25.0,Yoga
+Mango Smoothie,Fruit,180,2.0,5.0,35.0,Swimming
+Kale Salad,Vegetable,120,5.0,8.0,15.0,Boxing
+Grilled Veggie Wrap,Vegetable,250,8.0,10.0,35.0,Running
+Tomato Basil Soup,Vegetable,150,4.0,5.0,20.0,HIIT
+Chicken Tikka Masala,Meat,450,30.0,22.0,35.0,Zumba
+Tofu Scramble,Protein,220,18.0,12.0,20.0,Jumping Jacks
+Rice Pudding,Grain,300,5.0,10.0,50.0,Plank
+Fish Tacos,Fish,350,25.0,10.0,35.0,Yoga
+Banana Bread,Dessert,200,3.0,7.0,35.0,Cycling
+Cauliflower Pizza,Vegetable,250,12.0,10.0,35.0,Yoga
+Falafel Wrap,Legume,350,15.0,16.0,35.0,HIIT
+Prawn Cocktail,Fish,220,20.0,12.0,8.0,Zumba
+Veggie Quesadilla,Vegetable,300,12.0,15.0,30.0,Yoga
+Beef and Broccoli,Meat,400,30.0,20.0,20.0,Running
+Fruit Salad,Fruit,150,2.0,0.5,35.0,Cycling
+Avocado Salad,Fruit,250,4.0,20.0,15.0,Boxing
+Vegan Burrito,Legume,350,12.0,14.0,45.0,Weightlifting
+Pasta with Marinara,Grain,400,10.0,15.0,55.0,Yoga
+Spicy Lentil Soup,Legume,250,15.0,8.0,35.0,HIIT
+Grilled Eggplant,Vegetable,100,3.0,5.0,15.0,Jumping Jacks
+Chili Con Carne,Meat,400,30.0,15.0,30.0,Yoga
+Baked Chicken Wings,Meat,400,30.0,20.0,30.0,Zumba
+Barbecue Ribs,Meat,550,40.0,35.0,15.0,Crossfit
+Coconut Curry,Vegetable,300,5.0,18.0,30.0,Running
+Quiche,Protein,350,20.0,20.0,25.0,Yoga
+Tuna Casserole,Fish,450,30.0,20.0,40.0,Boxing
+Baked Ziti,Grain,500,20.0,25.0,50.0,HIIT
+Spinach Artichoke Dip,Snack,300,8.0,20.0,20.0,Zumba
+Salmon with Asparagus,Fish,450,40.0,25.0,15.0,Yoga
+Chicken Soup,Meat,200,15.0,8.0,20.0,Stretching
+Stuffed Bell Peppers,Vegetable,250,12.0,7.0,30.0,Cycling
+Vegan Chili,Legume,300,15.0,10.0,40.0,Running
+Egg Salad,Protein,300,18.0,20.0,10.0,Jumping Jacks
+Fried Rice,Grain,350,10.0,10.0,50.0,Yoga
+Hummus and Pita,Snack,250,6.0,12.0,28.0,Boxing
+Zucchini Noodles,Vegetable,100,3.0,4.0,20.0,HIIT
+Pork Chops,Meat,450,40.0,20.0,10.0,Weightlifting
+Cheese and Crackers,Snack,200,8.0,12.0,20.0,Zumba
+Apple Pie,Dessert,400,2.0,15.0,65.0,Running
+Cucumber Rolls,Vegetable,100,3.0,2.0,20.0,Yoga
+Lentil Stew,Legume,350,20.0,12.0,45.0,HIIT
+Seafood Paella,Fish,400,30.0,15.0,35.0,Yoga
+Pulled Pork Sandwich,Meat,500,30.0,25.0,40.0,Crossfit

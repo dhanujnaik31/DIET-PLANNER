@@ -1,0 +1,715 @@
+Name,Type,Calories,Proteins,Fats,Carbohydrates
+Apple,Fruit,52,0.3,0.2,14
+Banana,Fruit,89,1.1,0.3,23
+Orange,Fruit,47,0.9,0.1,12
+Chicken Breast,Meat,165,31,3.6,0
+Brown Rice,Grain,123,2.7,1,25
+Broccoli,Vegetable,55,3.7,0.6,11
+Almonds,Nuts,575,21,49,22
+Mango,Fruit,60,0.8,0.4,15
+Papaya,Fruit,43,0.5,0.3,11
+Salmon,Fish,208,20,13,0
+Eggs,Poultry,155,13,11,1.1
+Cheese,Dairy,402,25,33,1.3
+Yogurt,Dairy,59,10,0.4,3.6
+Tofu,Vegetarian,76,8,4.8,1.9
+Spinach,Vegetable,23,2.9,0.4,3.6
+Potato,Vegetable,77,2,0.3,17
+Shrimp,Seafood,99,24,0.3,0.2
+Peanut Butter,Spread,589,25,50,20
+Avocado,Fruit,160,2,15,9
+Oats,Grain,389,16.9,6.9,66
+Lentils,Legume,116,9,0.4,20
+Sweet Potato,Vegetable,86,1.6,0.1,20
+Cashews,Nuts,553,18,44,30
+Baked Beans,Legume,94,5.5,0.4,21
+Sardines,Fish,208,24,13,0
+Greek Yogurt,Dairy,59,10,0.4,3.6
+Pork Chop,Meat,231,24,14,0
+Hummus,Vegetarian,166,7.9,8.6,14
+Cucumber,Vegetable,16,0.7,0.1,3.6
+Watermelon,Fruit,30,0.6,0.2,8
+Kiwi,Fruit,61,1.1,0.5,15
+Strawberry,Fruit,32,0.7,0.3,7.7
+Cantaloupe,Fruit,34,0.8,0.2,8.2
+Grapefruit,Fruit,42,0.8,0.1,10.5
+Pineapple,Fruit,50,0.5,0.1,13
+Cherries,Fruit,50,1,0.3,12
+Blueberries,Fruit,57,0.7,0.3,14
+Raspberries,Fruit,52,1.5,0.6,12
+Blackberries,Fruit,43,1,0.5,10
+Beef Steak,Meat,250,26,15,0
+Turkey Breast,Meat,135,30,1,0
+Lamb Chop,Meat,294,25,21,0
+Venison,Meat,158,28,5,0
+Duck,Poultry,337,19,28,0
+Mussels,Seafood,172,24,4,6
+Clams,Seafood,148,25,3,5
+Squid,Seafood,92,15,1.4,3.1
+Octopus,Seafood,164,28,4.6,5.5
+Cod,Fish,105,23,1,0
+Tuna,Fish,132,28,1,0
+Rainbow Trout,Fish,148,20,7,0
+Tilapia,Fish,96,20,2,0
+Oysters,Seafood,52,5,2,4.5
+Cottage Cheese,Dairy,206,28,10,6
+Ricotta Cheese,Dairy,174,14,11,3
+Milk,Dairy,42,3.4,1,5
+Heavy Cream,Dairy,52,0.4,5.5,0.4
+Butter,Dairy,102,0.1,11.5,0.1
+Skim Milk,Dairy,34,3.4,0.1,5
+Greek Cheese,Dairy,120,10,9,2
+Parmesan Cheese,Dairy,431,38,29,4
+Mozzarella Cheese,Dairy,280,20,22,3
+Feta Cheese,Dairy,264,14,21,4
+Cheddar Cheese,Dairy,402,25,33,1.3
+Herring,Fish,158,20,8,0
+Anchovies,Seafood,210,29,10,0
+Ravioli,Grain,252,8,10,34
+Spaghetti,Grain,131,5,1,25
+Bread,Grain,265,9,3.2,49
+Bagel,Grain,250,9,1.5,48
+Tortilla,Grain,150,4,4,25
+Croissant,Grain,231,5,12,29
+Pita Bread,Grain,170,6,1,35
+Quinoa,Grain,222,8,3.6,39
+Couscous,Grain,176,6,0.3,36
+Barley,Grain,352,12,1.3,73
+Millet,Grain,207,6,1.1,41
+Chia Seeds,Nuts,486,16,31,42
+Flax Seeds,Nuts,534,18,42,29
+Sunflower Seeds,Nuts,584,20,51,20
+Pumpkin Seeds,Nuts,559,30,49,16
+Walnuts,Nuts,654,15,65,14
+Pecans,Nuts,691,9,72,14
+Hazelnuts,Nuts,628,15,60,17
+Macadamia Nuts,Nuts,718,8,76,14
+Cashews,Nuts,553,18,44,30
+Pistachios,Nuts,559,20,45,28
+Papaya,Fruit,43,0.5,0.3,11
+Pomegranate,Fruit,83,1.7,1.2,19
+Plum,Fruit,46,0.7,0.3,11.4
+Grapes,Fruit,69,0.7,0.2,18.1
+Tangerine,Fruit,53,0.8,0.3,13.3
+Avocado,Fruit,160,2,15,9
+Peach,Fruit,39,0.9,0.3,9.6
+Lychee,Fruit,66,0.8,0.4,17
+Apricot,Fruit,48,0.5,0.4,12
+Coconut,Fruit,354,3.3,33.5,15.2
+Seaweed,Seafood,45,4.8,0.5,9.6
+Salmon,Fish,208,20,13,0
+Trout,Fish,148,20,7,0
+Swordfish,Fish,121,20,4,0
+Halibut,Fish,140,27,3.6,0
+Haddock,Fish,90,20,1,0
+Mahi Mahi,Fish,134,23,3,0
+Carp,Fish,127,21,4,0
+Perch,Fish,105,19,2,0
+Grouper,Fish,126,23,3,0
+Snapper,Fish,128,22,4,0
+Duck,Meat,337,19,28,0
+Goat Meat,Meat,143,27,3.5,0
+Bison,Meat,143,26,3,0
+Lamb,Meat,294,25,21,0
+Pork Belly,Meat,518,9,53,0
+Beef,Meat,250,26,15,0
+Chicken Drumstick,Meat,175,26,8.4,0
+Turkey Leg,Meat,170,26,7.5,0
+Rabbit,Meat,173,27,7,0
+Venison,Meat,158,28,5,0
+Lobster,Seafood,89,19,1,0
+Crab,Seafood,87,19,1,0
+Shrimp,Seafood,99,24,0.3,0.2
+Clams,Seafood,148,25,3,5
+Oysters,Seafood,52,5,2,4.5
+Squid,Seafood,92,15,1.4,3.1
+Octopus,Seafood,164,28,4.6,5.5
+Caviar,Seafood,264,25,18,0
+Eggs,Poultry,155,13,11,1.1
+Chicken Wings,Poultry,203,19,13.2,0
+Turkey Breast,Poultry,135,30,1,0
+Duck Breast,Poultry,337,19,28,0
+Tofu,Vegetarian,76,8,4.8,1.9
+Tempeh,Vegetarian,192,20,11,9.4
+Seitan,Vegetarian,370,75,1.5,14
+Mushrooms,Vegetable,22,3.1,0.3,3.3
+Kale,Vegetable,49,4.3,0.9,8.8
+Cauliflower,Vegetable,25,1.9,0.3,4.9
+Carrots,Vegetable,41,0.9,0.2,9.6
+Cabbage,Vegetable,25,1.3,0.1,5.8
+Brussels Sprouts,Vegetable,43,3.4,0.3,9
+Spinach,Vegetable,23,2.9,0.4,3.6
+Zucchini,Vegetable,17,1.2,0.3,3.1
+Asparagus,Vegetable,20,2.2,0.2,3.7
+Sweet Potato,Vegetable,86,1.6,0.1,20
+Cucumber,Vegetable,16,0.7,0.1,3.6
+Tomato,Vegetable,18,0.9,0.2,3.9
+Bell Pepper,Vegetable,20,0.9,0.2,4.7
+Onion,Vegetable,40,1.1,0.1,9.3
+Garlic,Vegetable,149,6.4,0.5,33.1
+Olives,Vegetable,115,0.8,11.8,6.3
+Chili Peppers,Vegetable,40,1.9,0.4,9.5
+Coconut Water,Drink,19,0.7,0.2,4.2
+Orange Juice,Drink,45,0.7,0.1,11
+Apple Juice,Drink,46,0.1,0.1,11.5
+Coconut Milk,Drink,445,4.4,48,6.9
+Almond Milk,Drink,39,1,2.5,1.4
+Soy Milk,Drink,45,3.6,1.8,3.9
+Coffee,Drink,2,0.3,0.1,0.4
+Green Tea,Drink,2,0.5,0,0.1
+Black Tea,Drink,2,0.1,0,0.5
+Name,Type,Calories,Proteins (g),Fats (g),Carbohydrates (g)
+Raspberries,Fruit,52,1.2,0.6,11.9
+Blackberries,Fruit,43,1.3,0.5,9.6
+Goji Berries,Fruit,83,3.6,0.4,21
+Cantaloupe,Fruit,34,0.9,0.2,8.2
+Honeydew Melon,Fruit,36,0.5,0.1,9.1
+Kiwi,Fruit,61,1.1,0.5,14.7
+Papaya,Fruit,59,0.9,0.2,15
+Pineapple,Fruit,50,0.5,0.1,13.1
+Guava,Fruit,68,2.6,0.9,14.3
+Mango,Fruit,60,0.8,0.4,15
+Cherries,Fruit,50,1,0.3,12
+Dragon Fruit,Fruit,50,1,0.1,11
+Cranberries,Fruit,46,0.4,0.1,12.2
+Apricot,Fruit,48,0.5,0.4,12
+Tangerine,Fruit,53,0.8,0.3,13.3
+Figs,Fruit,74,0.4,0.2,19.2
+Mulberries,Fruit,43,1,0.4,9.8
+Lychee,Fruit,66,0.8,0.4,17
+Blackcurrant,Fruit,63,1.6,0.3,15.4
+Pomegranate,Fruit,83,1.7,1.2,19
+Strawberries,Fruit,32,0.8,0.3,7.7
+Plum,Fruit,46,0.7,0.3,11.4
+Peach,Fruit,39,0.9,0.3,9.6
+Chia Seeds,Seeds,486,16,30.7,42.1
+Flaxseeds,Seeds,534,18.3,42.2,28.9
+Sunflower Seeds,Seeds,584,20.8,51.5,20
+Pumpkin Seeds,Seeds,446,18.5,19.4,54.2
+Hemp Seeds,Seeds,553,31.6,48.8,8.7
+Sesame Seeds,Seeds,573,17,49.7,23.4
+Poppy Seeds,Seeds,525,17,42.2,28.1
+Almonds,Nuts,575,21,49,22
+Cashews,Nuts,553,18,43,30.2
+Pistachios,Nuts,562,20,45,28
+Walnuts,Nuts,654,15,65,14
+Macadamia Nuts,Nuts,718,8,76,14
+Brazil Nuts,Nuts,659,14,66,12
+Peanuts,Nuts,567,25,49,16.1
+Hazelnuts,Nuts,628,15,60,17.4
+Chestnuts,Nuts,213,2.4,1.9,45.5
+Soybeans,Legumes,173,17,9,9.9
+Lentils,Legumes,116,9,0.4,20
+Chickpeas,Legumes,164,8.9,2.6,27.4
+Kidney Beans,Legumes,127,8.7,0.5,22.8
+Black Beans,Legumes,339,21.6,0.9,62.4
+Navy Beans,Legumes,140,9.6,0.8,25.1
+Peas,Legumes,81,5.4,0.4,14.5
+Mung Beans,Legumes,105,7,0.4,18.7
+White Beans,Legumes,139,9.2,0.5,25.1
+Pinto Beans,Legumes,143,9,0.8,27.2
+Cabbage,Vegetable,25,1.3,0.1,5.8
+Brussels Sprouts,Vegetable,43,3.4,0.3,9
+Cauliflower,Vegetable,25,1.9,0.3,4.9
+Spinach,Vegetable,23,2.9,0.4,3.6
+Zucchini,Vegetable,17,1.2,0.3,3.1
+Kale,Vegetable,49,4.3,0.9,8.8
+Carrots,Vegetable,41,0.9,0.2,9.6
+Cucumbers,Vegetable,16,0.7,0.1,3.6
+Tomato,Vegetable,18,0.9,0.2,3.9
+Bell Pepper,Vegetable,20,0.9,0.2,4.7
+Onion,Vegetable,40,1.1,0.1,9.3
+Garlic,Vegetable,149,6.4,0.5,33.1
+Olives,Vegetable,115,0.8,11.8,6.3
+Sweet Potato,Vegetable,86,1.6,0.1,20
+Potatoes,Vegetable,77,2,0.1,17.5
+Eggplant,Vegetable,25,1,0.2,5.9
+Artichokes,Vegetable,47,3.3,0.2,10.5
+Celery,Vegetable,14,0.7,0.2,3
+Beets,Vegetable,43,1.6,0.2,9.6
+Asparagus,Vegetable,20,2.2,0.2,3.7
+Chili Peppers,Vegetable,40,1.9,0.4,9.5
+Coconut,Vegetable,354,3.3,33.5,15.2
+Caesar Salad,Starter,180,5,14,10
+Tomato Soup,Starter,120,2,5,18
+Bruschetta,Starter,220,4,8,28
+Fried Calamari,Starter,250,10,14,22
+Spinach and Artichoke Dip,Starter,300,6,25,18
+Lobster Bisque,Starter,350,15,28,12
+Minestrone Soup,Starter,150,5,4,25
+French Fries,Side,365,4,17,50
+Mashed Potatoes,Side,210,3,9,32
+Garlic Bread,Side,150,4,6,22
+Steamed Vegetables,Side,100,3,1,20
+Baked Potato,Side,160,4,0,37
+Grilled Asparagus,Side,70,2,4,8
+Chicken Parmesan,Main Course,600,40,25,50
+Beef Wellington,Main Course,900,45,45,55
+Lamb Chops,Main Course,700,60,40,8
+Chicken Alfredo,Main Course,800,35,45,60
+Salmon Fillet,Main Course,450,35,20,10
+Vegetable Stir Fry,Main Course,300,12,8,45
+Seafood Paella,Main Course,650,40,15,80
+Spaghetti Bolognese,Main Course,550,25,20,75
+Grilled Steak,Main Course,700,60,35,0
+Pork Schnitzel,Main Course,850,40,45,50
+Vegetable Lasagna,Main Course,350,15,18,40
+Beef Tacos,Main Course,450,25,20,45
+Chicken Tikka Masala,Main Course,550,30,30,50
+Pad Thai,Main Course,400,15,20,55
+Quinoa Salad,Main Course,350,10,8,45
+Margherita Pizza,Main Course,300,12,10,35
+Pepperoni Pizza,Main Course,400,15,18,45
+Vegetable Pizza,Main Course,350,12,15,40
+Chocolate Cake,Dessert,350,4,18,50
+Tiramisu,Dessert,450,6,25,40
+Cheesecake,Dessert,500,6,35,40
+Apple Pie,Dessert,300,2,14,45
+Crème Brûlée,Dessert,250,4,15,22
+Lemon Sorbet,Dessert,150,1,0,35
+Panna Cotta,Dessert,300,4,20,30
+Brownie,Dessert,400,5,22,50
+Pavlova,Dessert,200,3,8,35
+Mango Sticky Rice,Dessert,350,4,10,65
+Fruit Salad,Dessert,150,2,1,35
+Gelato,Dessert,220,3,12,27
+Sushi,Appetizer,200,10,5,35
+Sashimi,Appetizer,150,30,5,0
+Tempura,Appetizer,250,10,15,25
+Spring Rolls,Appetizer,150,3,8,25
+Charcuterie Board,Appetizer,500,20,35,25
+Antipasto,Appetizer,400,18,28,22
+Ratatouille,Main Course,300,10,12,40
+Chicken Kiev,Main Course,550,30,35,30
+Steak Frites,Main Course,700,50,35,45
+Duck Confit,Main Course,750,45,60,15
+Vegetarian Curry,Main Course,400,15,15,60
+Moussaka,Main Course,500,20,30,50
+Beef Empanadas,Main Course,350,15,20,30
+Chicken Shawarma,Main Course,500,35,25,30
+Falafel,Main Course,300,12,10,45
+Biryani,Main Course,650,20,30,85
+Tom Yum Soup,Starter,200,15,7,10
+Lobster Roll,Main Course,700,30,35,50
+Paella Valenciana,Main Course,650,25,18,80
+Fettuccine Alfredo,Main Course,800,20,45,60
+Baked Ziti,Main Course,500,20,20,70
+Chicken Cacciatore,Main Course,600,40,20,35
+Beef Bourguignon,Main Course,800,45,35,50
+Fish and Chips,Main Course,750,30,35,70
+Risotto,Main Course,450,15,10,75
+Linguine with Clams,Main Course,550,30,20,60
+Pork Belly,Main Course,800,50,60,10
+Tomato Basil Soup,Starter,180,4,8,25
+Steak Salad,Main Course,550,40,20,10
+Baked Salmon,Main Course,350,30,20,5
+Crab Cakes,Appetizer,300,15,18,25
+Stuffed Mushrooms,Appetizer,200,5,15,15
+Chicken Satay,Appetizer,250,20,10,10
+Baked Brie,Appetizer,400,15,35,10
+Beef Carpaccio,Appetizer,220,20,15,5
+Pork Belly Buns,Appetizer,350,18,22,25
+Grilled Shrimp Cocktail,Appetizer,150,20,6,8
+Chili Crab,Main Course,550,40,22,30
+Beef Tenderloin,Main Course,600,50,25,10
+Lobster Tail,Main Course,300,25,15,5
+Grilled Mahi Mahi,Main Course,350,35,15,10
+Lamb Rack,Main Course,700,55,35,15
+Chicken Marsala,Main Course,450,40,20,30
+Osso Buco,Main Course,800,55,40,50
+Braised Short Ribs,Main Course,650,45,30,25
+Baked Cod,Main Course,250,25,10,5
+Eggplant Parmesan,Main Course,400,20,18,40
+Chilean Sea Bass,Main Course,500,35,25,8
+Vegetarian Burrito,Main Course,600,20,18,80
+Vegetable Samosas,Main Course,350,10,15,40
+Chicken Tenders,Main Course,400,25,20,30
+Grilled Veggie Burger,Main Course,350,15,10,40
+Seafood Risotto,Main Course,700,35,25,75
+Pork Ribs,Main Course,850,50,50,40
+Duck Breast,Main Course,600,40,35,15
+Crispy Chicken Thighs,Main Course,450,35,30,15
+Grilled Swordfish,Main Course,400,35,18,10
+Vegetable Tempura,Main Course,300,8,12,35
+Chicken Pot Pie,Main Course,550,25,30,45
+Beef Chili,Main Course,500,30,25,30
+Chili Con Carne,Main Course,600,35,22,40
+Clams Casino,Appetizer,250,12,15,15
+Mussels Marinara,Appetizer,200,15,10,12
+Beef and Cheese Empanadas,Appetizer,350,20,15,30
+Prawn Cocktail,Appetizer,180,20,5,5
+Grilled Octopus,Appetizer,220,25,8,6
+Caviar,Appetizer,100,6,8,1
+Fried Green Tomatoes,Appetizer,200,5,12,20
+Focaccia Bread,Side,180,6,10,20
+Pasta Salad,Side,220,5,12,30
+Cucumber Salad,Side,100,3,1,18
+Quinoa Pilaf,Side,180,6,8,30
+Braised Vegetables,Side,120,4,5,20
+Corn on the Cob,Side,150,4,1,35
+Grilled Corn,Side,180,5,8,30
+Mac and Cheese,Side,300,15,18,30
+Baked Beans,Side,200,8,8,30
+Chana Masala,Side,250,12,10,35
+Roasted Sweet Potatoes,Side,180,4,6,40
+Zucchini Fritters,Side,220,6,15,20
+Pineapple Upside-Down Cake,Dessert,350,3,18,50
+Churros,Dessert,250,4,15,30
+Profiteroles,Dessert,300,5,20,30
+Fruit Tart,Dessert,400,5,22,40
+Chocolate Mousse,Dessert,350,6,20,40
+Lemon Meringue Pie,Dessert,300,5,15,40
+Apple Crisp,Dessert,350,2,12,55
+Crepes with Nutella,Dessert,400,6,18,55
+Banoffee Pie,Dessert,500,4,30,50
+Tropical Sorbet,Dessert,150,1,0,35
+Raspberry Coulis,Dessert,150,2,0,35
+Tiramisu Parfait,Dessert,400,6,25,40
+Carrot Cake,Dessert,350,5,20,45
+Baklava,Dessert,350,6,20,50
+Rice Pudding,Dessert,250,5,7,40
+Chocolate Soufflé,Dessert,450,8,22,50
+Pavlova with Berries,Dessert,200,5,8,35
+Yogurt Parfait,Dessert,180,8,3,28
+Saffron Ice Cream,Dessert,250,6,10,35
+Beef Wellington,Main Course,850,50,45,50
+Lobster Bisque,Soup,350,20,25,15
+Clam Chowder,Soup,300,15,20,25
+French Onion Soup,Soup,250,10,15,20
+Pumpkin Soup,Soup,180,4,10,25
+Shrimp Scampi,Main Course,400,30,18,20
+Grilled Trout,Main Course,350,30,15,10
+Lobster Newberg,Main Course,500,35,35,10
+Salmon En Papillote,Main Course,400,35,18,5
+Seafood Paella,Main Course,600,40,25,50
+Beef Bolognese,Main Course,550,35,25,50
+Chicken Alfredo,Main Course,700,40,30,60
+Chateaubriand,Main Course,750,60,40,10
+Veal Schnitzel,Main Course,650,45,30,45
+Chicken Kiev,Main Course,500,30,35,20
+Duck Confit,Main Course,700,50,40,25
+Roast Leg of Lamb,Main Course,600,50,30,10
+Eggplant Rollatini,Main Course,400,20,20,35
+Lobster Mac and Cheese,Side,550,25,35,50
+Grilled Asparagus,Side,80,4,5,10
+Truffle Mashed Potatoes,Side,300,5,20,35
+Garlic Bread,Side,250,6,12,35
+Caesar Salad,Side,350,10,25,15
+Caprese Salad,Side,200,6,15,12
+Chilled Beet Salad,Side,150,4,8,20
+Tabbouleh,Side,180,6,8,25
+Polenta Fries,Side,250,5,15,30
+Risotto Primavera,Side,350,8,15,45
+Roasted Brussels Sprouts,Side,180,6,10,15
+Miso Soup,Soup,120,8,3,15
+Spicy Tuna Tartare,Appetizer,200,20,12,5
+Crispy Calamari,Appetizer,350,15,20,30
+Seared Ahi Tuna,Appetizer,250,25,10,10
+Foie Gras,Appetizer,500,20,45,5
+Chilled Lobster Tail,Appetizer,220,20,15,2
+Steamed Dumplings,Appetizer,300,15,12,35
+Chicken Quesadilla,Appetizer,350,20,18,30
+Beef Empanadas,Appetizer,250,10,15,20
+Fried Shrimp,Appetizer,300,15,18,25
+Jalapeño Poppers,Appetizer,250,6,20,15
+Peking Duck,Main Course,750,40,50,20
+Chicken Parmesan,Main Course,650,40,30,50
+Braised Lamb Shanks,Main Course,800,55,45,20
+Beef Brisket,Main Course,700,50,35,25
+Tuna Poke,Main Course,350,35,15,15
+Pasta Primavera,Main Course,450,15,12,60
+Risotto with Truffles,Main Course,700,12,30,80
+Barbecue Ribs,Main Course,800,45,50,40
+Grilled Chicken Caesar Wrap,Main Course,550,40,25,40
+Vegetable Lasagna,Main Course,400,18,20,50
+Grilled Sea Bass,Main Course,500,40,25,15
+Pasta Carbonara,Main Course,650,30,30,60
+Saltimbocca,Main Course,500,45,25,20
+Baked Ziti,Main Course,600,25,25,75
+Vegetarian Chili,Main Course,350,15,10,50
+Chicken Shawarma,Main Course,450,35,20,40
+Lamb Kofta,Main Course,500,35,30,10
+Grilled Steak Frites,Main Course,700,45,40,50
+Moussaka,Main Course,600,30,30,50
+Stuffed Bell Peppers,Main Course,350,20,15,40
+Crispy Tofu Stir-Fry,Main Course,400,20,15,45
+Vegetable Curry,Main Course,350,10,15,50
+Mahi Mahi Tacos,Main Course,400,30,20,30
+Pulled Pork Sandwich,Main Course,550,30,25,50
+Pasta Bolognese,Main Course,650,35,30,60
+Cheese Fondue,Side,500,15,30,35
+French Fries,Side,400,5,20,55
+Sautéed Spinach,Side,120,5,8,10
+Sweet Potato Fries,Side,250,4,14,35
+Chilled Gazpacho,Soup,150,4,6,25
+Roasted Tomato Soup,Soup,200,7,10,25
+Pappardelle with Ragu,Main Course,700,30,35,70
+Blackened Catfish,Main Course,450,40,20,15
+Chicken Piccata,Main Course,500,45,25,15
+Beef Tenderloin,Main Course,700,50,35,10
+Lobster Tail,Main Course,600,40,35,5
+Pan-Seared Scallops,Main Course,250,30,15,5
+Duck Breast,Main Course,500,35,30,10
+Lamb Rack,Main Course,650,50,35,15
+Grilled Swordfish,Main Course,400,40,18,5
+Pasta Alfredo,Main Course,750,25,35,80
+Eggplant Parmesan,Main Course,350,20,15,40
+Grilled Chicken Tacos,Main Course,400,30,15,30
+Braised Short Ribs,Main Course,800,55,50,25
+Crab Cakes,Appetizer,300,20,15,25
+Tuna Tartare,Appetizer,220,25,12,5
+Crispy Tempura,Appetizer,250,10,15,30
+Mushroom Risotto,Side,500,10,20,70
+Truffle Fries,Side,450,5,25,60
+Garlic Mashed Potatoes,Side,350,6,15,40
+Roasted Sweet Potatoes,Side,200,4,5,40
+Quinoa Salad,Side,220,8,7,35
+Grilled Corn on the Cob,Side,150,5,1,30
+Steamed Broccoli,Side,100,5,1,20
+Cauliflower Gratin,Side,250,6,15,20
+Chilled Avocado Soup,Soup,200,5,15,15
+Tom Yum Soup,Soup,150,7,5,20
+Pho,Main Course,400,25,12,50
+Pad Thai,Main Course,600,20,25,70
+Fried Rice,Side,350,8,10,60
+Peking Duck Pancakes,Main Course,700,40,45,30
+Szechuan Beef,Main Course,600,40,30,30
+Chicken Tikka Masala,Main Course,550,40,30,20
+Lamb Rogan Josh,Main Course,650,45,35,20
+Saag Paneer,Main Course,400,25,30,15
+Vegetable Korma,Main Course,350,10,20,50
+Chana Masala,Main Course,300,12,5,45
+Biryani,Main Course,700,20,30,85
+Chicken Shawarma,Main Course,500,30,25,35
+Falafel,Appetizer,200,8,10,25
+Hummus and Pita,Appetizer,250,7,12,30
+Stuffed Grape Leaves,Appetizer,150,5,8,20
+Baba Ganoush,Appetizer,180,4,12,15
+Baklava,Dessert,300,4,18,30
+Tiramisu,Dessert,450,8,25,50
+Panna Cotta,Dessert,350,6,22,30
+Crème Brûlée,Dessert,400,6,25,40
+Churros,Dessert,300,4,15,40
+Coconut Cake,Dessert,500,8,20,60
+Chocolate Soufflé,Dessert,350,7,15,40
+Profiteroles,Dessert,200,5,10,20
+Lemon Meringue Pie,Dessert,400,6,20,50
+Apple Pie,Dessert,300,2,15,40
+Peach Cobbler,Dessert,350,3,15,50
+Gingerbread Cake,Dessert,300,3,10,45
+Pineapple Upside Down Cake,Dessert,350,3,15,50
+New York Cheesecake,Dessert,450,6,30,40
+Butter Chicken,Main Course,500,35,30,15
+Paneer Butter Masala,Main Course,450,20,30,25
+Chicken Biryani,Main Course,700,35,30,85
+Vegetable Biryani,Main Course,650,15,20,90
+Rogan Josh,Main Course,550,40,30,25
+Dal Tadka,Main Course,350,15,12,50
+Aloo Gobi,Main Course,200,5,8,30
+Palak Paneer,Main Course,350,20,20,30
+Chole Bhature,Main Course,750,15,25,100
+Pav Bhaji,Main Course,450,10,20,70
+Pani Puri,Appetizer,150,2,5,30
+Samosa,Appetizer,250,5,15,30
+Pakora,Appetizer,200,4,12,25
+Dhokla,Appetizer,120,4,2,25
+Vada Pav,Appetizer,350,8,18,45
+Methi Thepla,Snack,250,7,10,35
+Kachori,Snack,250,6,12,30
+Chana Chaat,Snack,200,8,5,35
+Gulab Jamun,Dessert,150,3,7,25
+Jalebi,Dessert,200,3,8,30
+Ras Malai,Dessert,250,6,10,35
+Kheer,Dessert,300,6,12,40
+Gajar Halwa,Dessert,350,6,18,45
+Laal Maas,Main Course,600,40,35,20
+Bhel Puri,Snack,200,5,10,30
+Pulao,Main Course,400,10,12,60
+Malai Kofta,Main Course,500,20,30,40
+Tandoori Chicken,Main Course,300,35,10,5
+Seekh Kebabs,Main Course,400,30,25,5
+Baingan Bharta,Main Course,250,6,12,30
+Mutton Korma,Main Course,600,45,35,15
+Fish Curry,Main Course,450,35,20,15
+Pesarattu,Snack,200,8,6,30
+Aloo Paratha,Main Course,300,7,10,40
+Gobi Paratha,Main Course,250,5,8,35
+Pesarattu,Snack,200,8,6,30
+Chili Paneer,Main Course,450,18,30,20
+Methi Malai Murg,Main Course,500,40,35,10
+Kadhi Pakora,Main Course,350,15,20,40
+Tandoori Roti,Side,120,4,1,25
+Naan,Side,200,6,3,35
+Roti,Side,100,3,1,20
+Lassi,Drink,200,5,10,20
+Masala Chai,Drink,100,2,3,10
+Sweet and Sour Chicken,Main Course,400,25,15,35
+Kung Pao Chicken,Main Course,450,30,20,30
+General Tso's Chicken,Main Course,500,35,22,45
+Beef and Broccoli,Main Course,350,25,15,25
+Kung Pao Shrimp,Main Course,350,30,12,25
+Chop Suey,Main Course,300,15,10,35
+Szechuan Chicken,Main Course,450,30,18,35
+Egg Foo Young,Main Course,350,20,22,20
+Hot and Sour Soup,Appetizer,150,8,7,15
+Wonton Soup,Appetizer,180,10,8,20
+Spring Rolls,Appetizer,200,3,10,25
+Dumplings,Appetizer,250,8,12,30
+Fried Rice,Side,200,4,10,25
+Yangzhou Fried Rice,Side,300,7,12,40
+Lo Mein,Side,250,6,9,35
+Chow Mein,Side,350,7,15,45
+Steamed Buns,Side,150,5,5,25
+Scallion Pancakes,Snack,200,5,10,25
+Dim Sum,Snack,180,6,8,20
+Beef Chow Fun,Main Course,400,30,18,40
+Eggplant with Garlic Sauce,Main Course,300,5,12,40
+Sesame Chicken,Main Course,500,30,25,45
+Mongolian Beef,Main Course,550,35,20,50
+Shrimp with Lobster Sauce,Main Course,400,30,18,25
+Ma Po Tofu,Main Course,350,15,20,25
+Lemon Chicken,Main Course,350,25,15,30
+Crispy Duck,Main Course,600,45,35,20
+Peking Duck,Main Course,700,50,45,25
+Chicken with Cashew Nuts,Main Course,400,30,18,30
+Steamed Fish,Main Course,200,35,10,5
+Chinese BBQ Pork,Main Course,450,30,25,35
+Beef with Black Bean Sauce,Main Course,400,35,20,25
+Sizzling Rice Soup,Appetizer,200,8,6,30
+Fried Tofu with Vegetables,Main Course,350,18,15,30
+Chinese Chicken Salad,Appetizer,250,20,10,20
+Sesame Noodles,Side,300,10,15,40
+Chinese Hot Pot,Main Course,350,20,12,35
+Chili Oil Noodles,Main Course,400,15,18,45
+Pork and Cabbage Dumplings,Appetizer,250,12,12,30
+Sichuan Shrimp,Main Course,400,30,15,35
+Vegetable Spring Rolls,Appetizer,150,3,7,20
+Pork Belly with Pickled Vegetables,Main Course,600,40,30,50
+Shandong Chicken,Main Course,450,30,20,40
+Margherita Pizza,Main Course,250,12,10,30
+Pepperoni Pizza,Main Course,300,14,14,35
+Lasagna,Main Course,350,20,15,40
+Spaghetti Bolognese,Main Course,450,25,18,50
+Fettuccine Alfredo,Main Course,500,18,30,50
+Penne Arrabbiata,Main Course,400,15,18,50
+Risotto alla Milanese,Main Course,450,12,20,60
+Caprese Salad,Appetizer,200,8,15,10
+Bruschetta,Appetizer,150,4,7,20
+Minestrone Soup,Appetizer,250,8,6,30
+Antipasto Salad,Appetizer,300,10,22,15
+Gnocchi,Main Course,350,10,18,40
+Ravioli,Main Course,400,14,20,45
+Osso Buco,Main Course,500,35,30,35
+Chicken Parmesan,Main Course,550,40,30,50
+Eggplant Parmesan,Main Course,450,20,25,50
+Frittata,Main Course,300,18,18,10
+Pasta Primavera,Main Course,400,15,12,60
+Carbonara,Main Course,500,20,25,45
+Pappardelle with Duck Ragu,Main Course,550,30,30,50
+Polenta,Side,200,5,10,30
+Ciabatta Bread,Side,180,6,3,35
+Focaccia Bread,Side,220,8,10,30
+Tiramisu,Dessert,300,6,15,35
+Cannoli,Dessert,250,5,15,30
+Panna Cotta,Dessert,350,7,20,30
+Gelato,Dessert,200,5,10,25
+Zabaglione,Dessert,200,6,10,18
+Ricotta Cheesecake,Dessert,350,12,18,40
+Affogato,Drink/Dessert,250,5,15,20
+Limoncello,Drink,150,0,0,15
+Negroni,Drink,180,0,0,10
+Espresso,Drink,2,0,0,0
+Cappuccino,Drink,150,8,7,15
+Latte,Drink,120,8,6,12
+Hamburger,Main Course,300,20,15,30
+Cheeseburger,Main Course,350,22,18,30
+Hot Dog,Main Course,250,12,12,20
+Buffalo Wings,Appetizer,300,20,20,10
+Mac and Cheese,Main Course,400,15,20,40
+BBQ Ribs,Main Course,500,30,30,25
+Fried Chicken,Main Course,400,25,20,25
+Clam Chowder,Appetizer,250,10,15,20
+Caesar Salad,Appetizer,200,8,12,15
+Coleslaw,Side,150,2,10,15
+Cornbread,Side,200,4,8,30
+Pulled Pork Sandwich,Main Course,500,30,25,40
+Steak and Potatoes,Main Course,600,45,25,40
+Grilled Cheese,Main Course,350,10,20,35
+Tater Tots,Side,150,3,8,20
+BLT Sandwich,Main Course,400,15,20,40
+Cobb Salad,Appetizer,450,30,25,30
+Philly Cheesesteak,Main Course,600,35,30,45
+Pastrami on Rye,Main Course,500,30,25,50
+Chicken and Waffles,Main Course,600,35,30,50
+Chili,Main Course,350,20,15,35
+Sloppy Joes,Main Course,450,25,20,45
+Pork Schnitzel,Main Course,500,30,25,40
+Grilled Salmon,Main Course,400,35,15,10
+New England Lobster Roll,Main Course,550,30,25,40
+Beef Wellington,Main Course,700,40,35,50
+Fried Green Tomatoes,Appetizer,250,5,15,30
+Chicken Pot Pie,Main Course,500,20,25,40
+Meatloaf,Main Course,450,25,20,35
+Crispy Fish Tacos,Main Course,400,20,15,45
+Pork Belly Sliders,Main Course,450,25,25,30
+Shrimp and Grits,Main Course,500,25,20,50
+Biscuits and Gravy,Main Course,450,15,25,40
+Egg Salad Sandwich,Main Course,350,15,18,30
+Potato Salad,Side,200,4,10,25
+Tomato Soup,Appetizer,150,6,6,20
+Eggnog,Drink,223,6,12,20
+Iced Tea,Drink,80,0,0,20
+Milkshake,Drink,450,8,20,60
+Apple Pie,Dessert,300,2,15,40
+Cheesecake,Dessert,350,10,20,35
+Brownies,Dessert,250,4,15,30
+Pumpkin Pie,Dessert,320,4,15,45
+Pecan Pie,Dessert,400,4,25,50
+Sushi,Main Course,200,20,10,30
+Sashimi,Main Course,150,25,5,0
+Tempura,Main Course,400,20,25,30
+Ramen,Main Course,450,20,20,50
+Udon,Main Course,350,10,10,50
+Yakitori,Main Course,250,20,10,5
+Tonkatsu,Main Course,600,40,30,40
+Katsu Don,Main Course,700,40,35,60
+Chirashi,Main Course,400,25,10,50
+Takoyaki,Snack,250,10,15,25
+Okonomiyaki,Main Course,500,25,25,50
+Onigiri,Snack,200,6,5,35
+Miso Soup,Appetizer,100,6,3,10
+Edamame,Appetizer,150,14,8,15
+Gyoza,Appetizer,250,12,12,30
+Shabu Shabu,Main Course,450,35,20,20
+Unagi Don,Main Course,600,40,30,50
+Donburi,Main Course,500,25,15,55
+Omurice,Main Course,550,20,25,60
+Kare Raisu (Curry Rice),Main Course,650,25,30,70
+Oyakodon,Main Course,600,35,20,50
+Chashu Ramen,Main Course,700,30,30,80
+Ebi Fry,Main Course,500,20,25,40
+Agedashi Tofu,Appetizer,250,10,15,15
+Tamago Sushi,Main Course,150,10,5,20
+Kaisen Don,Main Course,500,30,10,60
+Sukiyaki,Main Course,600,35,25,50
+Soba,Main Course,350,12,8,50
+Zaru Soba,Main Course,300,8,2,50
+Chawanmushi,Appetizer,150,10,5,10
+Tamagoyaki,Snack,200,10,12,15
+Nabe,Main Course,500,30,20,40
+Kakiage,Appetizer,250,8,12,30
+Yaki Imo,Snack,180,2,2,40
+Atsuage,Appetizer,350,15,20,25
+Mochi,Snack,150,3,5,25
+Dorayaki,Snack,250,5,10,40
+Daifuku,Snack,200,4,6,30
+Taiyaki,Snack,300,8,10,40
+Kibi Dango,Snack,180,3,6,30
+Kakigori,Dessert,200,3,1,40
+Anmitsu,Dessert,250,5,5,45
+Matcha Ice Cream,Dessert,150,4,7,20
+Yuzu Sorbet,Dessert,120,1,3,25
+Hōtō,Main Course,500,20,15,65
+Gyudon,Main Course,550,25,20,70
+Tamagoyaki Bento,Main Course,450,15,20,55
+Saba Shioyaki,Main Course,400,30,20,0

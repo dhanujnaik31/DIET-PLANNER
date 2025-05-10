@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Results</title>
+    <!-- Link to CSS here if not in base.html -->
+</head>
+<body>
+    {% extends 'base.html' %}
+
+    {% block content %}
+        <div class="results-container">
+            <h2>Your Results</h2>
+
+            {% if bmi %}
+                <div class="bmi-info">
+                    <p><strong>BMI:</strong> {{ bmi }}</p>
+                    <p><strong>Category:</strong> {{ category }}</p>
+                </div>
+            {% endif %}
+
+            {% if matches %}
+                <div class="recognized-foods">
+                    <h3>Recognized Foods:</h3>
+                    <ul>
+                        {% for match in matches %}
+                            <li class="food-item">
+                                <h4>{{ match.food_item }}</h4> <!-- Ensure 'food_item' matches your backend variable -->
+                                <p><strong>Description:</strong> {{ match.description }}</p> <!-- Ensure 'description' matches -->
+                                <p><strong>Ingredients:</strong> {{ match.ingredients }}</p> <!-- Ensure 'ingredients' matches -->
+                                <p><strong>Calories:</strong> {{ match.calories }} kcal</p> <!-- Ensure 'calories' matches -->
+                                <div class="food-image">
+                                    <img src="{{ match.image }}" alt="Image of {{ match.food_item }}" class="food-img">
+                                </div>
+                            </li>
+                        {% endfor %}
+                    </ul>
+                </div>
+            {% else %}
+                <p>No matching food found. Detected labels: <strong>{{ labels|join:', ' }}</strong></p>
+            {% endif %}
+        </div>
+
+        <footer>
+            &copy; 2024 Diet Planner - Your Personalized Diet Planner
+        </footer>
+    {% endblock %}
+</body>
+</html>

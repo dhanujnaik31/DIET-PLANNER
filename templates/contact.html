@@ -1,0 +1,43 @@
+{% extends "base.html" %}
+
+{% block content %}
+    <div class="contact-container">
+        <h1>Contact Us</h1>
+        <p>For any inquiries or support, feel free to reach out to us!</p>
+        
+        <div class="contact-info">
+            <h2>Our Contact Information</h2>
+            <p>Email: support@DietPlanner.com</p>
+            <p>Phone: +1 (234) 567-8901</p>
+            <p>Address: 123 Healthy Street, Wellness City, Fitland 45678</p>
+        </div>
+
+        <div class="contact-form">
+            <h2>Send Us a Message</h2>
+            <form action="/Diet Planner/send-message" method="post" onsubmit="showThankYouMessage(event)">
+                <label for="name">Your Name:</label>
+                <input type="text" id="name" name="name" required>
+        
+                <label for="email">Your Email:</label>
+                <input type="email" id="email" name="email" required>
+        
+                <label for="message">Your Message:</label>
+                <textarea id="message" name="message" rows="5" required></textarea>
+        
+                <button type="submit" class="btn">Send Message</button>
+            </form>
+        </div>
+        
+        <script>
+            function showThankYouMessage(event) {
+                event.preventDefault();  // Prevent form submission for now (you can submit via AJAX if needed)
+                alert('Thank you!!');  // Custom message with project name
+        
+                // After the alert, submit the form manually (if needed, for regular form submission)
+                // event.target.submit();
+            }
+        </script>
+        
+        
+        
+{% endblock %}

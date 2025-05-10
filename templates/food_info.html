@@ -1,0 +1,8 @@
+<h3>Detected Foods and Their Nutritional Information</h3>
+{% for food in food_info %}
+  <p><strong>{{ food.Food }}</strong><br>
+  Calories: {{ food.Calories }} Kcal<br>
+  Proteins: {{ food.Proteins }} g<br>
+  Fats: {{ food.Fats }} g<br>
+  Carbohydrates: {{ food.Carbohydrates }} g</p>
+{% endfor %}

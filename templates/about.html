@@ -1,0 +1,40 @@
+{% extends 'base.html' %}
+
+{% block content %}
+    <div class="about-container">
+        <h1>About Diet Planner</h1>
+        <p><h3>Diet Planner is your ultimate health companion, designed to help you stay fit and healthy. Our platform offers personalized diet recommendations, fitness tips, and meal suggestions based on your BMI and dietary preferences.</h3></p>
+
+        <div class="about-sections">
+            <!-- Mission Section -->
+            <section class="about-section">
+                <h2>Our Mission</h2>
+                <p>Our mission is to make healthy living accessible to everyone. Whether you are looking to lose weight, maintain a healthy diet, or improve your overall wellness, Calorie Craft is here to guide you every step of the way.</p>
+                <img src="{{ url_for('static', filename='../static/images/mission.jpg') }}" alt="How It Works" class="about-img">
+            </section>
+        
+            <!-- How It Works Section -->
+            <section class="about-section">
+                <h2>How It Works</h2>
+                <p>Calorie Craft uses advanced algorithms to analyze your dietary needs. By inputting your weight, height, and other health details, we provide you with personalized diet plans and track your daily calorie intake.</p>
+                <img src="{{ url_for('static', filename='../static/images/how-it-works.jpg') }}" alt="How It Works" class="about-img">
+            </section>
+        
+            <!-- Our Vision Section -->
+            <section class="about-section">
+                <h2>Our Vision</h2>
+                <p>We envision a world where everyone has the tools and knowledge to make healthy choices effortlessly. Join us on this journey to better health and well-being!</p>
+                <img src="{{ url_for('static', filename='../static/images/vision.jpg') }}" alt="Our Vision" class="about-img">
+            </section>
+        
+            <!-- Why Choose Us Section (New Section) -->
+            <section class="about-section">
+                <h2>Why Choose Us?</h2>
+                <p>At Diet Planner, Our personalized recommendations are backed by science and designed to fit your unique needs.  we aim to help you maintain a  healthy lifestyle in the long run.</p>
+                <img src="{{ url_for('static', filename='../static/images/why-choose-us.jpg') }}" alt="Why Choose Us" class="about-img">
+            </section>
+        </div>
+        
+        
+    </div>
+{% endblock %}

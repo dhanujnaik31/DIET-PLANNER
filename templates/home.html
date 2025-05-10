@@ -1,0 +1,30 @@
+{% extends 'base.html' %}
+
+{% block content %}
+    <div class="recommend-container">
+        <h1>Welcome to DietPlanner</h1>
+        <p>Personalized diet recommendations.</p>
+
+        <form method="POST" action="/recommend" class="recommend-form">
+            <label for="age">Age:</label>
+            <input type="number" id="age" name="age" placeholder="Age" required>
+
+            <label for="height">Height (cm):</label>
+            <input type="number" id="height" name="height" placeholder="Height (cm)" required>
+
+            <label for="weight">Weight (kg):</label>
+            <input type="number" id="weight" name="weight" placeholder="Weight (kg)" required>
+
+            <label for="gender">Gender:</label>
+            <select name="gender" id="gender" required>
+                <option value="male">Male</option>
+                <option value="female">Female</option>
+            </select>
+
+            <label for="allergies">Allergies (optional):</label>
+            <input type="text" id="allergies" name="allergies" placeholder="Allergies (optional)">
+
+            <button type="submit">Get Recommendations</button>
+        </form>
+    </div>
+{% endblock %}

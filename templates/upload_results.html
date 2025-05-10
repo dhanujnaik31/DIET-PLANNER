@@ -1,0 +1,37 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<div class="upload-results-container">
+    <h1>Food Image Recognition Results</h1>
+
+    {% if image_url %}
+    <div class="uploaded-image">
+        <h2>Uploaded Image:</h2>
+        <img src="{{ image_url }}" alt="Uploaded Image" class="uploaded-img">
+    </div>
+    {% endif %}
+
+    {% if message %}
+    <div class="message">
+        <p>{{ message }}</p>
+    </div>
+    {% endif %}
+
+    {% if foods %}
+    <div class="matched-foods">
+        <h2>Matched Foods:</h2>
+        <ul>
+            {% for food in foods %}
+            <li class="food-item">
+                <strong>{{ food['Name'] }}</strong> - 
+                Calories: {{ food['Calories'] }} kcal, 
+                Proteins: {{ food['Proteins'] }}g, 
+                Fats: {{ food['Fats'] }}g, 
+                Carbohydrates: {{ food['Carbohydrates'] }}g
+            </li>
+            {% endfor %}
+        </ul>
+    </div>
+    {% endif %}
+</div>
+{% endblock %}
